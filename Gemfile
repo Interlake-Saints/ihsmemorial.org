@@ -7,5 +7,5 @@ gem "csv"
 gem "jekyll"
 
 group :jekyll_plugins do
-  gem "jekyll-theme-chirpy", "3.2.2"
+  gem "jekyll-theme-chirpy", "5.6.0"
 end
