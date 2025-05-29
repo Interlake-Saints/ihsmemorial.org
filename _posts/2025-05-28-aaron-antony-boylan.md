@@ -6,7 +6,7 @@ date: 2025-03-26
 categories:
   - class-of-2002
 images:
-  - /assets/aaronboylanpics.jpg
+  - /assets/aaronboylanpics2.jpg
 gender: male
 ---
 Aaron grew up in the Redmond area, attending Horace Mann Elementary and Redmond Junior High before attending and graduating from Interlake. As a boy, he enjoyed baseball, soccer, Boy Scouts, and Civil Air Patrol - he even made it to Philmont as a scout. His love of planes began early and never faded.
