@@ -30,4 +30,6 @@ Nancy's heartache was the loss of her son, Andrew, in 2006, a pain that resides 
 Sister Susie Jackels (Chuck), Sister Becky Peterson (Michael), Brother Mike Doherty (LuAnn). Mother-In-Law Joan Smith Lawrence, Brother-In-Law Joe Lawrence, Sister-In-Law Josanne Cossio (Miguel). Husband Greg. Longtime friend Robyn Gunderson (Gary). Her Jewels: Son Andrew, Daughter Emily, Daughter Caroline (Luke), Daughter Annamarie. Granddaughters Emma, Rosabella, Evangelina.
 
 These are the Immeasurable Loves. 
+
+
 She lives because HE LIVES. Amen.
