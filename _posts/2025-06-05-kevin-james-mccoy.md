@@ -10,7 +10,7 @@ images:
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/kevin-mccoy-1092635176
 ---
-Kevin was born in Chicago, Illinois, and was the first-born son of Ruth and Howard McCoy. He spent his early life in Bellevue, when it was still full of forest and frog ponds. He loved to laugh and explore the forest with his brother Tim and neighborhood friends.
+Kevin was born in Chicago, Illinois, as the first-born son of Ruth and Howard McCoy. He spent his early life in Bellevue, when it was still full of forest and frog ponds. He loved to laugh and explore the forest with his brother Tim and neighborhood friends.
 
 After graduating from Interlake, he attended college at Western Washington University in Bellingham. Seattle eventually became his home, and he worked in the restaurant industry his adult life. The notable restaurants he worked at as a waiter were Daniel's Broiler and, most recently until his retirement, Ruth's Chris Steak House in Seattle.
 
