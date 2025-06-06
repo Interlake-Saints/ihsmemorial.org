@@ -6,7 +6,7 @@ date: 2024-12-26
 categories:
   - class-of-1975
 images:
-  - /assets/kevinmccoypics.jpg
+  - /assets/kevinmccoypics2.jpg
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/kevin-mccoy-1092635176
 ---
