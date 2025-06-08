@@ -7,6 +7,8 @@ categories:
   - class-of-1971
 tags:
   - accident
+images:
+  - /assets/kentwells70pic.jpg
 gender: male
 ---
-E﻿ntry coming soon.
+Kent lost his life on June 30, 1993, as a result of injuries sustained in an automobile accident. He had just turned 40 years old.
