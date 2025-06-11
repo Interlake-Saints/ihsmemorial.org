@@ -9,4 +9,4 @@ images:
   - /assets/pattikruegerpics.jpg
 gender: female
 ---
-E﻿ntry coming soon.
+Patti, aka Patti Krueger Ryles, suffered from multiple chronic illnesses over much of her life. She passed away on May 1st, 2022.
