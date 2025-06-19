@@ -5,6 +5,8 @@ sortKey: Landers, Thurman
 date: 2024-08-31
 categories:
   - staff
+images:
+  - /assets/thurmanlanderspics.jpg
 gender: male
 obituary: https://www.terryfamilyfuneralhome.com/obituary/Thurman-LandersSr
 ---
