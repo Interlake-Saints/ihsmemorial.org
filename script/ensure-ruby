@@ -19,9 +19,20 @@ if command -v ruby >/dev/null; then
     exit 0
   fi
 fi
+
+OS="$(uname)"
+if [ "$OS" == "Linux" ]; then
+  . /etc/os-release
+  if [ "$ID" == "ubuntu" ]; then
+    sudo apt-get install -y -q gcc make zlib1g-dev libffi-dev build-essential
+  else
+    echo "This script supports only ubuntu." >&2
+    exit 1
+  fi
+fi
 ./script/ensure-cmake
 ./script/ensure-curl
-./script/ensure-rbenv
 ./script/ensure-libffi
 ./script/ensure-libyaml
-rbenv install -s "$DESIRED_RUBY_VERSION"
+./script/ensure-mise
+mise use "ruby@$DESIRED_RUBY_VERSION"
