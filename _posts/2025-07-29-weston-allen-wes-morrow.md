@@ -7,6 +7,8 @@ categories:
   - class-of-1974
 tags:
   - cancer
+images:
+  - /assets/wesmorrowpic.jpg
 gender: male
 ---
 E﻿ntry coming soon.
