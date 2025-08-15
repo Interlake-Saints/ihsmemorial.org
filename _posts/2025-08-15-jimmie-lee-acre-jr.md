@@ -5,6 +5,8 @@ sortKey: Acre, Jimmie
 date: 2025-07-18
 categories:
   - class-of-1994
+images:
+  - /assets/jimacrepics.jpg
 gender: male
 ---
 Jim was involved in sports at Interlake, including football (linebacker and running back), as well as track and field (high jump and pole vaulting.) He was offered a full track and field scholarship to the Air Force Academy, but instead chose to make his way down to Los Angeles to try his luck in the music and film industry.
