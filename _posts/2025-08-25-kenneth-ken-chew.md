@@ -7,6 +7,8 @@ categories:
   - class-of-1977
 tags:
   - cardiovascular-disease
+images:
+  - /assets/kenchew76.jpg
 gender: male
 ---
 K﻿en died of heart failure in July of 2023.
