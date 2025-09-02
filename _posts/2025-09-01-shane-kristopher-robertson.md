@@ -20,4 +20,4 @@ Shane was a dynamic and dedicated salesman, recognized for his energy and abilit
 
 Known for his warmth, charisma, and drive, Shane leaves behind memories etched in music, connection, and kindness. He touched those around him with energy and empathy. He is remembered with love by those whose lives he enriched. May his legacy of passion, resilience, and joy continue to inspire.
 
- Sadly, Shane passed away on July 18, 2025. He was 53 years old.
+ Shane passed away on July 18, 2025. He was 53 years old.
