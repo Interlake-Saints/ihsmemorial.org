@@ -5,6 +5,8 @@ sortKey: Pike, Jeff
 date: 2025-09-03
 categories:
   - class-of-1983
+images:
+  - /assets/jeffpikepics.jpg
 gender: male
 obituary: https://www.johnston-williams.com/obituaries/jeffrey-pike
 ---
