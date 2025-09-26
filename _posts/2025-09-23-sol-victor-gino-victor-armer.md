@@ -5,6 +5,8 @@ sortKey: Armer, Victor
 date: 2025-08-30
 categories:
   - class-of-1981
+images:
+  - /assets/solarmerpics.jpg
 gender: male
 obituary: https://www.penttilaschapel.com/obituaries/sol-armer
 ---
@@ -12,6 +14,6 @@ Sol Victor Gino Armer was born in Coral Gables/Miami, Florida on December 4, 196
 
 Sol was intelligent, humorous, and compassionate. He always strove to treat others as he would want to be treated. He enjoyed science fiction, especially the Star Trek, Star Wars, and Dune franchises. He will be remembered and missed by his family and friends.
 
-Sol passed away in Long Beach, WA on August 30, 2025. He was 62 years old. 
+Sadly, Sol passed away in Long Beach, WA on August 30, 2025. He was 62 years old.
 
-U﻿nfortunately, Sol is not the only member of his family on this page. His older brother [Steven Armer](https://ihsmemorial.org/class-of-1972/steven-james-armer/) passed away in January of 2021.
+Unfortunately, Sol is not the only member of his family on this page. His older brother [Steven Armer](https://ihsmemorial.org/class-of-1972/steven-james-armer/) passed away in January of 2021.
