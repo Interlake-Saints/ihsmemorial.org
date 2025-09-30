@@ -8,7 +8,6 @@ categories:
 images:
   - /assets/solarmerpics.jpg
 gender: male
-obituary: ""
 ---
 Sol Victor Gino Armer was born in Coral Gables/Miami, Florida on December 4, 1962, the son of James Armer and Camille Armer (nee Carangi). The family moved to Washington in 1967, and resided in Bellevue. Sol attended Cherry Crest Elementary, Hyak Junior High, and Interlake High School, and later went on to earn his GED. Sol worked in the computer industry, learning several coding languages. He loved astronomy and flight, earned his private pilot’s license in the early 1980s, and participated in the Civil Air Patrol. He enjoyed martial arts and eventually earned a black belt in judo. He followed the Eckankar faith, and was well-versed in the Bible. Most recently he worked at the Walmart in Warrenton, where he enjoyed honing and using his Spanish speaking skills. In the past few years, he became interested in 3D printing, creating galleons and castles for his great niece and nephew.
 
