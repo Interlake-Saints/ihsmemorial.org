@@ -16,14 +16,15 @@ comments: true
       </div>
       <!-- .post-meta -->
       <div class="post-content">
-        {{ content }} {% if page.obituary %} {% assign pronoun = 'Their' %} {%
+        {{ content }} {% if page.obituary and page.obituary.size > 0 %} {% assign pronoun = 'Their' %} {%
         if page.gender == 'male' %} {% assign pronoun = 'His' %} {% elsif
         page.gender == 'female' %} {% assign pronoun = 'Her' %} {% endif %}
         <p>
           {{ pronoun }} obituary can be found
           <a href="{{ page.obituary }}">here</a>.
         </p>
-        {% endif %} {% for image in page.images %}
+        {% endif %}
+        {% for image in page.images %}
         <div class="text-center">
           <img
             src="{{ image }}"
