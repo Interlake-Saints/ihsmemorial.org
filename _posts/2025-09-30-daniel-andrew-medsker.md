@@ -10,7 +10,7 @@ images:
   - /assets/danmedskerpic2.jpg
 gender: male
 ---
-After graduating from Interlake, Dan went on to study economics and finance at Washington State University. He then went on to work in mortgage lending for many years, culminating in a job as Vice President at Countrywide Home Mortgage in the early 2000s. He continued to work in this industry until he retired in 2023.
+After graduating from Interlake, Dan went on to study economics and finance at Washington State University. He then went on to work in mortgage lending for many years, culminating in a job as Vice President at Countrywide Home Mortgage in the early 2000s. He continued to work in real estate finance until he retired in early 2023.
 
 Sadly, Dan passed away just a couple of years later, on March 12, 2025. He was 64 years old.
 
