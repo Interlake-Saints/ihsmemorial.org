@@ -10,7 +10,7 @@ images:
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/anna-spier-12523713
 ---
-Anna Caitlin Spier, 38, passed away peacefully on Sunday, September 14. She was surrounded by her mother, father and sister.
+Anna Caitlin Spier, 38, passed away peacefully on Sunday, September 14, 2025. She was surrounded by her mother, father and sister.
 
 Anna had Rett Syndrome, a rare genetic-based neurological disorder that primarily affects females. She was non-verbal and had no purposeful use of her hands. She struggled to walk later in life and had severe rigidity for the last few years. She was able to achieve a full and happy life in spite of the significant disability caused by the disease.
 
