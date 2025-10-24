@@ -5,6 +5,7 @@ source "https://rubygems.org"
 gem "base64"
 gem "csv"
 gem "jekyll"
+gem "logger"
 
 group :jekyll_plugins do
   gem "jekyll-archives", "~> 2.2"
