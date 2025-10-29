@@ -9,4 +9,6 @@ images:
   - /assets/carlspics1.jpg
 gender: male
 ---
-E﻿ntry coming soon.
+Carl didn't graduate from Interlake, he technically graduated from Sammamish. But he attended Interlake for at least two years and had many friends there. 
+
+Sadly, C﻿arl passed away in early November, 2022. He was 47 years old.
