@@ -7,6 +7,8 @@ categories:
   - class-of-1978
 tags:
   - accident
+images:
+  - /assets/waynelorentzenpics.jpg
 gender: male
 obituary: https://www.americanmemorial.org/obituary/wayne-lorentzen
 ---
