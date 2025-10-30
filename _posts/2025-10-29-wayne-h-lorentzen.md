@@ -9,6 +9,7 @@ tags:
   - accident
 images:
   - /assets/waynelorentzenpics.jpg
+  - /assets/waynecats2.jpg
 gender: male
 obituary: https://www.americanmemorial.org/obituary/wayne-lorentzen
 ---
