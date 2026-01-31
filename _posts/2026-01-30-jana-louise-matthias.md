@@ -9,4 +9,4 @@ images:
   - /assets/janawheelerpics.jpg
 gender: female
 ---
-a﻿ka Jana Wheeler. Entry coming soon. Died in late December 2025.
+J﻿ana, aka Jana Louise Wheeler, passed away in late December of 2025. She was 73 years old.
