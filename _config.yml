@@ -112,6 +112,7 @@ compress_html:
 
 exclude:
   - vendor
+  - CNAME
   - Gemfile.lock
   - Gemfile
   - docs
