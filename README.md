@@ -3,12 +3,6 @@
   <p>
     site to notify those of us who attended Interlake High School of the classmates we've lost
   </p>
-  <!-- Badges -->
-  <p>
-    <a href="">
-      <img src="https://api.netlify.com/api/v1/badges/99da697e-e799-4653-860a-835d4e2dbacb/deploy-status" alt="Netlify status" />
-    </a>
-  </p>
 </div>
 
 <br />
@@ -29,9 +23,8 @@
   <summary>Posts</summary>
   <ul>
     <li><a href="https://jekyllrb.com/docs/">Jekyll</a></li>
-    <li><a href="https://www.netlifycms.org/">Netlify CMS content management</a></li>
-    <li><a href="https://www.netlify.com/">Netlify hosting</a></li>
-    <li><a href="https://www.netlify.com/">Netlify DNS</a></li>
+    <li><a href="https://decapcms.org/">Decap CMS content management</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages hosting</a></li>
   </ul>
 </details>
 
@@ -93,7 +86,7 @@ Entries are in \_posts. Each field means as follows:
 - tags: The causes of death. Use the tags in \_cause.
 - images: A list of URLs to images. Ideally local images such as "/assets/241166_1771058511999_6511222_o.jpg"
 
-You can create entries via <a href="https://ihsmemorial.org/admin">Netlify CMS</a>.
+You can create entries via <a href="https://ihsmemorial.org/admin">Decap CMS</a>.
 
 <!-- License -->
 ## :warning: License

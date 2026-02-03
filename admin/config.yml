@@ -2,6 +2,11 @@ backend:
   name: github
   repo: Interlake-Saints/ihsmemorial.org
   branch: main
+  # PKCE auth allows client-side only OAuth (no backend proxy needed)
+  # Create a GitHub OAuth App at: https://github.com/settings/developers
+  # Set callback URL to: https://api.decapcms.org/callback
+  auth_type: pkce
+  app_id: Ov23liXrfdwyNE5yaVFe
 collections:
   - name: "deaths"
     label: "Deaths"

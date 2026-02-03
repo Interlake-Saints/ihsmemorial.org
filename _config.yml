@@ -120,8 +120,7 @@ exclude:
   - Rakefile
   - .github
   - script
-include:
-  - _headers
+include: []
 jekyll-archives:
   enabled: []
 paginate: 25
