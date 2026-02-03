@@ -21,6 +21,12 @@
   text-decoration: none;
 }
 
+@mixin link-hover {
+  color: #d2603a !important;
+  border-bottom: 1px solid #d2603a;
+  text-decoration: none;
+}
+
 %link-color {
   color: var(--link-color);
 }
@@ -30,6 +36,10 @@
 }
 
 %no-bottom-border {
+  border-bottom: none;
+}
+
+@mixin no-bottom-border {
   border-bottom: none;
 }
 

@@ -1,6 +1,7 @@
 /*
   Post-specific style
 */
+@use "../addon/module" as *;
 
 @mixin btn-sharing-color($light-color, $important: false) {
   @if $important {
@@ -285,7 +286,7 @@
   > a {
     font-weight: 600;
     &:hover {
-      @extend %link-hover;
+      @include link-hover;
     }
   }
 

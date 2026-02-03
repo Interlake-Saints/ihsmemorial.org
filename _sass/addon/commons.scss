@@ -1,6 +1,12 @@
 /*
   The common styles
 */
+@use "sass:math";
+@use "../colors/light-typography" as *;
+@use "../colors/dark-typography" as *;
+@use "module" as *;
+@use "variables" as *;
+
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap');
 
 @mixin mode-toggle($dark-mode: false) {
@@ -146,7 +152,7 @@ footer {
       @include no-text-decoration;
     }
     &:hover {
-      @extend %link-hover;
+      @include link-hover;
 
       @include no-text-decoration;
     }
@@ -224,10 +230,10 @@ footer {
 
   a {
     &:hover {
-      @extend %link-hover;
+      @include link-hover;
     }
 
-    @extend %no-bottom-border;
+    @include no-bottom-border;
 
     color: #6c757d;
   }
@@ -295,7 +301,7 @@ footer {
   }
   a:hover {
     code {
-      @extend %link-hover;
+      @include link-hover;
     }
   }
 }
@@ -351,7 +357,7 @@ footer {
       margin-right: 2px;
     }
     &:hover {
-      @extend %link-hover;
+      @include link-hover;
     }
   }
 }
@@ -406,7 +412,7 @@ footer {
       @extend %link-color;
       @extend %link-underline;
       &:hover {
-        @extend %link-hover;
+        @include link-hover;
       }
     }
 
@@ -699,7 +705,7 @@ $sidebar-display: "sidebar-display";
 
         a {
           position: relative;
-          left: $cursor-width / 2;
+          left: calc($cursor-width / 2);
           width: 100%;
         }
 
@@ -725,7 +731,7 @@ $sidebar-display: "sidebar-display";
 
     @for $i from 1 through $tab-count {
       $offset: $tab-count - $i;
-      $top: -$offset * $tab-height + $tab-cursor-height / 2;
+      $top: -$offset * $tab-height + math.div($tab-cursor-height, 2);
 
       @if $i < $tab-count {
         > li.active:nth-child(#{$i}),
@@ -844,7 +850,7 @@ $sidebar-display: "sidebar-display";
     padding-left: 0.5rem;
 
     a:hover {
-      @extend %link-hover;
+      @include link-hover;
     }
 
     span {
@@ -929,11 +935,11 @@ $sidebar-display: "sidebar-display";
   padding-bottom: 6rem;
   a {
     &:hover {
-      @extend %link-hover;
+      @include link-hover;
     }
 
     @extend %link-color;
-    @extend %no-bottom-border;
+    @include no-bottom-border;
     @extend %heading;
 
     font-size: 1.4rem;
@@ -982,7 +988,7 @@ $sidebar-display: "sidebar-display";
   #tags,
   #archives {
     a:not(:hover) {
-      @extend %no-bottom-border;
+      @include no-bottom-border;
     }
   }
 }

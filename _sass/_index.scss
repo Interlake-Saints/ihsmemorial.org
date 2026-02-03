@@ -1,0 +1,9 @@
+// Index file that forwards all modules for page-specific stylesheets
+// This allows @use "_sass" to get everything
+
+@forward "colors/light-typography";
+@forward "colors/dark-typography";
+@forward "colors/light-syntax";
+@forward "colors/dark-syntax";
+@forward "addon/module";
+@forward "addon/variables";
