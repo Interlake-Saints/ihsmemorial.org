@@ -27,10 +27,6 @@ disqus:
   shortname: "interlake-high-school-memorial-wall"
 github:
   username: MarioMangler
-google_analytics:
-  id: "UA-188003746-1"
-  pv:
-    enabled: false
 img_cdn: ""
 kramdown:
   syntax_highlighter: rouge
