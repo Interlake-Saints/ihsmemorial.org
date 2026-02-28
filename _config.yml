@@ -22,14 +22,6 @@ social:
 #chirpy
 avatar: /assets/10609708_672957986115083_7627741849738825230_n.png
 baseurl: ""
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
 disqus:
   comments: true
   shortname: "interlake-high-school-memorial-wall"
@@ -51,10 +43,6 @@ kramdown:
       line_numbers: true
       start_line: 1
 lang: en-US
-permalink: /posts/:title/
-sass:
-  sass_dir: /assets/css
-  style: compressed
 theme_mode: dark
 timezone: America/Los_Angeles
 toc: true
