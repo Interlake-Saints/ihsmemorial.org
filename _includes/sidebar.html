@@ -2,7 +2,7 @@
 
   <div class="profile-wrapper text-center">
     <div id="avatar">
-      <a href="{{ '/' | relative_url }}" alt="avatar" class="mx-auto">
+      <a href="{{ '/' | relative_url }}" aria-label="avatar" class="mx-auto">
         {% capture avatar_url %}
           {%- if site.avatar contains '://' -%}
             {{ site.avatar }}
