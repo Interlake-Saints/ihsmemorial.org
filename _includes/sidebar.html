@@ -54,7 +54,7 @@
           https://x.com/{{ site.twitter.username }}
         {%- elsif entry.type == 'email' -%}
           {% assign email = site.social.email | split: '@' %}
-          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+          javascript:void(function(){var a='{{ email[0] }}',b='{{ email[1] }}';location.href='mai'+'lto:'+a+'%40'+b}())
         {%- elsif entry.type == 'rss' -%}
           {{ "/feed.xml" | relative_url }}
         {%- else -%}
