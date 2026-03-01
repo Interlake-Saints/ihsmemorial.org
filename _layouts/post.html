@@ -21,7 +21,7 @@ comments: true
         page.gender == 'female' %} {% assign pronoun = 'Her' %} {% endif %}
         <p>
           {{ pronoun }} obituary can be found
-          <a href="{{ page.obituary }}">here</a>.
+          <a href="{{ page.obituary }}" target="_blank" rel="noopener">here</a>.
         </p>
         {% endif %}
         {% for image in page.images %}
