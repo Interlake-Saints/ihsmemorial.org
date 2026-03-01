@@ -5,16 +5,8 @@
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js"></script>
 <script>
   $(function() {
-    let initTheme = "default";
-
-    if ($("html[mode=dark]").length > 0
-      || ($("html[mode]").length == 0
-        && window.matchMedia("(prefers-color-scheme: dark)").matches ) ) {
-      initTheme = "dark";
-    }
-
     let mermaidConf = {
-      theme: initTheme  /* <default|dark|forest|neutral> */
+      theme: "dark"
     };
 
     /* Markdown converts to HTML */

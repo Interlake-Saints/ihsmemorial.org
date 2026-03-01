@@ -2,27 +2,10 @@
 * The syntax highlight.
 */
 
-@use "../colors/light-syntax" as *;
 @use "../colors/dark-syntax" as *;
 
-html:not([mode]),
-html[mode=light] {
-  @include light-syntax;
-}
-
-html[mode=dark] {
+html {
   @include dark-syntax;
-}
-
-@media (prefers-color-scheme: dark) {
-  html:not([mode]),
-  html[mode=dark] {
-    @include dark-syntax;
-  }
-
-  html[mode=light] {
-    @include light-syntax;
-  }
 }
 
 /* -- Codes Snippet -- */
