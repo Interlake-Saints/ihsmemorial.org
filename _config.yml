@@ -121,6 +121,7 @@ exclude:
   - Rakefile
   - .github
   - script
+  - mise.toml
 include: []
 jekyll-archives:
   enabled: []
