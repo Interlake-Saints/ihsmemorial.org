@@ -2,49 +2,14 @@
   The common styles
 */
 @use "sass:math";
-@use "../colors/light-typography" as *;
 @use "../colors/dark-typography" as *;
 @use "module" as *;
 @use "variables" as *;
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap');
 
-@mixin mode-toggle($dark-mode: false) {
-  @if $dark-mode {
-    @include dark-scheme;
-
-    .mode-toggle {
-      transform: rotateY(180deg);
-    }
-
-  } @else {
-    @include light-scheme;
-
-    .mode-toggle {
-      transform: none;
-    }
-  }
-
-}
-
-html:not([mode]),
-html[mode=light] {
-  @include mode-toggle();
-}
-
-html[mode=dark] {
-  @include mode-toggle(true);
-}
-
-@media (prefers-color-scheme: dark) {
-  html:not([mode]),
-  html[mode=dark] {
-    @include mode-toggle(true);
-  }
-
-  html[mode=light] {
-    @include mode-toggle();
-  }
+html {
+  @include dark-scheme;
 }
 
 :root {
@@ -767,33 +732,7 @@ $sidebar-display: "sidebar-display";
       @extend %icon;
     }
 
-    #mode-toggle-wrapper {
-      @extend %icon;
-
-      i {
-        @include sidebar-links;
-
-        margin: 0;
-        font-size: 1.05rem;
-        text-align: center;
-        position: relative;
-        bottom: 1px;
-      }
-
-    }
-
-    .icon-border {
-      background-color: #525354;
-      content: "";
-      width: 3px;
-      height: 3px;
-      border-radius: 50%;
-      position: relative;
-      top: 12px;
-    }
-
-    a:hover,
-    #mode-toggle-wrapper i:hover {
+    a:hover {
       color: #fff;
     }
 
@@ -1308,9 +1247,6 @@ $sidebar-display: "sidebar-display";
       span {
         width: 2rem;
       }
-      .icon-border {
-        left: -3px;
-      }
     }
   }
 
@@ -1583,18 +1519,6 @@ $sidebar-display: "sidebar-display";
         padding-top: 0.44rem;
         margin-top: .7rem; // multi line space
         bottom: 0;
-      }
-
-      #mode-toggle-wrapper {
-        width: 3rem;
-
-        i {
-          top: 11px;
-        }
-      }
-
-      .icon-border {
-        top: 26px;
       }
 
     } // .sidebar-bottom
