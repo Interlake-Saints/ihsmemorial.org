@@ -5,10 +5,24 @@
     this.page.identifier = "{{ page.url }}";
   };
   (function () {
-    var d = document,
-      s = d.createElement("script");
-    s.src = "https://{{ site.disqus.shortname }}.disqus.com/embed.js";
-    s.setAttribute("data-timestamp", +new Date());
-    (d.head || d.body).appendChild(s);
+    var loadDisqus = function () {
+      var d = document,
+        s = d.createElement("script");
+      s.src = "https://{{ site.disqus.shortname }}.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+    };
+    var target = document.getElementById("disqus_thread");
+    if ("IntersectionObserver" in window) {
+      var observer = new IntersectionObserver(function (entries) {
+        if (entries[0].isIntersecting) {
+          loadDisqus();
+          observer.disconnect();
+        }
+      }, { rootMargin: "200px" });
+      observer.observe(target);
+    } else {
+      loadDisqus();
+    }
   })();
 </script>
