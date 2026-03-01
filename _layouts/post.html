@@ -30,7 +30,8 @@ comments: true
             src="{{ image }}"
             class="rounded"
             alt="{{ page.title | escape }}"
-            style="height: 350px"
+            loading="lazy"
+            style="max-height: 350px; width: auto"
           />
         </div>
         {% endfor %}
