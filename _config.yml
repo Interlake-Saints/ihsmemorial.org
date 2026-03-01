@@ -15,7 +15,7 @@ social:
   name: Mario Lanza
   email: MLanza1974@aol.com
   links:
-    - https://twitter.com/MarioJLanza
+    - https://x.com/MarioJLanza
     - https://github.com/MarioMangler
     - https://www.facebook.com/mariolanza
 
@@ -121,9 +121,8 @@ exclude:
   - Rakefile
   - .github
   - script
+  - mise.toml
 include: []
-jekyll-archives:
-  enabled: []
 paginate: 25
 permalink: /:categories/:title/
 repository: Interlake-Saints/ihsmemorial.org
