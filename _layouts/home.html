@@ -38,13 +38,7 @@ endfor %} {% endif %} {% if paginator.page == 1 %} {{ content }} {% endif %}
         <!-- posted date -->
         <i class="far fa-calendar fa-fw"></i>
         {{ post.date | date: "%b %d, %Y" }}
-        <!-- page views -->
-        {% if site.google_analytics.pv.enabled %}
-        <i class="far fa-eye fa-fw"></i>
-        <span id="pv_{{-post.title-}}" class="pageviews">
-          <i class="fas fa-spinner fa-spin fa-fw"></i>
-        </span>
-        {% endif %} {% endunless %}
+        {% endunless %}
       </div>
       {% if post.pin %}
       <div class="pin">
