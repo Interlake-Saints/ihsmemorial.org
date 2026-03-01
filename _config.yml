@@ -123,8 +123,6 @@ exclude:
   - script
   - mise.toml
 include: []
-jekyll-archives:
-  enabled: []
 paginate: 25
 permalink: /:categories/:title/
 repository: Interlake-Saints/ihsmemorial.org
