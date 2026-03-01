@@ -16,7 +16,7 @@ social:
   email: MLanza1974@aol.com
   links:
     - https://x.com/MarioJLanza
-    - https://github.com/MarioMangler
+    - https://github.com/MarioJLanza
     - https://www.facebook.com/mariolanza
 
 #chirpy
@@ -26,7 +26,7 @@ disqus:
   comments: true
   shortname: "interlake-high-school-memorial-wall"
 github:
-  username: MarioMangler
+  username: MarioJLanza
 img_cdn: ""
 kramdown:
   syntax_highlighter: rouge
