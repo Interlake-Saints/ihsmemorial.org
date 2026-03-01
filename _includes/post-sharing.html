@@ -9,7 +9,9 @@
     {% assign url = page.url | absolute_url %}
 
     {% for share in site.data.share.platforms %}
-      {% assign link = share.link | replace: 'TITLE', title | replace: 'URL', url %}
+      {% assign encoded_title = title | url_encode %}
+      {% assign encoded_url = url | url_encode %}
+      {% assign link = share.link | replace: 'TITLE', encoded_title | replace: 'URL', encoded_url %}
         <a href="{{ link }}" data-toggle="tooltip" data-placement="top"
           title="{{ share.type }}" target="_blank" rel="noopener" aria-label="{{ share.type }}">
           <i class="fa-fw {{ share.icon }}"></i>
