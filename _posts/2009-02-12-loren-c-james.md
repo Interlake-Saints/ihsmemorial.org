@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1974/loren-c-james-1.png
+  - /assets/class-of-1974/loren-c-james-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Loren-James&pid=124417477
 ---

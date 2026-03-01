@@ -6,7 +6,7 @@ date: 2022-04-19
 categories:
   - staff
 images:
-  - /assets/joeguariz2022.png
+  - /assets/joeguariz2022.webp
 gender: male
 obituary: https://www.rill.com/obituaries/Joe-Guariz/#!/Obituary
 ---

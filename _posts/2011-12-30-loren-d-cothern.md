@@ -8,8 +8,8 @@ categories:
 tags:
   - liver-failure
 images:
-  - /assets/class-of-1973/loren-d-cothern-1.png
-  - /assets/class-of-1973/loren-d-cothern-2.jpg
+  - /assets/class-of-1973/loren-d-cothern-1.webp
+  - /assets/class-of-1973/loren-d-cothern-2.webp
 gender: male
 ---
 

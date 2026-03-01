@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/sandrapoolemodern.jpg
-  - /assets/sandrapoole70.jpg
+  - /assets/sandrapoolemodern.webp
+  - /assets/sandrapoole70.webp
 gender: female
 ---
 Sandra, who was also known as Sandra Poole Yates, died of cancer on February 8, 2016. She was 63 years old.

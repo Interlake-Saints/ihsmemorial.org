@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/gary-walden-2024.jpg
+  - /assets/gary-walden-2024.webp
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/gary-walden-11053704
 ---

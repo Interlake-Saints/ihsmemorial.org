@@ -6,8 +6,8 @@ date: 2016-09-16
 categories:
   - class-of-1983
 images:
-  - /assets/class-of-1983/karen-r-rice-1.jpg
-  - /assets/class-of-1983/karen-r-rice-2.png
+  - /assets/class-of-1983/karen-r-rice-1.webp
+  - /assets/class-of-1983/karen-r-rice-2.webp
 obituary: https://www.nwmemorials.com/karen-renee-rice
 gender: female
 ---

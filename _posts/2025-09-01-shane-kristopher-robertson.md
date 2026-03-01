@@ -6,7 +6,7 @@ date: 2025-07-18
 categories:
   - class-of-1990
 images:
-  - /assets/shanerobertsonpics.jpg
+  - /assets/shanerobertsonpics.webp
 gender: male
 obituary: https://bartonfuneral.com/2025/08/03/shane-kristopher-robertson/
 ---

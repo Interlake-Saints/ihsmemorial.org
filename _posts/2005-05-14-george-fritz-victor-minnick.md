@@ -8,7 +8,7 @@ categories:
 tags:
   - respiratory-diseases
 images:
-  - /assets/class-of-1979/george-f-v-minnick-1.png
+  - /assets/class-of-1979/george-f-v-minnick-1.webp
 gender: male
 ---
 

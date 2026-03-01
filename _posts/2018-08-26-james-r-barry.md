@@ -7,8 +7,8 @@ categories:
   - class-of-1977
 obituary: http://www.sitnews.us/0918News/090718/Obituary/090718_jim_barry.html
 images:
-  - /assets/class-of-1977/james-r-barry-1.jpg
-  - /assets/class-of-1977/james-r-barry-2.jpg
+  - /assets/class-of-1977/james-r-barry-1.webp
+  - /assets/class-of-1977/james-r-barry-2.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/jimholzknechtsmallerpics.jpg
+  - /assets/jimholzknechtsmallerpics.webp
 gender: male
 ---
 After graduating from Interlake in 1981, Jim went on to play football for the University of Washington. He then went on to wear many hats over the next forty years (even living in Russia at one point), in a life that touched many, and made a tremendous impact upon the world.

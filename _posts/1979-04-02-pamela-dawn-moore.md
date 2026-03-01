@@ -6,8 +6,8 @@ date: 1979-04-02
 categories:
   - class-of-1980
 images:
-  - /assets/class-of-1980/pamela-d-moore-1.png
-  - /assets/class-of-1980/pamela-d-moore-2.png
+  - /assets/class-of-1980/pamela-d-moore-1.webp
+  - /assets/class-of-1980/pamela-d-moore-2.webp
 gender: female
 ---
 

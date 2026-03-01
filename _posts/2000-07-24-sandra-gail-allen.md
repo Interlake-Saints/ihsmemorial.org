@@ -7,7 +7,7 @@ categories:
   - class-of-1977
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=sandra-gail-maris-allen&pid=144251715
 images:
-  - /assets/class-of-1977/sandra-g-allen-1.jpg
+  - /assets/class-of-1977/sandra-g-allen-1.webp
 gender: female
 ---
 

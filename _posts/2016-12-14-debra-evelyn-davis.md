@@ -8,8 +8,8 @@ categories:
 tags:
   - multiple-sclerosis
 images:
-  - /assets/class-of-1972/debra-e-davis-1.png
-  - /assets/class-of-1972/debra-e-davis-2.jpg
+  - /assets/class-of-1972/debra-e-davis-1.webp
+  - /assets/class-of-1972/debra-e-davis-2.webp
 obituary: https://www.kitsapsun.com/story/life/announcements/obituaries/2016/12/15/debra-e-castle-62/95478012/
 gender: female
 ---

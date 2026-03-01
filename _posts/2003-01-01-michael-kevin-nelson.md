@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - class-of-1979
 images:
-  - /assets/class-of-1979/michael-k-nelson-1.png
+  - /assets/class-of-1979/michael-k-nelson-1.webp
 gender: male
 ---
 

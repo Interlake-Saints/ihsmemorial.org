@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/jimmoipics.jpg
+  - /assets/jimmoipics.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=143504386
 ---

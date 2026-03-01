@@ -6,7 +6,7 @@ date: 2002-01-19
 categories:
   - class-of-1971
 images:
-  - /assets/wolfe71.png
+  - /assets/wolfe71.webp
 gender: female
 ---
 

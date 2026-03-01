@@ -6,8 +6,8 @@ date: 1982-11-12
 categories:
   - class-of-1977
 images:
-  - /assets/class-of-1977/alice-m-brems-1.png
-  - /assets/class-of-1977/alice-m-brems-2.png
+  - /assets/class-of-1977/alice-m-brems-1.webp
+  - /assets/class-of-1977/alice-m-brems-2.webp
 gender: female
 ---
 

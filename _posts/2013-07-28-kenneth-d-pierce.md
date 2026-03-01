@@ -6,7 +6,7 @@ date: 2013-07-28
 categories:
   - class-of-1977
 images:
-  - /assets/class-of-1977/kenneth-d-pierce-1.png
+  - /assets/class-of-1977/kenneth-d-pierce-1.webp
 gender: male
 ---
 

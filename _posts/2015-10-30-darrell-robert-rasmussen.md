@@ -6,9 +6,9 @@ date: 2015-10-30
 categories:
   - staff
 images:
-  - /assets/staff/darrell-r-rasmussen-1.png
-  - /assets/staff/darrell-r-rasmussen-2.jpg
-  - /assets/staff/darrell-r-rasmussen-3.jpg
+  - /assets/staff/darrell-r-rasmussen-1.webp
+  - /assets/staff/darrell-r-rasmussen-2.webp
+  - /assets/staff/darrell-r-rasmussen-3.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=darrell-robert-rasmussen&pid=176371282
 ---

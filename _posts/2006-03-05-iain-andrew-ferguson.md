@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1984/iain-a-ferguson-1.png
-  - /assets/class-of-1984/iain-a-ferguson-2.jpg
+  - /assets/class-of-1984/iain-a-ferguson-1.webp
+  - /assets/class-of-1984/iain-a-ferguson-2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Iain-Ferguson&pid=17023418
 ---

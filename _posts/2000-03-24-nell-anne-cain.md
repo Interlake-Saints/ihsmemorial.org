@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1970/nell-a-cain-1.png
-  - /assets/class-of-1970/nell-a-cain-2.jpg
+  - /assets/class-of-1970/nell-a-cain-1.webp
+  - /assets/class-of-1970/nell-a-cain-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/tricityherald/obituary.aspx?n=nell-anne-shelton&pid=195875808
 ---

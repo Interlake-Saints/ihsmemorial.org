@@ -6,7 +6,7 @@ date: 2006-05-23
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/anna-i-peng-1.png
+  - /assets/class-of-1988/anna-i-peng-1.webp
 gender: female
 ---
 Anna graduated from the University of Washington with an accounting degree, and moved to Louisiana to begin work. However, she missed her family back home, so five years later she moved back to Bellevue, got married, and lived just four blocks from Interlake. Sadly, she passed away unexpectedly, from natural causes, on May 23, 2006.

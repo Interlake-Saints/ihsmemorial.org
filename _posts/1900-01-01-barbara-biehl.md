@@ -9,7 +9,7 @@ categories:
 tags:
   - homicide
 images:
-  - /assets/class-of-1977/barbara-biehl-1.png
+  - /assets/class-of-1977/barbara-biehl-1.webp
 gender: female
 ---
 

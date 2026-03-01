@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/julie-a-keeney-1.jpg
+  - /assets/staff/julie-a-keeney-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=165363674
 ---

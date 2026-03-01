@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - class-of-1975
 images:
-  - /assets/class-of-1975/toni-j-breidenbach-1.png
+  - /assets/class-of-1975/toni-j-breidenbach-1.webp
 gender: female
 ---
 

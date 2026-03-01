@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1985/terry-nelson-riley-1.png
+  - /assets/class-of-1985/terry-nelson-riley-1.webp
 gender: male
 obituary: https://archive.seattletimes.com/archive/?date=19980714&slug=2761064
 ---

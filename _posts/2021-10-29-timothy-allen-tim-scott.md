@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/timscottclass70.png
+  - /assets/timscottclass70.webp
 gender: male
 ---
 

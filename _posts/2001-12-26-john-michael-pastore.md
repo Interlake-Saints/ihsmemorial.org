@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-2002/john-michael-pastore-1.jpg
+  - /assets/class-of-2002/john-michael-pastore-1.webp
 gender: male
 ---
 

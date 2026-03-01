@@ -6,9 +6,9 @@ date: 2015-02-11
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/patrick-j-morton-1.png
-  - /assets/class-of-1988/patrick-j-morton-2.jpg
-  - /assets/class-of-1988/patrick-j-morton-3.jpg
+  - /assets/class-of-1988/patrick-j-morton-1.webp
+  - /assets/class-of-1988/patrick-j-morton-2.webp
+  - /assets/class-of-1988/patrick-j-morton-3.webp
 gender: male
 ---
 

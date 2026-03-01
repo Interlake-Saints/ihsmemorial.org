@@ -9,7 +9,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1983/donald-a-ross-1.png
+  - /assets/class-of-1983/donald-a-ross-1.webp
 gender: male
 ---
 

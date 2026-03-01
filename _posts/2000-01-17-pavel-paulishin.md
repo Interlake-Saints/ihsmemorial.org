@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1997/pavel-paulishin-1.jpg
+  - /assets/class-of-1997/pavel-paulishin-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2019-03-25
 categories:
   - class-of-2016
 images:
-  - /assets/class-of-2016/darshan-g-banavar-1.jpg
+  - /assets/class-of-2016/darshan-g-banavar-1.webp
 gender: male
 ---
 

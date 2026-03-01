@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/tonykevinboth.jpg
-  - /assets/tonykevin5.jpg
+  - /assets/tonykevinboth.webp
+  - /assets/tonykevin5.webp
 gender: male
 ---
 Tony was diagnosed with stage four colon cancer in August of 2009, despite being only 45 years old, healthy, and having no family history. Yet despite being given only nine months to live, he managed to fight the disease for nearly eleven years. He battled through endless rounds of chemotherapy, and endless surgeries, and multiple other related ancillary procedures, and eventually became known as a story of courage and strength. 

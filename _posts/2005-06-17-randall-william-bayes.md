@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1986/randall-w-bayes-1.jpg
+  - /assets/class-of-1986/randall-w-bayes-1.webp
 gender: male
 ---
 

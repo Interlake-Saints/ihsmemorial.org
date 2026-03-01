@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1989/lynn-m-grossguth-1.png
-  - /assets/class-of-1989/lynn-m-grossguth-2.jpg
+  - /assets/class-of-1989/lynn-m-grossguth-1.webp
+  - /assets/class-of-1989/lynn-m-grossguth-2.webp
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?pid=87388089
 gender: female
 ---

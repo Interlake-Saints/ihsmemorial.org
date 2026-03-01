@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1978/edward-j-schmierer-1.jpg
+  - /assets/class-of-1978/edward-j-schmierer-1.webp
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Edward-Schmierer&pid=112072352
 gender: male
 ---

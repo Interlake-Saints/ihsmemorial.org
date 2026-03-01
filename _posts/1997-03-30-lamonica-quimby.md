@@ -8,7 +8,7 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-1991/tina-mostashari-1.jpg
+  - /assets/class-of-1991/tina-mostashari-1.webp
 gender: female
 ---
 

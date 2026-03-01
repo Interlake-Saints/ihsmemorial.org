@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1970/william-m-wales-1.png
+  - /assets/class-of-1970/william-m-wales-1.webp
 gender: male
 ---
 

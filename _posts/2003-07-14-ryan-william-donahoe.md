@@ -8,7 +8,7 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-2002/ryan-william-donahoe-1.jpg
+  - /assets/class-of-2002/ryan-william-donahoe-1.webp
 gender: male
 ---
 

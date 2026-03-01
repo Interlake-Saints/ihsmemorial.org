@@ -9,7 +9,7 @@ categories:
 tags:
   - overdose
 images:
-  - /assets/class-of-1978/katherine-d-mceniry-1.png
+  - /assets/class-of-1978/katherine-d-mceniry-1.webp
 gender: female
 ---
 Kathy died of a drug overdose in Texas on November 5, 1980.

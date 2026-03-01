@@ -7,6 +7,6 @@ dateUnknown: true
 categories:
   - class-of-1970
 images:
-  - /assets/class-of-1970/glenn-h-mccullough-1.png
+  - /assets/class-of-1970/glenn-h-mccullough-1.webp
 gender: male
 ---

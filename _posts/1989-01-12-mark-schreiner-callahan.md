@@ -6,7 +6,7 @@ date: 1989-01-12
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/mark-s-callahan-1.png
+  - /assets/class-of-1972/mark-s-callahan-1.webp
 gender: male
 ---
 

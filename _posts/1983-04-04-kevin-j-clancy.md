@@ -6,7 +6,7 @@ date: 1983-04-04
 categories:
   - class-of-1977
 images:
-  - /assets/class-of-1977/kevin-j-clancy-1.png
+  - /assets/class-of-1977/kevin-j-clancy-1.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/mrsdooleyboth.jpg
+  - /assets/mrsdooleyboth.webp
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/redmond-wa/annette-hoelscher-11161935
 ---

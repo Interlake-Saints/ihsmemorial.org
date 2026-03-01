@@ -6,8 +6,8 @@ date: 2017-05-07
 categories:
   - class-of-1993
 images:
-  - /assets/class-of-1993/jean-p-stonebraker-1.png
-  - /assets/paul-stonebreaker-3.jpg
+  - /assets/class-of-1993/jean-p-stonebraker-1.webp
+  - /assets/paul-stonebreaker-3.webp
 gender: male
 obituary: https://www.meaningfulfunerals.net/?action=obituaries.obit_view&CFID=2ebb4187-c631-4587-82eb-eed8ed864ea7&CFTOKEN=0&o_id=4231882&fh_id=14129
 ---

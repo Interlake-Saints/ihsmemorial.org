@@ -9,7 +9,7 @@ tags:
   - accident
   - drowning
 images:
-  - /assets/class-of-1987/scott-m-hunter-1.png
+  - /assets/class-of-1987/scott-m-hunter-1.webp
 gender: male
 ---
 

@@ -9,8 +9,8 @@ tags:
   - accident
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Janet-OConnell&pid=100971422
 images:
-  - /assets/class-of-1977/janet-m-o-connell-1.png
-  - /assets/class-of-1977/janet-m-o-connell-2.jpg
+  - /assets/class-of-1977/janet-m-o-connell-1.webp
+  - /assets/class-of-1977/janet-m-o-connell-2.webp
 gender: female
 ---
 

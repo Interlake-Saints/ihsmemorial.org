@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/gordon-dickman-1.png
+  - /assets/staff/gordon-dickman-1.webp
 gender: male
 ---
 

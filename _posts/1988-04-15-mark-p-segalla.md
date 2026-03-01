@@ -6,7 +6,7 @@ date: 1988-04-15
 categories:
   - class-of-1985
 images:
-  - /assets/class-of-1985/mark-p-segalla-1.png
+  - /assets/class-of-1985/mark-p-segalla-1.webp
 gender: male
 ---
 

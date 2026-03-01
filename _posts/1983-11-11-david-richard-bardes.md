@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1977/david-r-bardes-1.png
+  - /assets/class-of-1977/david-r-bardes-1.webp
 gender: male
 ---
 

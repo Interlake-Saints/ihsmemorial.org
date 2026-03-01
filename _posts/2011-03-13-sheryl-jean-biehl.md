@@ -8,7 +8,7 @@ categories:
 tags:
   - liver-failure
 images:
-  - /assets/class-of-1983/sheryl-j-biehl-1.jpg
+  - /assets/class-of-1983/sheryl-j-biehl-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sheri-pardi&pid=149382897
 ---

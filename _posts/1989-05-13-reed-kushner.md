@@ -6,7 +6,7 @@ date: 1989-05-13
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/reed-kushner-1.png
+  - /assets/class-of-1972/reed-kushner-1.webp
 gender: male
 ---
 

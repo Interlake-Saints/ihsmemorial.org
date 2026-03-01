@@ -9,8 +9,8 @@ tags:
   - cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=186369064
 images:
-  - /assets/class-of-1976/keith-wissmar-1.png
-  - /assets/class-of-1976/keith-wissmar-2.jpg
+  - /assets/class-of-1976/keith-wissmar-1.webp
+  - /assets/class-of-1976/keith-wissmar-2.webp
 gender: male
 ---
 

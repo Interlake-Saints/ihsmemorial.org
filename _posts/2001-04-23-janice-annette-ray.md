@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1980/janice-a-ray-1.jpg
+  - /assets/class-of-1980/janice-a-ray-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/legacy/obituary.aspx?n=janice-annette-ryan-ray&pid=48258&fhid=2269
 ---

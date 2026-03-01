@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1985/robert-lee-harris-1.png
-  - /assets/class-of-1985/robert-lee-harris-2.jpg
+  - /assets/class-of-1985/robert-lee-harris-1.webp
+  - /assets/class-of-1985/robert-lee-harris-2.webp
 gender: male
 ---
 

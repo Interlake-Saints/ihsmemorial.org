@@ -6,9 +6,9 @@ date: 2014-08-16
 categories:
   - class-of-1981
 images:
-  - /assets/brumlow3.jpg
-  - /assets/brumlowguitar.jpg
-  - /assets/brumlow81.jpg
+  - /assets/brumlow3.webp
+  - /assets/brumlowguitar.webp
+  - /assets/brumlow81.webp
 gender: male
 ---
 

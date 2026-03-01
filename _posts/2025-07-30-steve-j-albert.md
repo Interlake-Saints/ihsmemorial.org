@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/stevealbert85.jpg
+  - /assets/stevealbert85.webp
 gender: male
 ---
 After graduating from Interlake, Steve attended Seattle University, where he earned a B.A. in communications. He then started a long career as a publishing account representative and sales manager. He was a creative, fun-loving extrovert who always had a wide circle of friends.

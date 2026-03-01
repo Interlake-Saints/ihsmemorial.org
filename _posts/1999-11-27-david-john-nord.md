@@ -8,7 +8,7 @@ categories:
 tags:
   - aids
 images:
-  - /assets/class-of-1979/david-j-nord-1.png
+  - /assets/class-of-1979/david-j-nord-1.webp
 gender: male
 ---
 

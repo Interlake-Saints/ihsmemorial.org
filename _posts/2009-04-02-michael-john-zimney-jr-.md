@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-2011/michael-j-zimney-jr-1.jpg
+  - /assets/class-of-2011/michael-j-zimney-jr-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Michael-Zimney&pid=125831478
 gender: male
 ---

@@ -6,7 +6,7 @@ date: 1992-11-02
 categories:
   - class-of-1987
 images:
-  - /assets/class-of-1987/tara-l-tochterman-1.png
+  - /assets/class-of-1987/tara-l-tochterman-1.webp
 gender: female
 ---
 

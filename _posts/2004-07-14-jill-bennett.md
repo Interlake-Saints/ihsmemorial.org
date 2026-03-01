@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1974/jill-bennett-1.png
+  - /assets/class-of-1974/jill-bennett-1.webp
 gender: female
 ---
 

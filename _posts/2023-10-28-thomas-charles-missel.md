@@ -6,7 +6,7 @@ date: 2023-10-21
 categories:
   - class-of-1979
 images:
-  - /assets/tommissellbothpics.png
+  - /assets/tommissellbothpics.webp
 gender: male
 obituary: https://www.johnston-williams.com/obituary/Thomas-Missel
 ---

@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - class-of-1976
 images:
-  - /assets/class-of-1976/theresa-kraft-jones-1.png
+  - /assets/class-of-1976/theresa-kraft-jones-1.webp
 gender: female
 ---
 

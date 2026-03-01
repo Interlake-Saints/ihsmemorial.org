@@ -6,7 +6,7 @@ date: 2019-02-14
 categories:
   - staff
 images:
-  - /assets/fredericklocke.jpg
+  - /assets/fredericklocke.webp
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/seattle-wa/frederick-locke-8174483
 ---

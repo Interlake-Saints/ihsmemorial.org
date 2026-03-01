@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1979/ronald-s-rowbotham-1.png
-  - /assets/class-of-1979/ronald-s-rowbotham-2.jpg
+  - /assets/class-of-1979/ronald-s-rowbotham-1.webp
+  - /assets/class-of-1979/ronald-s-rowbotham-2.webp
 gender: male
 ---
 

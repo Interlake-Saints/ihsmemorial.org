@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/dianefriedenbach88.png
-  - /assets/class-of-1988/diane-friedenbach-1.jpg
+  - /assets/dianefriedenbach88.webp
+  - /assets/class-of-1988/diane-friedenbach-1.webp
 gender: female
 ---
 

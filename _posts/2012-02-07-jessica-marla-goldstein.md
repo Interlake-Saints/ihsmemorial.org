@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/jessica-m-goldstein-1.jpg
+  - /assets/staff/jessica-m-goldstein-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/lohud/obituary.aspx?pid=155913608
 ---

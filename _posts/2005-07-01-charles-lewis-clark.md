@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/clark33.jpg
+  - /assets/clark33.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/kingcountyjournal/obituary.aspx?n=charles-lewis-clark-chuck&pid=14472183
 ---

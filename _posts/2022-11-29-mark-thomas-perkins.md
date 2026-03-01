@@ -8,8 +8,8 @@ categories:
 tags:
   - accident
 images:
-  - /assets/markperkins.jpg
-  - /assets/markperkins75.png
+  - /assets/markperkins.webp
+  - /assets/markperkins75.webp
 gender: male
 ---
 Mark, who was known as "Perk" to his friends, joined the United States Navy after high school, where he served as a drill instructor and a member of the Navy's Presidental Honor Guard. He was very proud of his service for his country, as he helped bury our war heroes in Arlington, and also helped protect presidents Ford and Carter in the White House.

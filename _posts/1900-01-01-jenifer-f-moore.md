@@ -9,7 +9,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1978/jenifer-f-moore-1.png
+  - /assets/class-of-1978/jenifer-f-moore-1.webp
 gender: female
 ---
 

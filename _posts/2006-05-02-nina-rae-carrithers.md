@@ -6,7 +6,7 @@ date: 2006-05-02
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/nina-r-carrithers-1.png
+  - /assets/class-of-1988/nina-r-carrithers-1.webp
 gender: male
 ---
 

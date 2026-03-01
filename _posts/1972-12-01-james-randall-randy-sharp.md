@@ -8,7 +8,7 @@ categories:
 tags:
   - suicide
 images:
-  - /assets/class-of-1969/james-r-sharp-1.png
+  - /assets/class-of-1969/james-r-sharp-1.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/robert-w-steadman-1.png
+  - /assets/staff/robert-w-steadman-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=robert-william-steadman&pid=159778193
 ---

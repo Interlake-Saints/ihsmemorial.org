@@ -6,7 +6,7 @@ date: 2015-06-14
 categories:
   - staff
 images:
-  - /assets/staff/josephine-agoado-1.jpg
+  - /assets/staff/josephine-agoado-1.webp
 gender: female
 ---
 

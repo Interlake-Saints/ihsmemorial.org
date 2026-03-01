@@ -6,8 +6,8 @@ date: 2012-06-11
 categories:
   - class-of-1971
 images:
-  - /assets/class-of-1971/david-s-tuck-1.png
-  - /assets/class-of-1971/david-s-tuck-2.jpg
+  - /assets/class-of-1971/david-s-tuck-1.webp
+  - /assets/class-of-1971/david-s-tuck-2.webp
 obituary: https://www.findagrave.com/memorial/106417654/david-stewart-tuck
 gender: male
 ---

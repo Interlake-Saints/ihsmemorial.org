@@ -6,7 +6,7 @@ date: 2017-05-10
 categories:
   - class-of-1983
 images:
-  - /assets/darcichase83.png
+  - /assets/darcichase83.webp
 gender: female
 ---
 

@@ -8,9 +8,9 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/michael-s-bacigalupi-1.jpg
-  - /assets/staff/michael-s-bacigalupi-2.jpg
-  - /assets/staff/michael-s-bacigalupi-3.jpg
+  - /assets/staff/michael-s-bacigalupi-1.webp
+  - /assets/staff/michael-s-bacigalupi-2.webp
+  - /assets/staff/michael-s-bacigalupi-3.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=michael-stephen-bacigalupi&pid=176608825&
 ---

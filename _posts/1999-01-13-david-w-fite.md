@@ -8,9 +8,9 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1975/david-w-fite-1.jpg
-  - /assets/class-of-1975/david-w-fite-2.png
-  - /assets/class-of-1975/david-w-fite-3.png
+  - /assets/class-of-1975/david-w-fite-1.webp
+  - /assets/class-of-1975/david-w-fite-2.webp
+  - /assets/class-of-1975/david-w-fite-3.webp
 gender: male
 ---
 

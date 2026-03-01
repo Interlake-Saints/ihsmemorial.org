@@ -8,8 +8,8 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1974/lorie-a-rasmussen-1.png
-  - /assets/class-of-1974/lorie-a-rasmussen-2.jpg
+  - /assets/class-of-1974/lorie-a-rasmussen-1.webp
+  - /assets/class-of-1974/lorie-a-rasmussen-2.webp
 gender: female
 ---
 

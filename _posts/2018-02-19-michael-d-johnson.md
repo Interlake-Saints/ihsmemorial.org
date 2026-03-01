@@ -7,7 +7,7 @@ categories:
   - class-of-1977
 obituary: https://www.wenatcheeworld.com/tributes/obituaries/michael-d-johnson/article_78b9c2c6-78aa-55c9-8d0e-7ddacf8cf9d2.html
 images:
-  - /assets/class-of-1977/michael-d-johnson-1.jpg
+  - /assets/class-of-1977/michael-d-johnson-1.webp
 gender: male
 ---
 

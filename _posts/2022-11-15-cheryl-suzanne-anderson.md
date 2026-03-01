@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/cheryl-anderson-72.jpg
-  - /assets/cheryl2.jpg
+  - /assets/cheryl-anderson-72.webp
+  - /assets/cheryl2.webp
 gender: female
 ---
 C﻿heryl lived in Satsop, WA, where she loved animals, loved gardening, and loved the ocean. Sadly, she passed away of congestive heart failure on September 30, 2022.

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1975/cleo-r-singletary-1.png
+  - /assets/class-of-1975/cleo-r-singletary-1.webp
 gender: female
 ---
 

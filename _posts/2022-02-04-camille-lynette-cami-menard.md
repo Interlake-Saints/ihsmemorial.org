@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/camimenardpics.jpg
+  - /assets/camimenardpics.webp
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/camille-martlin-10423191
 ---

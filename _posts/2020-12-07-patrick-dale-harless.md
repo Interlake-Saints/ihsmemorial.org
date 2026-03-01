@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/harless1.jpg
-  - /assets/harless2.jpg
+  - /assets/harless1.webp
+  - /assets/harless2.webp
 gender: male
 obituary: https://www.legacy.com/us/obituaries/tucson/name/patrick-harless-obituary?pid=197449195
 ---

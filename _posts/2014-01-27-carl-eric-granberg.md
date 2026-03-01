@@ -9,8 +9,8 @@ tags:
   - cardiovascular-disease
 obituary: https://www.colemanmortuary.net/?action=obituaries.obit_view&o_id=2403378&fh_id=10358
 images:
-  - /assets/class-of-1976/carl-e-granberg-1.png
-  - /assets/class-of-1976/carl-e-granberg-2.jpg
+  - /assets/class-of-1976/carl-e-granberg-1.webp
+  - /assets/class-of-1976/carl-e-granberg-2.webp
 gender: male
 ---
 

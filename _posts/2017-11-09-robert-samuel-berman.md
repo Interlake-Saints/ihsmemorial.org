@@ -6,8 +6,8 @@ date: 2017-11-09
 categories:
   - class-of-1981
 images:
-  - /assets/class-of-1981/robert-s-berman-1.jpg
-  - /assets/class-of-1981/robert-s-berman-2.png
+  - /assets/class-of-1981/robert-s-berman-1.webp
+  - /assets/class-of-1981/robert-s-berman-2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=187230063
 ---

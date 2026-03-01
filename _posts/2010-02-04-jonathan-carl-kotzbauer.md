@@ -6,7 +6,7 @@ date: 2010-02-04
 categories:
   - class-of-1971
 images:
-  - /assets/class-of-1971/jonathan-c-kotzbauer-1.png
+  - /assets/class-of-1971/jonathan-c-kotzbauer-1.webp
 gender: male
 ---
 

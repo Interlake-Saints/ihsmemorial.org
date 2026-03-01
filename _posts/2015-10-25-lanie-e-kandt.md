@@ -6,8 +6,8 @@ date: 2015-10-25
 categories:
   - class-of-1990
 images:
-  - /assets/class-of-1990/lanie-e-kandt-1.png
-  - /assets/class-of-1990/lanie-e-kandt-2.jpg
+  - /assets/class-of-1990/lanie-e-kandt-1.webp
+  - /assets/class-of-1990/lanie-e-kandt-2.webp
 obituary: https://www.penbaypilot.com/article/lanie-k-crawford-obituary/61510
 gender: female
 ---

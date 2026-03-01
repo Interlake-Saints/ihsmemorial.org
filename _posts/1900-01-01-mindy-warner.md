@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - class-of-1974
 images:
-  - /assets/class-of-1974/mindy-warner-1.png
+  - /assets/class-of-1974/mindy-warner-1.webp
 gender: female
 ---
 

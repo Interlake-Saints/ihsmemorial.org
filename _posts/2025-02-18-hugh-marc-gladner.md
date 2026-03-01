@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/hughgladnerpics3.jpg
+  - /assets/hughgladnerpics3.webp
 gender: male
 ---
 It is with heavy hearts that we announce the passing of Hugh Gladner, our beloved father, husband, coach, friend, and our favorite BBQ master. Hugh passed away on January 18th, 2025, after a courageous battle with cancer. 

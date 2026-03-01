@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/thomaswhite84.jpeg
+  - /assets/thomaswhite84.webp
 gender: male
 ---
 T﻿homas was a sophomore in pre-law at the University of Washington when he died in a tragic accident the night of May 15, 1986. He fell out of a third-floor window at the UW Alpha Delta Phi fraternity house.

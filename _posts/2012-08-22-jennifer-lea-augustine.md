@@ -6,8 +6,8 @@ date: 2012-08-22
 categories:
   - class-of-1986
 images:
-  - /assets/class-of-1986/jennifer-l-augustine-1.jpg
-  - /assets/class-of-1986/jennifer-l-augustine-2.png
+  - /assets/class-of-1986/jennifer-l-augustine-1.webp
+  - /assets/class-of-1986/jennifer-l-augustine-2.webp
 gender: female
 ---
 

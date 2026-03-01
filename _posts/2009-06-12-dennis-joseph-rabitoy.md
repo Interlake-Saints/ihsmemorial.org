@@ -6,7 +6,7 @@ date: 2009-06-12
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/dennis-j-rabitoy-1.png
+  - /assets/class-of-1988/dennis-j-rabitoy-1.webp
 gender: male
 ---
 

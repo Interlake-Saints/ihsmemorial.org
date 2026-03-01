@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1979/greta-j-geffe-1.png
-  - /assets/class-of-1979/greta-j-geffe-2.jpg
+  - /assets/class-of-1979/greta-j-geffe-1.webp
+  - /assets/class-of-1979/greta-j-geffe-2.webp
 obituary: https://murphyfuneraldirectors.com/tribute/details/202/Greta-Frohbieter/obituary.html
 gender: female
 ---

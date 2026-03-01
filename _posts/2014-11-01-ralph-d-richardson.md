@@ -6,8 +6,8 @@ date: 2014-11-01
 categories:
   - staff
 images:
-  - /assets/ralphrichardson2.jpg
-  - /assets/staff/ralph-d-richardson-1.jpg
+  - /assets/ralphrichardson2.webp
+  - /assets/staff/ralph-d-richardson-1.webp
 gender: male
 obituary: https://www.westfordfuneralhome.com/obituaries/Ralph-Richardson-3/#!/Obituary
 ---

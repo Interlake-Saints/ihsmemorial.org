@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1973/nancy-k-lane-1.png
+  - /assets/class-of-1973/nancy-k-lane-1.webp
 gender: female
 ---
 

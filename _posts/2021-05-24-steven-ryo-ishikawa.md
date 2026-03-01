@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/ishikawa2.png
-  - /assets/ishikawa1.png
+  - /assets/ishikawa2.webp
+  - /assets/ishikawa1.webp
 gender: male
 ---
 

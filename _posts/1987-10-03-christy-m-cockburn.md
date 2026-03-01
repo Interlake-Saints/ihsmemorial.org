@@ -6,7 +6,7 @@ date: 1987-10-03
 categories:
   - class-of-1980
 images:
-  - /assets/class-of-1980/christy-m-cockburn-1.jpg
+  - /assets/class-of-1980/christy-m-cockburn-1.webp
 gender: female
 ---
 

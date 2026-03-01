@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1980/william-h-taussig-jr-1.jpg
+  - /assets/class-of-1980/william-h-taussig-jr-1.webp
 gender: male
 ---
 

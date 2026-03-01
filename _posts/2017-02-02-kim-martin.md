@@ -8,9 +8,9 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-1980/kim-martin-1.png
-  - /assets/class-of-1980/kim-martin-2.png
-  - /assets/class-of-1980/kim-martin-3.jpg
+  - /assets/class-of-1980/kim-martin-1.webp
+  - /assets/class-of-1980/kim-martin-2.webp
+  - /assets/class-of-1980/kim-martin-3.webp
 gender: female
 ---
 

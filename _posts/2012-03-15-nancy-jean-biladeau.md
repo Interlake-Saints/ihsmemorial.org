@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1984/nancy-j-biladeau-1.png
-  - /assets/class-of-1984/nancy-j-biladeau-2.jpg
+  - /assets/class-of-1984/nancy-j-biladeau-1.webp
+  - /assets/class-of-1984/nancy-j-biladeau-2.webp
 gender: female
 obituary: https://www.findagrave.com/memorial/135894782/nancy-jean-biladeau
 ---

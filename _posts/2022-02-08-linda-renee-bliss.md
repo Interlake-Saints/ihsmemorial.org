@@ -6,8 +6,8 @@ date: 2021-10-29
 categories:
   - class-of-1979
 images:
-  - /assets/lindabliss2021.jpg
-  - /assets/lindabliss79.png
+  - /assets/lindabliss2021.webp
+  - /assets/lindabliss79.webp
 gender: female
 ---
 Linda, also known as Linda Bliss Meagher, or Linda Bliss Wiedmaeier, died of complications of multiple diseases on October 29, 2021.

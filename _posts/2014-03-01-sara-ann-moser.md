@@ -6,8 +6,8 @@ date: 2014-03-01
 categories:
   - staff
 images:
-  - /assets/staff/sara-a-moser-1.jpg
-  - /assets/staff/sara-a-moser-2.png
+  - /assets/staff/sara-a-moser-1.webp
+  - /assets/staff/sara-a-moser-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sara-ann-moser-archibald&pid=170097686
 ---

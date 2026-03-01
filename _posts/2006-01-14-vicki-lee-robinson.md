@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1970/vicki-l-robinson-1.png
+  - /assets/class-of-1970/vicki-l-robinson-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Vicki-Robinson&pid=16379814
 gender: female
 ---

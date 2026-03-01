@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1997/travis-a-leva-1.jpg
+  - /assets/class-of-1997/travis-a-leva-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=travis-armstrong-leva&pid=158213974
 gender: male
 ---

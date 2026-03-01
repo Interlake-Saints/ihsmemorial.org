@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1979/daniel-m-shoemaker-1.png
+  - /assets/class-of-1979/daniel-m-shoemaker-1.webp
 gender: male
 ---
 

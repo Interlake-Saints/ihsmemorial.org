@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1978/georgia-v-cluff-1.jpg
-  - /assets/class-of-1978/georgia-v-cluff-2.png
+  - /assets/class-of-1978/georgia-v-cluff-1.webp
+  - /assets/class-of-1978/georgia-v-cluff-2.webp
 obituary: https://www.findagrave.com/memorial/167854133/georgia-viola-bush
 gender: female
 ---

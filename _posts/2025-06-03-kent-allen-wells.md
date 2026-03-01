@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/kentwells70pic.jpg
+  - /assets/kentwells70pic.webp
 gender: male
 ---
 Kent lost his life on June 30, 1993, as a result of injuries sustained in an automobile accident. He had just turned 40 years old.

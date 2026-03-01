@@ -6,7 +6,7 @@ date: 2025-01-08
 categories:
   - class-of-1975
 images:
-  - /assets/jimbrossardpics2.jpg
+  - /assets/jimbrossardpics2.webp
 gender: male
 obituary: https://www.legacy.com/us/obituaries/legacyremembers/james-brossard-obituary?id=57258294
 ---

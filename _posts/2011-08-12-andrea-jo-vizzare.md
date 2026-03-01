@@ -6,7 +6,7 @@ date: 2011-08-12
 categories:
   - class-of-1973
 images:
-  - /assets/vizarre1.jpg
+  - /assets/vizarre1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=andrea-vizzare-magness&pid=153183069
 ---

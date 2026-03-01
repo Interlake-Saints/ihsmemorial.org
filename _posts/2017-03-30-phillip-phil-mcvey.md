@@ -8,9 +8,9 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/philmcvey83.jpg
+  - /assets/philmcvey83.webp
 gender: male
-image: /assets/philmcvey83.jpg
+image: /assets/philmcvey83.webp
 ---
 
 Phil passed away in Kent on Thursday, March 30, 2017, likely of heart complications. He was 51 years old.

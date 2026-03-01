@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/maxmartlin1.jpg
+  - /assets/maxmartlin1.webp
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/max-martlin-10423214
 ---

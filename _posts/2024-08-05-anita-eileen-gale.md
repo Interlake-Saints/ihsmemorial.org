@@ -6,8 +6,8 @@ date: 2024-05-19
 categories:
   - class-of-1969
 images:
-  - /assets/anitagalepics.jpg
-  - /assets/anitagalepic3.jpg
+  - /assets/anitagalepics.webp
+  - /assets/anitagalepic3.webp
 gender: female
 obituary: https://nss.org/the-national-space-society-mourns-the-passing-of-ceo-anita-gale/
 ---

@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1990/matthew-r-foster-1.png
+  - /assets/class-of-1990/matthew-r-foster-1.webp
 gender: male
 ---
 

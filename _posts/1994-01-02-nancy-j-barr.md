@@ -8,7 +8,7 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-1979/nancy-j-barr-1.png
+  - /assets/class-of-1979/nancy-j-barr-1.webp
 gender: female
 ---
 

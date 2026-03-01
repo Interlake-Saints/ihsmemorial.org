@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/mattniehauspictures.jpg
+  - /assets/mattniehauspictures.webp
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/matthew-niehaus-1090083027
 ---

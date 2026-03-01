@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/sallyswensonpic1.jpg
+  - /assets/sallyswensonpic1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sally-linnea-wikoff-swenson&pid=175963321
 ---

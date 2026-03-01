@@ -6,7 +6,7 @@ date: 2011-02-11
 categories:
   - class-of-1971
 images:
-  - /assets/class-of-1971/john-f-stauch-1.png
+  - /assets/class-of-1971/john-f-stauch-1.webp
 gender: male
 ---
 

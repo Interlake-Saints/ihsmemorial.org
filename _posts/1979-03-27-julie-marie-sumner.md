@@ -9,9 +9,9 @@ tags:
   - accident
   - drowning
 images:
-  - /assets/class-of-1977/julie-m-sumner-1.png
-  - /assets/class-of-1977/julie-m-sumner-2.png
-  - /assets/class-of-1977/julie-m-sumner-3.png
+  - /assets/class-of-1977/julie-m-sumner-1.webp
+  - /assets/class-of-1977/julie-m-sumner-2.webp
+  - /assets/class-of-1977/julie-m-sumner-3.webp
 gender: female
 ---
 

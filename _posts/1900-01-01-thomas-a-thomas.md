@@ -9,7 +9,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1983/thomas-a-thomas-1.png
+  - /assets/class-of-1983/thomas-a-thomas-1.webp
 gender: male
 ---
 

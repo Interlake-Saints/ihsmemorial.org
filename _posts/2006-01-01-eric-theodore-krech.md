@@ -9,7 +9,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1980/eric-t-krech-1.jpg
+  - /assets/class-of-1980/eric-t-krech-1.webp
 gender: male
 ---
 

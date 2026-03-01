@@ -8,8 +8,8 @@ categories:
 tags:
   - diabetes
 images:
-  - /assets/class-of-1978/mark-g-waham-1.jpg
-  - /assets/class-of-1978/mark-g-waham-1.png
+  - /assets/class-of-1978/mark-g-waham-1.webp
+  - /assets/class-of-1978/mark-g-waham-1.webp
 obituary: https://www.meaningfulfunerals.net/obituary/1561362?fh_id=13141
 gender: male
 ---

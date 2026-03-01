@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1970/marhsall-h-moss-1.png
+  - /assets/class-of-1970/marhsall-h-moss-1.webp
 gender: male
 ---
 

@@ -8,8 +8,8 @@ categories:
 tags:
   - aneurysm
 images:
-  - /assets/kellym1.jpg
-  - /assets/kellym3.png
+  - /assets/kellym1.webp
+  - /assets/kellym3.webp
 gender: female
 obituary: https://tinyurl.com/k9stmw9j
 ---

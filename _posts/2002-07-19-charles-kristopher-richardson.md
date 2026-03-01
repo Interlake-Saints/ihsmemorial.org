@@ -8,8 +8,8 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1984/charles-k-richardson-1.png
-  - /assets/von-oy2.png
+  - /assets/class-of-1984/charles-k-richardson-1.webp
+  - /assets/von-oy2.webp
 gender: male
 ---
 

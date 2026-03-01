@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-2001/fabien-coutard-1.jpg
+  - /assets/class-of-2001/fabien-coutard-1.webp
 gender: male
 ---
 

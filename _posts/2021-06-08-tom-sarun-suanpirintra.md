@@ -8,8 +8,8 @@ categories:
 tags:
   - aneurysm
 images:
-  - /assets/toms1.png
-  - /assets/toms3.png
+  - /assets/toms1.webp
+  - /assets/toms3.webp
 gender: male
 obituary: https://tinyurl.com/thaitom1
 ---

@@ -6,8 +6,8 @@ date: 2020-02-02
 categories:
   - class-of-1984
 images:
-  - /assets/schillinger2020.jpg
-  - /assets/schillinger84.png
+  - /assets/schillinger2020.webp
+  - /assets/schillinger84.webp
 gender: male
 obituary: https://tinyurl.com/4jwwkx6v
 ---

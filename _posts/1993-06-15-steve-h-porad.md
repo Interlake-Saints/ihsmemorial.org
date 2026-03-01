@@ -6,7 +6,7 @@ date: 1993-06-15
 categories:
   - class-of-1978
 images:
-  - /assets/porad78.jpg
+  - /assets/porad78.webp
 gender: male
 ---
 

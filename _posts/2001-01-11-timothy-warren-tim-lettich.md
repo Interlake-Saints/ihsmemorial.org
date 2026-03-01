@@ -6,7 +6,7 @@ date: 2001-01-11
 categories:
   - class-of-1992
 images:
-  - /assets/lettich1.jpeg
+  - /assets/lettich1.webp
 gender: male
 ---
 

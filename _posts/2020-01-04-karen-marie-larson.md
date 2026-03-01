@@ -6,8 +6,8 @@ date: 2020-01-04
 categories:
   - class-of-1969
 images:
-  - /assets/class-of-1969/karen-m-larson-1.png
-  - /assets/class-of-1969/karen-m-larson-2.jpg
+  - /assets/class-of-1969/karen-m-larson-1.webp
+  - /assets/class-of-1969/karen-m-larson-2.webp
 obituary: https://www.asacredmoment.com/obituaries-archive/karenbarrett
 gender: female
 ---

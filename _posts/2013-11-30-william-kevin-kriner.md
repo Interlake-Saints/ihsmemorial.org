@@ -9,8 +9,8 @@ tags:
   - cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=william-kevin-kriner&pid=168337949
 images:
-  - /assets/class-of-1977/william-k-kriner-1.png
-  - /assets/class-of-1977/william-k-kriner-2.jpg
+  - /assets/class-of-1977/william-k-kriner-1.webp
+  - /assets/class-of-1977/william-k-kriner-2.webp
 gender: male
 ---
 

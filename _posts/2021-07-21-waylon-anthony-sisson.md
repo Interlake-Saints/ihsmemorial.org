@@ -6,7 +6,7 @@ date: 2021-05-10
 categories:
   - class-of-2011
 images:
-  - /assets/sisson1.jpg
+  - /assets/sisson1.webp
 gender: male
 obituary: https://www.legacy.com/us/obituaries/name/waylon-sisson-obituary?id=5734559
 ---

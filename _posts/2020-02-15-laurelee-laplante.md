@@ -8,8 +8,8 @@ categories:
 tags:
   - suicide
 images:
-  - /assets/class-of-1996/laurelee-laplante-1.jpg
-  - /assets/class-of-1996/laurelee-laplante-2.jpg
+  - /assets/class-of-1996/laurelee-laplante-1.webp
+  - /assets/class-of-1996/laurelee-laplante-2.webp
 gender: female
 ---
 

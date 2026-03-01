@@ -6,7 +6,7 @@ date: 2023-07-12
 categories:
   - class-of-1988
 images:
-  - /assets/chadpoyer1.jpg
+  - /assets/chadpoyer1.webp
 gender: male
 ---
 C﻿had passed away in Nevada on July 12, 2023.

@@ -6,7 +6,7 @@ date: 2017-03-08
 categories:
   - staff
 images:
-  - /assets/staff/henry-j-kuehn-1.png
+  - /assets/staff/henry-j-kuehn-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=184483985
 gender: male
 ---

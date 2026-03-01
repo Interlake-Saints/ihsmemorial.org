@@ -8,9 +8,9 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1992/leo-l-javelona-1.jpg
-  - /assets/class-of-1992/leo-l-javelona-2.jpg
-  - /assets/class-of-1992/leo-l-javelona-3.jpg
+  - /assets/class-of-1992/leo-l-javelona-1.webp
+  - /assets/class-of-1992/leo-l-javelona-2.webp
+  - /assets/class-of-1992/leo-l-javelona-3.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - aids
 images:
-  - /assets/class-of-1978/michael-r-oertli-1.png
+  - /assets/class-of-1978/michael-r-oertli-1.webp
 gender: male
 ---
 

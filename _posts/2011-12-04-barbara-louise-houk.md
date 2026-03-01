@@ -8,8 +8,8 @@ categories:
 tags:
   - stroke
 images:
-  - /assets/class-of-1972/barbara-l-houk-1.png
-  - /assets/class-of-1972/barbara-l-houk-2.jpg
+  - /assets/class-of-1972/barbara-l-houk-1.webp
+  - /assets/class-of-1972/barbara-l-houk-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=155063374
 gender: female
 ---

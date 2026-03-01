@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1985/michael-clarence-calhoun-1.jpg
-  - /assets/class-of-1985/michael-clarence-calhoun-2.png
+  - /assets/class-of-1985/michael-clarence-calhoun-1.webp
+  - /assets/class-of-1985/michael-clarence-calhoun-2.webp
 gender: male
 obituary: https://www.findagrave.com/memorial/204898275/michael-clarence-calhoun
 ---

@@ -6,8 +6,8 @@ date: 2022-11-07
 categories:
   - class-of-1970
 images:
-  - /assets/krislund2022_2.jpg
-  - /assets/kris-lund-70.jpg
+  - /assets/krislund2022_2.webp
+  - /assets/kris-lund-70.webp
 gender: male
 ---
 T﻿hroughout his life, Kris Lund was known as a gentle giant.  He stood 6'8" and was one of the biggest athletes in early Interlake history. He was a﻿ member of the track team, and held early school records for the shotput and discus. He was also a member of two Kingco champion football teams. And naturally, because of his height, he was a standout member of the basketball team.

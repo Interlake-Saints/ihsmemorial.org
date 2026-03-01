@@ -6,7 +6,7 @@ date: 2018-12-06
 categories:
   - class-of-2003
 images:
-  - /assets/class-of-2003/shannon-a-bunn-1.jpg
+  - /assets/class-of-2003/shannon-a-bunn-1.webp
 gender: female
 obituary: https://bartonfuneral.com/2018/12/08/shannon-anne-bunn/
 ---

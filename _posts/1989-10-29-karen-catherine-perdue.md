@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1985/karen-catherine-perdue-1.png
+  - /assets/class-of-1985/karen-catherine-perdue-1.webp
 gender: female
 ---
 

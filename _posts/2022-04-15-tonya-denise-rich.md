@@ -6,7 +6,7 @@ date: 2021-11-07
 categories:
   - class-of-1982
 images:
-  - /assets/tonyarich.jpg
+  - /assets/tonyarich.webp
 gender: female
 obituary: https://www.hanesfuneralservice.com/obituary/Tonya-Rich
 ---

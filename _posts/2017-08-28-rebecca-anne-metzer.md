@@ -8,8 +8,8 @@ categories:
 tags:
   - dementia
 images:
-  - /assets/class-of-1974/rebecca-a-metzer-1.png
-  - /assets/class-of-1974/rebecca-a-metzer-2.png
+  - /assets/class-of-1974/rebecca-a-metzer-1.webp
+  - /assets/class-of-1974/rebecca-a-metzer-2.webp
 obituary: https://www.flintofts.com/obituary/Rebecca-Anne-Metzer/Kirkland-Washington/1752076
 gender: female
 ---

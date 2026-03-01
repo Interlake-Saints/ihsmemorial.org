@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1996/vivek-r-kanmatha-1.jpg
+  - /assets/class-of-1996/vivek-r-kanmatha-1.webp
 gender: male
 ---
 

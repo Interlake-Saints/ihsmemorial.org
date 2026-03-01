@@ -8,7 +8,7 @@ categories:
 tags:
   - surgical-complications
 images:
-  - /assets/class-of-1983/tammy-l-schmidt-1.png
+  - /assets/class-of-1983/tammy-l-schmidt-1.webp
 gender: female
 ---
 

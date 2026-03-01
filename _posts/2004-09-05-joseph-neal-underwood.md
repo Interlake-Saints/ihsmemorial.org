@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/joseph-n-underwood-1.jpg
+  - /assets/staff/joseph-n-underwood-1.webp
 gender: male
 ---
 

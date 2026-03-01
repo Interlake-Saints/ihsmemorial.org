@@ -6,8 +6,8 @@ date: 2008-10-19
 categories:
   - staff
 images:
-  - /assets/staff/jane-sommers-1.png
-  - /assets/sommers2.jpg
+  - /assets/staff/jane-sommers-1.webp
+  - /assets/sommers2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/dfw/obituary.aspx?n=jane-and-wesley-sommers&pid=173425925
 ---

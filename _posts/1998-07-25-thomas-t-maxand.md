@@ -6,7 +6,7 @@ date: 1998-07-25
 categories:
   - class-of-1973
 images:
-  - /assets/class-of-1973/thomas-t-maxand-1.png
+  - /assets/class-of-1973/thomas-t-maxand-1.webp
 gender: male
 ---
 

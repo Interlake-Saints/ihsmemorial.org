@@ -6,8 +6,8 @@ date: 2015-09-12
 categories:
   - class-of-1976
 images:
-  - /assets/class-of-1976/stanley-k-jones-1.png
-  - /assets/class-of-1976/stanley-k-jones-2.jpg
+  - /assets/class-of-1976/stanley-k-jones-1.webp
+  - /assets/class-of-1976/stanley-k-jones-2.webp
 gender: male
 ---
 

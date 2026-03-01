@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-2007/dzemal-hozdic-1.jpg
+  - /assets/class-of-2007/dzemal-hozdic-1.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/danhiattpics.jpg
+  - /assets/danhiattpics.webp
 gender: male
 obituary: https://neptunesociety.com/obituaries/lynnwood-wa/daniel-hiatt-12008773
 ---

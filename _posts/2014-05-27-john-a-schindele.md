@@ -6,8 +6,8 @@ date: 2014-05-27
 categories:
   - staff
 images:
-  - /assets/staff/john-a-schindele-1.jpg
-  - /assets/staff/john-a-schindele-2.png
+  - /assets/staff/john-a-schindele-1.webp
+  - /assets/staff/john-a-schindele-2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=John-Schindele&pid=171187024
 ---

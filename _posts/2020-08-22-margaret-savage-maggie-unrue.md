@@ -6,7 +6,7 @@ date: 2020-08-22
 categories:
   - staff
 images:
-  - /assets/unruesavage.png
+  - /assets/unruesavage.webp
 gender: female
 obituary: https://www.sanjuanjournal.com/obituaries/margaret-savage-1936-2020/
 ---

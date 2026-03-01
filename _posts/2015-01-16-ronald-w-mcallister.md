@@ -6,9 +6,9 @@ date: 2015-01-16
 categories:
   - staff
 images:
-  - /assets/staff/ronald-w-mcallister-1.png
-  - /assets/staff/ronald-w-mcallister-2.png
-  - /assets/mcallister3.png
+  - /assets/staff/ronald-w-mcallister-1.webp
+  - /assets/staff/ronald-w-mcallister-2.webp
+  - /assets/mcallister3.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=ron-w-mcallister&pid=173949856
 ---

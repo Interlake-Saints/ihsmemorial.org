@@ -6,7 +6,7 @@ date: 2022-11-03
 categories:
   - class-of-1993
 images:
-  - /assets/carlspics1.jpg
+  - /assets/carlspics1.webp
 gender: male
 ---
 Carl didn't graduate from Interlake, he technically graduated from Sammamish. But he attended Interlake for at least two years and had many friends there. 

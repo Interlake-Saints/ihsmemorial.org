@@ -6,8 +6,8 @@ date: 2021-09-22
 categories:
   - class-of-1980
 images:
-  - /assets/pasion2021.jpg
-  - /assets/pasion79.png
+  - /assets/pasion2021.webp
+  - /assets/pasion79.webp
 gender: male
 obituary: https://www.tributearchive.com/obituaries/22625693/mark-thomas-pasion
 ---

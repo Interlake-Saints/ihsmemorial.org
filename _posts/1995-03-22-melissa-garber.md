@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1986/melissa-garber-1.png
-  - /assets/class-of-1986/melissa-garber-2.jpg
+  - /assets/class-of-1986/melissa-garber-1.webp
+  - /assets/class-of-1986/melissa-garber-2.webp
 gender: female
 ---
 Melissa died in a car accident on March 22, 1995. She was a saleswoman for Pacific Food Service, a food brokerage company,﻿ and she died on her way to a catering gig she had booked. A male friend was driving her to Wenatchee when they were struck by an oncoming truck in Blewett Pass. She was a student at the University of Washington at the time, and she would have graduated with honors two months after her death. 

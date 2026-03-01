@@ -6,7 +6,7 @@ date: 2002-12-05
 categories:
   - class-of-1980
 images:
-  - /assets/class-of-1980/nancy-j-womeldorff-1.png
+  - /assets/class-of-1980/nancy-j-womeldorff-1.webp
 tags:
   - cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Nancy-Robb&pid=646808

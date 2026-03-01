@@ -9,8 +9,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/stevenarmerpics.jpg
-  - /assets/class-of-1972/steven-j-armer-3.jpg
+  - /assets/stevenarmerpics.webp
+  - /assets/class-of-1972/steven-j-armer-3.webp
 gender: male
 ---
 My brother, Steven James Armer, Interlake High School class of 1972, passed on from lung cancer on January 21, 2021. A Celebration of Life service was held on Feb. 27, 2021, at Wintonbury Church in Bloomfield, CT.

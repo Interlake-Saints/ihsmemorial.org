@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1972/mark-l-plummer-1.jpg
+  - /assets/class-of-1972/mark-l-plummer-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=171197726
 gender: male
 ---

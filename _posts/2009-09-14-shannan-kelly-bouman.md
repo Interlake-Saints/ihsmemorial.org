@@ -8,7 +8,7 @@ categories:
 tags:
   - respiratory-diseases
 images:
-  - /assets/class-of-1992/shannan-k-bouman-1.jpg
+  - /assets/class-of-1992/shannan-k-bouman-1.webp
 gender: female
 ---
 

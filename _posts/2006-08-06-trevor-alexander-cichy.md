@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1989/trevor-a-cichy-2.png
-  - /assets/class-of-1989/trevor-a-cichy-1.jpg
+  - /assets/class-of-1989/trevor-a-cichy-2.webp
+  - /assets/class-of-1989/trevor-a-cichy-1.webp
 gender: male
 ---
 

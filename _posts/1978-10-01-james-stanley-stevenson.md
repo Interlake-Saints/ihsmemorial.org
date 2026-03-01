@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1970/james-s-stevenson-1.png
+  - /assets/class-of-1970/james-s-stevenson-1.webp
 gender: male
 ---
 

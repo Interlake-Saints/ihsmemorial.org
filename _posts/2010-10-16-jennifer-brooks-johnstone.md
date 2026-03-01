@@ -9,8 +9,8 @@ tags:
   - accident
   - overdose
 images:
-  - /assets/class-of-1992/jennifer-b-johnstone-1.png
-  - /assets/class-of-1992/jennifer-b-johnstone-2.jpg
+  - /assets/class-of-1992/jennifer-b-johnstone-1.webp
+  - /assets/class-of-1992/jennifer-b-johnstone-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=146259898&fbclid
 ---

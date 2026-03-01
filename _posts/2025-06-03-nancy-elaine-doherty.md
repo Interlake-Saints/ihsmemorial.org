@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/nancydohertypics.jpg
+  - /assets/nancydohertypics.webp
 gender: female
 ---
 Nancy Elaine Doherty was born December 2, 1957, in Wichita, KS, to John and Elizabeth "Betty" Doherty. She was the last of four, having oldest sister Sue, sister Becky, then brother Mike above her on the pecking order. They moved around a fair bit as Dad was employed in the Minuteman Missile Program and lived in different parts of the country, living in a travel trailer for some of it, trying to keep up with Dad. 

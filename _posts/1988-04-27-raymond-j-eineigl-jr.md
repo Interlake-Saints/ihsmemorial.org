@@ -6,8 +6,8 @@ date: 1988-04-27
 categories:
   - class-of-1986
 images:
-  - /assets/class-of-1986/raymond-j-eineigl-jr-1.jpg
-  - /assets/class-of-1986/raymond-j-eineigl-jr-2.jpg
+  - /assets/class-of-1986/raymond-j-eineigl-jr-1.webp
+  - /assets/class-of-1986/raymond-j-eineigl-jr-2.webp
 gender: male
 ---
 

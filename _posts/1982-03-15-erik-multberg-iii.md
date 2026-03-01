@@ -8,7 +8,7 @@ categories:
 tags:
   - overdose
 images:
-  - /assets/class-of-1973/erik-hultberg-iii-1.png
+  - /assets/class-of-1973/erik-hultberg-iii-1.webp
 gender: male
 ---
 

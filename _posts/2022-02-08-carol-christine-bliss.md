@@ -6,7 +6,7 @@ date: 2021-06-13
 categories:
   - class-of-1981
 images:
-  - /assets/carolbliss1.jpg
+  - /assets/carolbliss1.webp
 gender: female
 ---
 Carol, aka Carol Bliss Pieratt, died of a stroke on June 13, 2021. She was 58 years old.

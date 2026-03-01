@@ -7,7 +7,7 @@ categories:
   - class-of-1986
   - class-of-1987
 images:
-  - /assets/class-of-1986/william-j-tagge-1.jpg
+  - /assets/class-of-1986/william-j-tagge-1.webp
 gender: male
 ---
 

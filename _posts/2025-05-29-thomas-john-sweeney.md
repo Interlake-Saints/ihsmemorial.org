@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/tomsweeneypics.jpg
+  - /assets/tomsweeneypics.webp
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/thomas-sweeney-1092889766
 ---

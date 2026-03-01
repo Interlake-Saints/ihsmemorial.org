@@ -6,8 +6,8 @@ date: 2008-07-24
 categories:
   - staff
 images:
-  - /assets/staff/royal-e-penewell-1.png
-  - /assets/staff/royal-e-penewell-2.png
+  - /assets/staff/royal-e-penewell-1.webp
+  - /assets/staff/royal-e-penewell-2.webp
 gender: male
 ---
 

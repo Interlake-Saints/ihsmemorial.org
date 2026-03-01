@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/sondra-gable-1.png
+  - /assets/staff/sondra-gable-1.webp
 gender: female
 ---
 

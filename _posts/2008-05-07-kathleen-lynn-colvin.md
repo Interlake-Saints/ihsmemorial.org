@@ -8,9 +8,9 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1969/kathleen-l-colvin-1.png
-  - /assets/class-of-1969/kathleen-l-colvin-2.jpg
-  - /assets/class-of-1969/kathleen-l-colvin-3.jpg
+  - /assets/class-of-1969/kathleen-l-colvin-1.webp
+  - /assets/class-of-1969/kathleen-l-colvin-2.webp
+  - /assets/class-of-1969/kathleen-l-colvin-3.webp
 gender: female
 obituary: https://www.mem.com/Biography/2434940/11755121/11772347?title=Biography
 ---

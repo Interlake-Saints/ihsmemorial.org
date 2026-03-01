@@ -8,7 +8,7 @@ categories:
 tags:
   - overdose
 images:
-  - /assets/class-of-2018/robert-dalton-ausbun.jpg
+  - /assets/class-of-2018/robert-dalton-ausbun.webp
 gender: male
 obituary: https://www.tributearchive.com/obituaries/18614677/Robert-Dalton-Ausbun/Issaquah/Washington/Flintofts-Funeral-Home-Crematory
 ---

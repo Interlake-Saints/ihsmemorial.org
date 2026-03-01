@@ -6,7 +6,7 @@ date: 2024-03-14
 categories:
   - class-of-1978
 images:
-  - /assets/johnpankratzpictures.jpg
+  - /assets/johnpankratzpictures.webp
 gender: male
 ---
 **Lifelong Wood Flooring Pro John Pankratz Jr. of Kelly-Goodwin Dies at 63**

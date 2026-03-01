@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1973/karyne-g-miller-1.png
+  - /assets/class-of-1973/karyne-g-miller-1.webp
 obituary: http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Karyne-Miller&pid=17500521
 gender: female
 ---

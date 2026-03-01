@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-2005/colin-p-carty-1.jpg
+  - /assets/class-of-2005/colin-p-carty-1.webp
 gender: male
 ---
 

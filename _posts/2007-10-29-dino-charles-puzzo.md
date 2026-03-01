@@ -8,8 +8,8 @@ categories:
 tags:
   - respiratory-diseases
 images:
-  - /assets/class-of-1976/dino-c-puzzo-1.png
-  - /assets/class-of-1976/dino-c-puzzo-2.png
+  - /assets/class-of-1976/dino-c-puzzo-1.webp
+  - /assets/class-of-1976/dino-c-puzzo-2.webp
 gender: male
 ---
 

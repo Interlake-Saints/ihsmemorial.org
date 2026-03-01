@@ -8,8 +8,8 @@ categories:
 tags:
   - homicide
 images:
-  - /assets/class-of-1978/cathy-j-edison-1.png
-  - /assets/class-of-1978/cathy-j-edison-2.jpg
+  - /assets/class-of-1978/cathy-j-edison-1.webp
+  - /assets/class-of-1978/cathy-j-edison-2.webp
 gender: female
 obituary: https://webapp1.meaningfulfunerals.net/?action=obituaries.obit_view&o_id=3058310&fh_id=11360
 ---

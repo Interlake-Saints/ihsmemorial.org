@@ -8,7 +8,7 @@ categories:
 tags:
   - cystic-fibrosis
 images:
-  - /assets/class-of-1982/amy-j-mallon-1.png
+  - /assets/class-of-1982/amy-j-mallon-1.webp
 gender: female
 ---
 

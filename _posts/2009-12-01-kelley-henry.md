@@ -8,8 +8,8 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1976/kelley-henry-1.png
-  - /assets/class-of-1976/kelley-henry-2.png
+  - /assets/class-of-1976/kelley-henry-1.webp
+  - /assets/class-of-1976/kelley-henry-2.webp
 gender: female
 ---
 

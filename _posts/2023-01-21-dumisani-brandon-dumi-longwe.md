@@ -8,7 +8,7 @@ categories:
 tags:
   - overdose
 images:
-  - /assets/dumilongwe.jpg
+  - /assets/dumilongwe.webp
 gender: male
 obituary: https://www.legacy.com/us/obituaries/name/dumisani-longwe-obituary?id=38646008
 ---

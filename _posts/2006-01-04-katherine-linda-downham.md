@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1969/katherine-l-downham-1.png
-  - /assets/class-of-1969/katherine-l-downham-2.jpg
+  - /assets/class-of-1969/katherine-l-downham-1.webp
+  - /assets/class-of-1969/katherine-l-downham-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Katherine-Reese&pid=16385564
 ---

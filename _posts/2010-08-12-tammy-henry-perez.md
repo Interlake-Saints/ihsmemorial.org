@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1975/tami-henry-perez-1.png
+  - /assets/class-of-1975/tami-henry-perez-1.webp
 gender: female
 ---
 

@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1978/loran-j-moesch-1.jpg
+  - /assets/class-of-1978/loran-j-moesch-1.webp
 gender: male
 ---
 

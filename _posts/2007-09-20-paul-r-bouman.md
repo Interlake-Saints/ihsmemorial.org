@@ -6,7 +6,7 @@ date: 2007-09-20
 categories:
   - class-of-1983
 images:
-  - /assets/class-of-1983/paul-r-bouman-1.png
+  - /assets/class-of-1983/paul-r-bouman-1.webp
 gender: male
 ---
 

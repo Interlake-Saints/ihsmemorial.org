@@ -6,9 +6,9 @@ date: 2021-12-11
 categories:
   - staff
 images:
-  - /assets/marianne-bergstrom-photo.png
-  - /assets/bergstromnew.png
-  - /assets/bergstrom1.jpg
+  - /assets/marianne-bergstrom-photo.webp
+  - /assets/bergstromnew.webp
+  - /assets/bergstrom1.webp
 gender: female
 ---
 Marianne Bergstrom was born in Sweden. From an early age she found her call to become a teacher, because she believed that good education creates a good standard of living. She worked in a Christian school in Sweden for a few years, before changing her life and moving to the United States, were she met her soulmate and spouse Rick Anderson.

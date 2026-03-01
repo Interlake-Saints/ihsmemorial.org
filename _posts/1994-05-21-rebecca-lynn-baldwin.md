@@ -6,7 +6,7 @@ date: 1994-05-21
 categories:
   - class-of-1976
 images:
-  - /assets/class-of-1976/rebecca-l-baldwin-1.png
+  - /assets/class-of-1976/rebecca-l-baldwin-1.webp
 gender: female
 ---
 

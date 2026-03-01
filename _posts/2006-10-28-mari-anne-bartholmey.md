@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1976/mari-a-bartholmey-1.png
-  - /assets/class-of-1976/mari-a-bartholmey-2.png
+  - /assets/class-of-1976/mari-a-bartholmey-1.webp
+  - /assets/class-of-1976/mari-a-bartholmey-2.webp
 gender: female
 obituary: https://straubsfuneralhome.com/tribute/details/834/Annie-Johnson/obituary.html
 ---

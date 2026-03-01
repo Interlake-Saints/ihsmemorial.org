@@ -6,9 +6,9 @@ date: 2010-09-25
 categories:
   - class-of-1979
 images:
-  - /assets/class-of-1979/scott-m-yuhl-1.png
-  - /assets/class-of-1979/scott-m-yuhl-2.jpg
-  - /assets/class-of-1979/scott-m-yuhl-3.jpg
+  - /assets/class-of-1979/scott-m-yuhl-1.webp
+  - /assets/class-of-1979/scott-m-yuhl-2.webp
+  - /assets/class-of-1979/scott-m-yuhl-3.webp
 gender: male
 ---
 

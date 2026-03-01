@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/lonericksonpictures.jpg
+  - /assets/lonericksonpictures.webp
 gender: male
 ---
 Lon was born in Klamath Falls in 1956, and was the oldest of three children. He grew up in Bellevue, and graduated from Interlake in 1974. And from a very early age, he loved hydroplanes. Starting as a child, he loved pretty much everything about hydroplane culture. 

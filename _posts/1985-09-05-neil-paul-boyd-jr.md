@@ -6,7 +6,7 @@ date: 1985-09-05
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/neil-p-boyd-jr-1.png
+  - /assets/class-of-1972/neil-p-boyd-jr-1.webp
 gender: male
 ---
 

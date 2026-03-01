@@ -8,9 +8,9 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1976/jami-e-raines-1.png
-  - /assets/class-of-1976/jami-e-raines-2.png
-  - /assets/class-of-1976/jami-e-raines-3.jpg
+  - /assets/class-of-1976/jami-e-raines-1.webp
+  - /assets/class-of-1976/jami-e-raines-2.webp
+  - /assets/class-of-1976/jami-e-raines-3.webp
 gender: female
 ---
 

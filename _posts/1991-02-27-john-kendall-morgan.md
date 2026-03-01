@@ -8,7 +8,7 @@ categories:
 tags:
   - killed-in-action
 images:
-  - /assets/johnmorganpics.jpg
+  - /assets/johnmorganpics.webp
 gender: male
 obituary: https://archive.seattletimes.com/archive/?date=19910313&slug=1271422
 ---

@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/paul-a-colleran-1.png
-  - /assets/class-of-1978/paul-a-colleran-2.jpg
+  - /assets/class-of-1978/paul-a-colleran-1.webp
+  - /assets/class-of-1978/paul-a-colleran-2.webp
 gender: male
 ---
 

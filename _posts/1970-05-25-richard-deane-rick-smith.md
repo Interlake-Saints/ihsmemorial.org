@@ -8,8 +8,8 @@ categories:
 tags:
   - killed-in-action
 images:
-  - /assets/class-of-1969/richard-d-smith-1.png
-  - /assets/ricksmithpic.png
+  - /assets/class-of-1969/richard-d-smith-1.webp
+  - /assets/ricksmithpic.webp
 gender: male
 obituary: https://www.findagrave.com/memorial/7964364/richard-deane-smith
 ---

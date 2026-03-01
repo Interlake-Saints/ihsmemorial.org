@@ -8,9 +8,9 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1976/sean-o-brien-1.png
-  - /assets/class-of-1976/sean-o-brien-2.jpg
-  - /assets/class-of-1976/sean-o-brien-2.png
+  - /assets/class-of-1976/sean-o-brien-1.webp
+  - /assets/class-of-1976/sean-o-brien-2.webp
+  - /assets/class-of-1976/sean-o-brien-2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sean-obrien&pid=155669955
 ---

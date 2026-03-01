@@ -9,7 +9,7 @@ tags:
   - cardiovascular-disease
 obituary: https://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Kevin-Mark-Kemp&pid=3275058
 images:
-  - /assets/class-of-1976/kevin-m-kemp-1.png
+  - /assets/class-of-1976/kevin-m-kemp-1.webp
 gender: male
 ---
 

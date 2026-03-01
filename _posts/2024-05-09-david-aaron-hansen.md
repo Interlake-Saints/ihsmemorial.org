@@ -6,7 +6,7 @@ date: 2024-03-17
 categories:
   - class-of-1990
 images:
-  - /assets/davidhansen90.png
+  - /assets/davidhansen90.webp
 gender: male
 obituary: https://www.flintofts.com/obituaries/David-Aaron-Hansen?obId=31060278
 ---

@@ -10,7 +10,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1978/sheri-l-posten-1.png
+  - /assets/class-of-1978/sheri-l-posten-1.webp
 gender: female
 ---
 

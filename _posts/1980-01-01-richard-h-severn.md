@@ -9,7 +9,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1975/richard-h-severn-1.png
+  - /assets/class-of-1975/richard-h-severn-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2009-02-24
 categories:
   - staff
 images:
-  - /assets/staff/robert-r-baker-1.png
+  - /assets/staff/robert-r-baker-1.webp
 obituary: https://www.legacy.com/obituaries/skagitvalleyherald/obituary.aspx?n=ROBERT-BAKER&pid=124686955
 gender: male
 ---

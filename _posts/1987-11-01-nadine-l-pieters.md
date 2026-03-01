@@ -9,7 +9,7 @@ tags:
   - traffic
   - homicide
 images:
-  - /assets/class-of-1977/nadine-l-pieters-1.png
+  - /assets/class-of-1977/nadine-l-pieters-1.webp
 gender: female
 ---
 

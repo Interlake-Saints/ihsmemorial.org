@@ -6,8 +6,8 @@ date: 2021-06-24
 categories:
   - staff
 images:
-  - /assets/jimmorgan3.png
-  - /assets/jimmorgan1.jpg
+  - /assets/jimmorgan3.webp
+  - /assets/jimmorgan1.webp
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/james-morgan-1082696124
 ---

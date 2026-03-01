@@ -6,7 +6,7 @@ date: 2005-03-28
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/arturo-b-bravo-1.png
+  - /assets/class-of-1988/arturo-b-bravo-1.webp
 gender: male
 ---
 

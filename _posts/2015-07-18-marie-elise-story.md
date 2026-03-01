@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1992/marie-e-story-1.jpg
-  - /assets/class-of-1992/marie-e-story-2.jpg
+  - /assets/class-of-1992/marie-e-story-1.webp
+  - /assets/class-of-1992/marie-e-story-2.webp
 gender: female
 ---
 

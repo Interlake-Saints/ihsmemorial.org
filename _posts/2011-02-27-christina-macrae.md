@@ -6,7 +6,7 @@ date: 2011-02-27
 categories:
   - staff
 images:
-  - /assets/staff/christina-macrae-1.jpg
+  - /assets/staff/christina-macrae-1.webp
 gender: female
 ---
 

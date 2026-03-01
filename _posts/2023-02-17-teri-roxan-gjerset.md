@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/terigjersetboth.png
-  - /assets/terigjerset2.jpg
+  - /assets/terigjersetboth.webp
+  - /assets/terigjerset2.webp
 gender: female
 ---
 Teri, aka Teri Gjerset Morris, passed into heaven on February 6, 2023, after a fourteen-year battle with cancer.

@@ -8,8 +8,8 @@ categories:
 tags:
   - surgical-complications
 images:
-  - /assets/class-of-1982/karen-marie-palmerton-1.png
-  - /assets/class-of-1982/karen-marie-palmerton-2.jpg
+  - /assets/class-of-1982/karen-marie-palmerton-1.webp
+  - /assets/class-of-1982/karen-marie-palmerton-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=173184462
 gender: female
 ---

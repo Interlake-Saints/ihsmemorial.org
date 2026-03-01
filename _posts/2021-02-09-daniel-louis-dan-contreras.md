@@ -6,8 +6,8 @@ date: 2021-02-09
 categories:
   - class-of-1986
 images:
-  - /assets/contreras1.jpg
-  - /assets/dancontreras.jpg
+  - /assets/contreras1.webp
+  - /assets/dancontreras.webp
 gender: male
 obituary: https://www.americanmemorial.org/obituary/daniel-contreras
 ---

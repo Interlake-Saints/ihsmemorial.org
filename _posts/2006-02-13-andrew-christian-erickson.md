@@ -6,7 +6,7 @@ date: 2006-02-13
 categories:
   - class-of-1973
 images:
-  - /assets/class-of-1973/andrew-c-erickson-1.png
+  - /assets/class-of-1973/andrew-c-erickson-1.webp
 gender: male
 ---
 

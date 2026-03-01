@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/nickcontreraspics.jpg
+  - /assets/nickcontreraspics.webp
 gender: male
 obituary: https://neptunesociety.com/obituaries/lynnwood-wa/nick-contreras-12083076
 ---

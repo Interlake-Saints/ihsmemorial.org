@@ -6,7 +6,7 @@ date: 2012-02-07
 categories:
   - staff
 images:
-  - /assets/staff/dennis-garrity-1.png
+  - /assets/staff/dennis-garrity-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=dennis-garrity&pid=155813968
 gender: male
 ---

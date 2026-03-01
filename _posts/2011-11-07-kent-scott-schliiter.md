@@ -6,8 +6,8 @@ date: 2011-11-07
 categories:
   - class-of-1987
 images:
-  - /assets/class-of-1987/kent-s-schliiter-1.png
-  - /assets/class-of-1987/kent-s-schliiter-2.jpg
+  - /assets/class-of-1987/kent-s-schliiter-1.webp
+  - /assets/class-of-1987/kent-s-schliiter-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=kent-scott-schliiter&pid=154620476
 gender: male
 ---

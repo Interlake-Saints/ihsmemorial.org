@@ -6,7 +6,7 @@ date: 2012-02-25
 categories:
   - class-of-1976
 images:
-  - /assets/class-of-1976/chris-j-berhold-1.png
+  - /assets/class-of-1976/chris-j-berhold-1.webp
 gender: male
 ---
 

@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1999/dylan-caleb-loorem-1.jpg
-  - /assets/class-of-1999/dylan-caleb-loorem-2.jpg
+  - /assets/class-of-1999/dylan-caleb-loorem-1.webp
+  - /assets/class-of-1999/dylan-caleb-loorem-2.webp
 gender: male
 ---
 

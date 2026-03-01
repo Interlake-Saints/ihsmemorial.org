@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/stratmeyer2.jpg
-  - /assets/stratmeyer1.jpg
+  - /assets/stratmeyer2.webp
+  - /assets/stratmeyer1.webp
 gender: male
 obituary: https://tinyurl.com/estratmeyer
 ---

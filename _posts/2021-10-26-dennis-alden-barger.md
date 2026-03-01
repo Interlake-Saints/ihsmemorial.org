@@ -6,8 +6,8 @@ date: 2021-08-14
 categories:
   - staff
 images:
-  - /assets/barger1.png
-  - /assets/barger2.jpg
+  - /assets/barger1.webp
+  - /assets/barger2.webp
 gender: male
 obituary: https://www.chapelofthevalleyncw.com/memorials/dennis-barger/4698344/
 ---

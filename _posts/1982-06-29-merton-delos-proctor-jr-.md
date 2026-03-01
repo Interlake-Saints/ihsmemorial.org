@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1979/merton-d-proctor-jr-1.png
+  - /assets/class-of-1979/merton-d-proctor-jr-1.webp
 gender: male
 ---
 

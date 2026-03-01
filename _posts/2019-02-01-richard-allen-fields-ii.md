@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-2000/richard-a-fields-ii-1.jpg
-  - /assets/class-of-2000/richard-a-fields-ii-2.jpg
+  - /assets/class-of-2000/richard-a-fields-ii-1.webp
+  - /assets/class-of-2000/richard-a-fields-ii-2.webp
 gender: male
 ---
 

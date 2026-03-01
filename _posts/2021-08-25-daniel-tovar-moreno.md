@@ -7,7 +7,7 @@ categories:
   - class-of-2022
 tags: []
 images:
-  - /assets/danielmoren3.png
+  - /assets/danielmoren3.webp
 gender: male
 obituary: https://www.flintofts.com/obituaries/Daniel-Tovar-Moreno?obId=21703866
 ---

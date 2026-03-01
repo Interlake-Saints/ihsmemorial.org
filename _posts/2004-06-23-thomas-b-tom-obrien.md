@@ -8,7 +8,7 @@ categories:
 tags:
   - respiratory-diseases
 images:
-  - /assets/tomobrien.png
+  - /assets/tomobrien.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 1988-02-13
 categories:
   - class-of-1979
 images:
-  - /assets/class-of-1979/michael-c-mcgrew-1.png
+  - /assets/class-of-1979/michael-c-mcgrew-1.webp
 gender: male
 ---
 

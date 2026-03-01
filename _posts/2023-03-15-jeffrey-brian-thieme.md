@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/jeffthiemeboth.jpg
+  - /assets/jeffthiemeboth.webp
 gender: male
 obituary: https://everloved.com/life-of/jeffrey-thieme/obituary/?flow=201
 ---

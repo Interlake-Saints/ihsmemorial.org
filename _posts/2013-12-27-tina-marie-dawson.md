@@ -6,8 +6,8 @@ date: 2013-12-27
 categories:
   - class-of-1983
 images:
-  - /assets/class-of-1983/tina-m-dawson-1.png
-  - /assets/class-of-1983/tina-m-dawson-2.jpg
+  - /assets/class-of-1983/tina-m-dawson-1.webp
+  - /assets/class-of-1983/tina-m-dawson-2.webp
 gender: female
 ---
 

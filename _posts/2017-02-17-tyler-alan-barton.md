@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-2009/tyler-a-barton-1.jpg
+  - /assets/class-of-2009/tyler-a-barton-1.webp
 gender: male
 ---
 

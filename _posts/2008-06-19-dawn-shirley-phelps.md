@@ -6,7 +6,7 @@ date: 2008-06-19
 categories:
   - class-of-1976
 images:
-  - /assets/class-of-1976/dawn-s-phelps-1.jpg
+  - /assets/class-of-1976/dawn-s-phelps-1.webp
 gender: female
 obituary: https://www.mem.com/Obituary/2499462/253062326/8223504?title=Obituary
 ---

@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1980/dann-e-rowan-1.jpg
+  - /assets/class-of-1980/dann-e-rowan-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2025-01-12
 categories:
   - class-of-1981
 images:
-  - /assets/alimostasharipics.jpg
+  - /assets/alimostasharipics.webp
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/amir-mostashari-12200102
 ---

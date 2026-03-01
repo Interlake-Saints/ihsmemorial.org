@@ -6,8 +6,8 @@ date: 2015-01-20
 categories:
   - class-of-1975
 images:
-  - /assets/class-of-1975/neil-v-morris-1.png
-  - /assets/class-of-1975/neil-v-morris-2.jpg
+  - /assets/class-of-1975/neil-v-morris-1.webp
+  - /assets/class-of-1975/neil-v-morris-2.webp
 gender: male
 obituary: https://sierrawave.net/neil-morris-1956-2015/
 ---

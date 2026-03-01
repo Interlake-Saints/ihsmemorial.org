@@ -6,8 +6,8 @@ date: 2016-08-12
 categories:
   - class-of-1973
 images:
-  - /assets/class-of-1973/carol-j-burt-1.png
-  - /assets/class-of-1973/carol-j-burt-2.jpg
+  - /assets/class-of-1973/carol-j-burt-1.webp
+  - /assets/class-of-1973/carol-j-burt-2.webp
 gender: female
 ---
 

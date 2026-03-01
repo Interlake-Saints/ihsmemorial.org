@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1969/daniel-j-christian-1.png
+  - /assets/class-of-1969/daniel-j-christian-1.webp
 gender: male
 ---
 

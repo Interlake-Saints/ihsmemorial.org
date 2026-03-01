@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1984/peter-kalasountas-1.png
+  - /assets/class-of-1984/peter-kalasountas-1.webp
 gender: male
 ---
 

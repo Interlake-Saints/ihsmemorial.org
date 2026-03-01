@@ -8,7 +8,7 @@ categories:
 tags:
   - aids
 images:
-  - /assets/class-of-1980/scott-e-lennon-1.jpg
+  - /assets/class-of-1980/scott-e-lennon-1.webp
 gender: male
 ---
 

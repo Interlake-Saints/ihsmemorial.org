@@ -8,7 +8,7 @@ categories:
 tags:
   - suicide
 images:
-  - /assets/class-of-1989/james-p-tierney-1.png
+  - /assets/class-of-1989/james-p-tierney-1.webp
 gender: male
 ---
 

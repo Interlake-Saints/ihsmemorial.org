@@ -6,7 +6,7 @@ date: 2023-01-15
 categories:
   - class-of-1979
 images:
-  - /assets/kirbyson.jpg
+  - /assets/kirbyson.webp
 gender: male
 obituary: https://www.springfieldfuneralhome.com/obituaries/kirbyson-david-bruce/
 ---

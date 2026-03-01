@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/noahgurrola3.png
+  - /assets/noahgurrola3.webp
 gender: male
 ---
 In the early morning of May 28, 2022, Noah was driving his mom's car from his house to a fishing tournament. He was headed east on I-90 when he accidentally fell asleep at the wheel, and drove off the road about ten miles west of Cle Elum. His car went about fifty yards before veering left, rolling, and striking a tree. Noah died at the scene. He was only twenty years old.

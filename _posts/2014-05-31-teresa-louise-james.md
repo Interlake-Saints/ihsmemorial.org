@@ -6,8 +6,8 @@ date: 2014-05-31
 categories:
   - class-of-1976
 images:
-  - /assets/class-of-1976/teresa-l-james-1.png
-  - /assets/class-of-1976/teresa-l-james-2.jpg
+  - /assets/class-of-1976/teresa-l-james-1.webp
+  - /assets/class-of-1976/teresa-l-james-2.webp
 gender: female
 ---
 

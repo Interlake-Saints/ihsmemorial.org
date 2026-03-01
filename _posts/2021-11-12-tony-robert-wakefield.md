@@ -9,7 +9,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/tonywakefield1969.png
+  - /assets/tonywakefield1969.webp
 gender: male
 ---
 

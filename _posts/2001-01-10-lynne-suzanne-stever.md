@@ -6,7 +6,7 @@ date: 2001-01-10
 categories:
   - class-of-1981
 images:
-  - /assets/class-of-1981/lynne-s-stever-1.png
+  - /assets/class-of-1981/lynne-s-stever-1.webp
 gender: female
 ---
 

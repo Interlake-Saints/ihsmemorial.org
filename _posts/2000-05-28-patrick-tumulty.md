@@ -8,7 +8,7 @@ categories:
 tags:
   - als
 images:
-  - /assets/class-of-1980/patrick-tumulty-1.png
+  - /assets/class-of-1980/patrick-tumulty-1.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1985/maura-bartell.png
+  - /assets/class-of-1985/maura-bartell.webp
 gender: female
 ---
 

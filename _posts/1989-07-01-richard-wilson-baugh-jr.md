@@ -6,7 +6,7 @@ date: 1989-07-01
 categories:
   - class-of-1969
 images:
-  - /assets/class-of-1969/richard-w-baugh-jr-1.png
+  - /assets/class-of-1969/richard-w-baugh-jr-1.webp
 gender: male
 ---
 

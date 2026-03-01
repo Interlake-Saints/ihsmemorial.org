@@ -6,7 +6,7 @@ date: 2004-01-24
 categories:
   - class-of-1977
 images:
-  - /assets/class-of-1977/karen-b-beckelman-1.png
+  - /assets/class-of-1977/karen-b-beckelman-1.webp
 gender: female
 ---
 

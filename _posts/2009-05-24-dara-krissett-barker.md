@@ -6,8 +6,8 @@ date: 2009-05-24
 categories:
   - class-of-1975
 images:
-  - /assets/class-of-1975/dara-k-barker-1.png
-  - /assets/class-of-1975/darak-k-barker-2.jpg
+  - /assets/class-of-1975/dara-k-barker-1.webp
+  - /assets/class-of-1975/darak-k-barker-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=dara-krissett-barker&pid=127828486
 ---

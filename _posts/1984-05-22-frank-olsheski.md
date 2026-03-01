@@ -9,10 +9,10 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/frank-olsheski-1.png
-  - /assets/staff/frank-olsheski-2.png
-  - /assets/staff/frank-olsheski-3.png
-  - /assets/10609708_672957986115083_7627741849738825230_n.png
+  - /assets/staff/frank-olsheski-1.webp
+  - /assets/staff/frank-olsheski-2.webp
+  - /assets/staff/frank-olsheski-3.webp
+  - /assets/10609708_672957986115083_7627741849738825230_n.webp
 gender: male
 ---
 

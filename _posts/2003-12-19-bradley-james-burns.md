@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1981/bradley-j-burns-1.jpg
+  - /assets/class-of-1981/bradley-j-burns-1.webp
 gender: male
 ---
 

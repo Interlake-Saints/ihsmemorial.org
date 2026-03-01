@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/heidihuntpics.jpg
+  - /assets/heidihuntpics.webp
 gender: female
 ---
 Heidi, aka Heidi Hunt Vantulden, graduated from Interlake in 1973, and later attended the University of Washington. She received her MBA in Business Administration in 1984 from City University, and she eventually wound up working in public relations and marketing. At the time of her death, she was the founder and president of Bluestone PR, Inc., based out of Oregon.
