@@ -73,8 +73,6 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-archives (2.3.0)
-      jekyll (>= 3.6, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
@@ -169,7 +167,6 @@ DEPENDENCIES
   base64
   csv
   jekyll
-  jekyll-archives (~> 2.2)
   jekyll-paginate (~> 1.1)
   jekyll-redirect-from (~> 0.16)
   jekyll-seo-tag (~> 2.7)
