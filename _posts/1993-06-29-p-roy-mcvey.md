@@ -8,7 +8,7 @@ categories:
 tags:
   - homicide
 images:
-  - /assets/class-of-1980/p-roy-mcvey-1.jpg
+  - /assets/class-of-1980/p-roy-mcvey-1.webp
 gender: male
 ---
 

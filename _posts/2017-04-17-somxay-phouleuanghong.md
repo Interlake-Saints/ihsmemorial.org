@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1994/somxay-phouleuanghong-2.jpg
-  - /assets/class-of-1994/somxay-phouleuanghong-1.jpg
+  - /assets/class-of-1994/somxay-phouleuanghong-2.webp
+  - /assets/class-of-1994/somxay-phouleuanghong-1.webp
 gender: male
 ---
 

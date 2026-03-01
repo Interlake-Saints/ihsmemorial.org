@@ -8,7 +8,7 @@ categories:
 tags:
   - diabetes
 images:
-  - /assets/waynelenikpics.jpg
+  - /assets/waynelenikpics.webp
 gender: male
 ---
 W﻿ayne Lenik of Woodinville passed away from complications of diabetes on November 12, 2023. He was 60 years old.

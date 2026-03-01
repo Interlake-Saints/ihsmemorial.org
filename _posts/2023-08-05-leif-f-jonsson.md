@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/leif-jonsson.jpg
+  - /assets/leif-jonsson.webp
 gender: male
 ---
 Leif passed away in an accidental fall at his home.

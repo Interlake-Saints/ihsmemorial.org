@@ -6,9 +6,9 @@ date: 2017-09-07
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/kenneth-m-jokela-1.png
-  - /assets/class-of-1972/kenneth-m-jokela-2.jpg
-  - /assets/class-of-1972/kenneth-m-jokela-3.jpg
+  - /assets/class-of-1972/kenneth-m-jokela-1.webp
+  - /assets/class-of-1972/kenneth-m-jokela-2.webp
+  - /assets/class-of-1972/kenneth-m-jokela-3.webp
 gender: male
 ---
 

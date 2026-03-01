@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1971/carolyn-k-mcintyre-1.png
-  - /assets/class-of-1971/carolyn-k-mcintyre-2.png
+  - /assets/class-of-1971/carolyn-k-mcintyre-1.webp
+  - /assets/class-of-1971/carolyn-k-mcintyre-2.webp
 gender: female
 ---
 

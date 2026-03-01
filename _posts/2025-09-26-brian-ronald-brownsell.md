@@ -6,7 +6,7 @@ date: 2025-04-11
 categories:
   - class-of-1970
 images:
-  - /assets/brownsellpics.jpg
+  - /assets/brownsellpics.webp
 gender: male
 ---
 After graduating from Interlake, Brian attended the University of Washington, Marquette University, and finally Stetson Law School, in a career spent as both an engineer and later, an attorney. His colleagues knew him to always be exceptionally intelligent, tenacious, and capable. In his personal life, he was known for being adventurous - he had many adventures as a skier, a pilot, a sailor, and an RV captain.

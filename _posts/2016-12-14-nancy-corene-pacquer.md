@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1971/nancy-c-pacquer-1.png
-  - /assets/class-of-1971/nancy-c-pacquer-2.jpg
+  - /assets/class-of-1971/nancy-c-pacquer-1.webp
+  - /assets/class-of-1971/nancy-c-pacquer-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=183718164
 gender: female
 ---

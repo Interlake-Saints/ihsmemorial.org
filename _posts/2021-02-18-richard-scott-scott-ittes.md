@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/ittes3.jpg
-  - /assets/ittes6.png
+  - /assets/ittes3.webp
+  - /assets/ittes6.webp
 gender: male
 ---
 

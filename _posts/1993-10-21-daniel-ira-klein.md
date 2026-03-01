@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1985/daniel-ira-klein-1.png
+  - /assets/class-of-1985/daniel-ira-klein-1.webp
 gender: male
 ---
 

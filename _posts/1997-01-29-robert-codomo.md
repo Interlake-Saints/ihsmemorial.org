@@ -6,7 +6,7 @@ date: 1997-01-29
 categories:
   - class-of-1989
 images:
-  - /assets/class-of-1989/robert-codomo-1.png
+  - /assets/class-of-1989/robert-codomo-1.webp
 gender: male
 ---
 

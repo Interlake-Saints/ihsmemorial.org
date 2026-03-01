@@ -6,7 +6,7 @@ date: 1998-07-10
 categories:
   - class-of-1986
 images:
-  - /assets/class-of-1986/dorn-a-anderson-1.jpg
+  - /assets/class-of-1986/dorn-a-anderson-1.webp
 gender: male
 ---
 Dorn was a manager at an equipment rental company at the time of his death. And he always seemed positive and upbeat, right up until the end. He ultimately committed suicide one night after drinking and smoking marijuana with friends. He was only thirty years old.

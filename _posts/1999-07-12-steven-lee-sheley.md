@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1987/steven-l-sheley-1.png
+  - /assets/class-of-1987/steven-l-sheley-1.webp
 gender: male
 ---
 

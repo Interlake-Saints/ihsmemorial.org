@@ -8,7 +8,7 @@ categories:
 tags:
   - infection
 images:
-  - /assets/maryvenablespics.jpg
+  - /assets/maryvenablespics.webp
 gender: female
 obituary: https://www.legacy.com/us/obituaries/legacyremembers/mary-venables-obituary?id=53112993
 ---

@@ -6,7 +6,7 @@ date: 2022-07-27
 categories:
   - class-of-1986
 images:
-  - /assets/stoffey.jpg
+  - /assets/stoffey.webp
 gender: female
 obituary: https://www.tributearchive.com/obituaries/25522250/jeanette-renee-stoffey/wall
 ---

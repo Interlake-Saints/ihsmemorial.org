@@ -6,7 +6,7 @@ date: 1992-02-15
 categories:
   - class-of-1992
 images:
-  - /assets/class-of-1992/eric-j-zepp-1.png
+  - /assets/class-of-1992/eric-j-zepp-1.webp
 gender: male
 ---
 

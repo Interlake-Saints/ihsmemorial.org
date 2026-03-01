@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/chris-burton-1.jpg
-  - /assets/chrisburton2.png
+  - /assets/chris-burton-1.webp
+  - /assets/chrisburton2.webp
 gender: female
 obituary: https://bartonfuneral.com/2021/02/04/christine-elaine-taylor-burton
 ---

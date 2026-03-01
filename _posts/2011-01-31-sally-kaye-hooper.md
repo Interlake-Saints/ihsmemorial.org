@@ -7,7 +7,7 @@ author: Paul Hyatt
 categories:
   - staff
 images:
-  - /assets/staff/sally-k-hooper-1.png
+  - /assets/staff/sally-k-hooper-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sally-kaye-hooper-senn&pid=148470177
 ---

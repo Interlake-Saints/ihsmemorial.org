@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1983/tamara-l-cohen-1.jpg
-  - /assets/class-of-1983/tamara-l-cohen-2.png
+  - /assets/class-of-1983/tamara-l-cohen-1.webp
+  - /assets/class-of-1983/tamara-l-cohen-2.webp
 gender: male
 ---
 

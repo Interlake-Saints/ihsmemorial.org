@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/pamela-g-paynter-1.png
+  - /assets/class-of-1978/pamela-g-paynter-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Pamela-Reynolds&pid=86149818
 gender: female
 ---

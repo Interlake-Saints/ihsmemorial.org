@@ -8,7 +8,7 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-1972/june-m-gustafson-1.png
+  - /assets/class-of-1972/june-m-gustafson-1.webp
 gender: female
 ---
 June was married and she worked in dentistry

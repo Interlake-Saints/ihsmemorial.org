@@ -6,7 +6,7 @@ date: 1992-06-04
 categories:
   - class-of-1969
 images:
-  - /assets/class-of-1969/gary-l-stroeher-1.png
+  - /assets/class-of-1969/gary-l-stroeher-1.webp
 gender: male
 ---
 

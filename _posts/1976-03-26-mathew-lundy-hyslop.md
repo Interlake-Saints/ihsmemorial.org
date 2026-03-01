@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1977/mathew-l-hyslop-1.png
+  - /assets/class-of-1977/mathew-l-hyslop-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2015-09-29
 categories:
   - staff
 images:
-  - /assets/marypark.jpg
+  - /assets/marypark.webp
 gender: female
 obituary: https://www.findagrave.com/memorial/181899911/mary-christie
 ---

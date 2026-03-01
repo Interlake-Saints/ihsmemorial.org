@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/garygloorpictures.png
+  - /assets/garygloorpictures.webp
 gender: male
 ---
 G﻿ary passed away on November 1, 2023, after a battle with cancer. He left behind two daughters and one granddaughter.

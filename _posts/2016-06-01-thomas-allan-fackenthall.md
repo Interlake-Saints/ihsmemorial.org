@@ -6,10 +6,10 @@ date: 2016-06-01
 categories:
   - staff
 images:
-  - /assets/staff/thomas-a-fackenthall-1.jpg
-  - /assets/staff/thomas-a-fackenthall-2.jpg
-  - /assets/staff/thomas-a-fackenthall-3.jpg
-  - /assets/staff/thomas-a-fackenthall-4.jpg
+  - /assets/staff/thomas-a-fackenthall-1.webp
+  - /assets/staff/thomas-a-fackenthall-2.webp
+  - /assets/staff/thomas-a-fackenthall-3.webp
+  - /assets/staff/thomas-a-fackenthall-4.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/spokesman/obituary.aspx?n=thomas-allan-fackenthall&pid=181070901&
 ---

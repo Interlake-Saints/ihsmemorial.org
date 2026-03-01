@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/richkorbpics.jpg
+  - /assets/richkorbpics.webp
 gender: male
 ---
 Rich was full of life and energy and ambition. He was a teacher and administrator for thirty-five years. He also had several side businesses, and wrote several books. In 2013, as a reward for retiring, he rode his bike 1,860 miles on a dream trip, all the way from Washington State to Wisconsin. 

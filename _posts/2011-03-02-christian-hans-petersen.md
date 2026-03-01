@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1981/christian-h-petersen-1.jpg
-  - /assets/chrishanspetersen80.png
+  - /assets/class-of-1981/christian-h-petersen-1.webp
+  - /assets/chrishanspetersen80.webp
 gender: male
 ---
 

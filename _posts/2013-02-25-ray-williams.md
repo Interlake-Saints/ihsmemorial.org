@@ -8,9 +8,9 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1971/ray-williams-1.png
-  - /assets/class-of-1971/ray-williams-2.jpg
-  - /assets/class-of-1971/ray-williams-3.png
+  - /assets/class-of-1971/ray-williams-1.webp
+  - /assets/class-of-1971/ray-williams-2.webp
+  - /assets/class-of-1971/ray-williams-3.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2019-11-01
 categories:
   - class-of-1972
 images:
-  - /assets/dianefinleypics.jpg
+  - /assets/dianefinleypics.webp
 gender: female
 obituary: https://www.flintofts.com/obituaries/Diane-Marie-Bradbury?obId=8842338
 ---

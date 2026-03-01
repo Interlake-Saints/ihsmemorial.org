@@ -9,8 +9,8 @@ tags:
   - surgical-complications
   - cardiovascular-disease
 images:
-  - /assets/class-of-1988/daniel-w-twito-1.png
-  - /assets/class-of-1988/daniel-w-twito-1.jpg
+  - /assets/class-of-1988/daniel-w-twito-1.webp
+  - /assets/class-of-1988/daniel-w-twito-1.webp
 gender: male
 ---
 

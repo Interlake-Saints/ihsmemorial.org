@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/nancy-e-linden-1.png
+  - /assets/class-of-1978/nancy-e-linden-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Nancy-Richardson&pid=600943
 ---

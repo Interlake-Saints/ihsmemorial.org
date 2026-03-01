@@ -8,8 +8,8 @@ categories:
 tags:
   - stroke
 images:
-  - /assets/class-of-1973/robert-e-renick-jr-1.jpg
-  - /assets/class-of-1973/robert-e-renick-jr-2.jpg
+  - /assets/class-of-1973/robert-e-renick-jr-1.webp
+  - /assets/class-of-1973/robert-e-renick-jr-2.webp
 gender: male
 ---
 

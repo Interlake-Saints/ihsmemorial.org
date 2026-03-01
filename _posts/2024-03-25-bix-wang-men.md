@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/bixmen5.jpg
+  - /assets/bixmen5.webp
 gender: male
 ---
 Bix Men was an exceptional student, a top golf player, a loving son, an Eagle Scout, and a highly skilled programmer. After graduating from Interlake, he was accepted into the prestigious Informatics program at the University of Washington, with plans to one day become a game developer. After his second year at UW, he accepted a summer internship in Taiwan to further his studies. 

@@ -6,7 +6,7 @@ date: 2007-11-21
 categories:
   - class-of-1989
 images:
-  - /assets/class-of-1989/kristen-m-digrado-1.png
+  - /assets/class-of-1989/kristen-m-digrado-1.webp
 gender: female
 ---
 

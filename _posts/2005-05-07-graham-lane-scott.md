@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1975/graham-l-scott-1.jpg
+  - /assets/class-of-1975/graham-l-scott-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Graham-Scott&pid=3542311
 gender: male
 ---

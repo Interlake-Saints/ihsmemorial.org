@@ -9,7 +9,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1972/cidney-l-pardue-1.png
+  - /assets/class-of-1972/cidney-l-pardue-1.webp
 gender: female
 ---
 

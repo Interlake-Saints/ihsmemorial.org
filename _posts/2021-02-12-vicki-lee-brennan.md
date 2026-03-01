@@ -8,7 +8,7 @@ categories:
 tags:
   - stroke
 images:
-  - /assets/vickibrennan80.png
+  - /assets/vickibrennan80.webp
 gender: female
 ---
 

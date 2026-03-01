@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1975/david-s-lane-1.png
-  - /assets/class-of-1975/david-s-lane-2.jpg
+  - /assets/class-of-1975/david-s-lane-1.webp
+  - /assets/class-of-1975/david-s-lane-2.webp
 gender: male
 ---
 

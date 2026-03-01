@@ -8,7 +8,7 @@ categories:
 tags:
   - alzheimers
 images:
-  - /assets/georgepohndorfpics.jpg
+  - /assets/georgepohndorfpics.webp
 gender: male
 obituary: https://www.gardencityfh.com/obituaries/george-pohndorf
 ---

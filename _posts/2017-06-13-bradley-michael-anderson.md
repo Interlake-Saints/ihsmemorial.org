@@ -8,8 +8,8 @@ categories:
 tags:
   - surgical-complications
 images:
-  - /assets/class-of-1979/bradley-m-anderson-1.jpg
-  - /assets/class-of-1979/bradley-m-anderson-2.png
+  - /assets/class-of-1979/bradley-m-anderson-1.webp
+  - /assets/class-of-1979/bradley-m-anderson-2.webp
 gender: male
 ---
 

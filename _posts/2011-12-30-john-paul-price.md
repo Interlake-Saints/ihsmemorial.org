@@ -6,8 +6,8 @@ date: 2011-12-30
 categories:
   - staff
 images:
-  - /assets/staff/john-p-price-1.jpg
-  - /assets/staff/john-p-price-2.png
+  - /assets/staff/john-p-price-1.webp
+  - /assets/staff/john-p-price-2.webp
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/seattle-wa/john-price-4946483
 ---

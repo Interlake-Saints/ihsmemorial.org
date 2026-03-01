@@ -6,7 +6,7 @@ date: 2004-11-24
 categories:
   - class-of-1985
 images:
-  - /assets/class-of-1985/bryce-douglas-mcdonald-1.png
+  - /assets/class-of-1985/bryce-douglas-mcdonald-1.webp
 gender: male
 ---
 

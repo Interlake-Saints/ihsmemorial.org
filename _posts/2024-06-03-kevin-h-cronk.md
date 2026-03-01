@@ -6,8 +6,8 @@ date: 2024-05-19
 categories:
   - class-of-1983
 images:
-  - /assets/kevincronkpics.jpg
-  - /assets/img_1482.jpg
+  - /assets/kevincronkpics.webp
+  - /assets/img_1482.webp
 gender: male
 ---
 It is with unbelievable sadness that I share that my husband, Kevin Howard Cronk, died on May 19, 2024 at home with his wife, mom, and his dogs by his side. He had just turned 59. Kevin leaves a gigantic hole in the lives of many with his wife and dogs trying their best to find their way forward without their Kevin. For those that may not know, Kevin fought valiantly against Diabetes and End Stage Renal Disease and had recently made the impossibly hard decision to stop dialysis treatment after Swedish Hospital removed him from the transplant list.

@@ -6,8 +6,8 @@ date: 2013-06-12
 categories:
   - class-of-1990
 images:
-  - /assets/class-of-1990/dana-anglea-1.png
-  - /assets/class-of-1990/dana-anglea-2.png
+  - /assets/class-of-1990/dana-anglea-1.webp
+  - /assets/class-of-1990/dana-anglea-2.webp
 gender: female
 ---
 

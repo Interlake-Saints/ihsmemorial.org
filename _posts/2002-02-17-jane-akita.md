@@ -8,7 +8,7 @@ categories:
 tags:
   - stroke
 images:
-  - /assets/staff/jane-akita-1.png
+  - /assets/staff/jane-akita-1.webp
 gender: female
 ---
 

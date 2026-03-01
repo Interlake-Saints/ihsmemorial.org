@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/betty-mcgough-1.png
+  - /assets/staff/betty-mcgough-1.webp
 gender: female
 ---
 

@@ -8,8 +8,8 @@ categories:
 tags:
   - liver-failure
 images:
-  - /assets/class-of-1991/richard-w-bickar-2.png
-  - /assets/class-of-1991/richard-w-bickar-1.jpg
+  - /assets/class-of-1991/richard-w-bickar-2.webp
+  - /assets/class-of-1991/richard-w-bickar-1.webp
 gender: male
 ---
 

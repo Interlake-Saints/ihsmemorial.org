@@ -8,8 +8,8 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1980/kirk-w-edison-1.png
-  - /assets/class-of-1980/kirk-w-edison-2.png
+  - /assets/class-of-1980/kirk-w-edison-1.webp
+  - /assets/class-of-1980/kirk-w-edison-2.webp
 gender: male
 ---
 

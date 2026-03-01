@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1982/michael-donald-tranum-1.jpg
-  - /assets/class-of-1982/michael-donald-tranum-1.png
+  - /assets/class-of-1982/michael-donald-tranum-1.webp
+  - /assets/class-of-1982/michael-donald-tranum-1.webp
 gender: male
 ---
 

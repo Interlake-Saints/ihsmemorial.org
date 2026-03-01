@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1973/elisabeth-a-moser-1.png
-  - /assets/class-of-1973/elisabeth-a-moser-2.jpg
+  - /assets/class-of-1973/elisabeth-a-moser-1.webp
+  - /assets/class-of-1973/elisabeth-a-moser-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=elisabeth-ann-keitges-moser&pid=174527455
 ---

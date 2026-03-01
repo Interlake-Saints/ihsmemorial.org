@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1993/kurt-a-carlson-2.png
-  - /assets/class-of-1993/kurt-a-carlson-1.jpg
+  - /assets/class-of-1993/kurt-a-carlson-2.webp
+  - /assets/class-of-1993/kurt-a-carlson-1.webp
 obituary: https://www.legacy.com/obituaries/azcentral/obituary.aspx?pid=186466734
 gender: male
 ---

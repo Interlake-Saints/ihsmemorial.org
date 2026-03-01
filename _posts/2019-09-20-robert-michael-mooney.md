@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1979/robert-m-mooney-1.jpg
-  - /assets/class-of-1979/robert-m-mooney-2.png
+  - /assets/class-of-1979/robert-m-mooney-1.webp
+  - /assets/class-of-1979/robert-m-mooney-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=robert-michael-mooney&pid=194028234
 gender: male
 ---

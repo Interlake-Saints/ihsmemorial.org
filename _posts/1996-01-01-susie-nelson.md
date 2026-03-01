@@ -10,7 +10,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1983/susie-nelson-1.png
+  - /assets/class-of-1983/susie-nelson-1.webp
 gender: female
 ---
 

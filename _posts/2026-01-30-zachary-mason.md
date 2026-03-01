@@ -8,7 +8,7 @@ categories:
 tags:
   - als
 images:
-  - /assets/zachmasonpics.jpg
+  - /assets/zachmasonpics.webp
 gender: male
 ---
 Entry coming soon

@@ -9,8 +9,8 @@ categories:
 tags:
   - muscular-dystrophy
 images:
-  - /assets/class-of-1986/rodney-e-dutcher-1.jpg
-  - /assets/class-of-1986/rodney-e-dutcher-2.png
+  - /assets/class-of-1986/rodney-e-dutcher-1.webp
+  - /assets/class-of-1986/rodney-e-dutcher-2.webp
 gender: male
 ---
 

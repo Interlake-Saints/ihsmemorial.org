@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1979/shelly-l-petersen-1.png
-  - /assets/class-of-1979/shelly-l-petersen-2.jpg
+  - /assets/class-of-1979/shelly-l-petersen-1.webp
+  - /assets/class-of-1979/shelly-l-petersen-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=162356815
 gender: female
 ---

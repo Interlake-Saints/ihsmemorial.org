@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/jean-gerard-1.jpg
-  - /assets/staff/jean-gerard-2.png
+  - /assets/staff/jean-gerard-1.webp
+  - /assets/staff/jean-gerard-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=jean-gerard-tina&pid=134542463
 gender: female
 ---

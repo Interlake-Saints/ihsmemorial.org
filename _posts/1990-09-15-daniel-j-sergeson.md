@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1982/daniel-j-sergeson-1.png
+  - /assets/class-of-1982/daniel-j-sergeson-1.webp
 gender: male
 obituary: https://www.ancestry.com/boards/topics.obits2/76768
 ---

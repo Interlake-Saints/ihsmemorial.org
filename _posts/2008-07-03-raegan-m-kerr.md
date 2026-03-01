@@ -6,8 +6,8 @@ date: 2008-07-03
 categories:
   - class-of-1983
 images:
-  - /assets/class-of-1983/raegan-m-kerr-1.png
-  - /assets/class-of-1983/raegan-m-kerr-2.png
+  - /assets/class-of-1983/raegan-m-kerr-1.webp
+  - /assets/class-of-1983/raegan-m-kerr-2.webp
 gender: male
 ---
 

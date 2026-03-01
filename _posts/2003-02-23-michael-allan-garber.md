@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1985/michael-allan-garber-1.png
+  - /assets/class-of-1985/michael-allan-garber-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=823767
 ---

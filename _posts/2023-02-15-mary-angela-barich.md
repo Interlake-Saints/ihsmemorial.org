@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/marybarichbothpics.png
+  - /assets/marybarichbothpics.webp
 gender: female
 obituary: https://obituaries.seattletimes.com/obituary/mary-hendrickson-1084800053
 ---

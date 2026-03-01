@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1970/karen-a-hawkins-1.png
-  - /assets/class-of-1970/karen-a-hawkins-2.jpg
+  - /assets/class-of-1970/karen-a-hawkins-1.webp
+  - /assets/class-of-1970/karen-a-hawkins-2.webp
 gender: female
 obituary: https://www.wenatcheeworld.com/tributes/obituaries/karen-ann-hawkins-brown/article_9ee835ea-2ac5-5aae-b71f-a9e97d225c89.html
 ---

@@ -6,7 +6,7 @@ date: 1991-03-16
 categories:
   - staff
 images:
-  - /assets/staff/mary-l-seaborn-1.png
+  - /assets/staff/mary-l-seaborn-1.webp
 gender: female
 ---
 

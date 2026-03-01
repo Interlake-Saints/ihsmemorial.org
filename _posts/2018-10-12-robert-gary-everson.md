@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1974/robert-g-everson-1.png
-  - /assets/class-of-1974/robert-g-everson-2.jpg
+  - /assets/class-of-1974/robert-g-everson-1.webp
+  - /assets/class-of-1974/robert-g-everson-2.webp
 obituary: https://www.legacy.com/obituaries/tricityherald/obituary.aspx?n=gary-everson&pid=190531200
 gender: male
 ---

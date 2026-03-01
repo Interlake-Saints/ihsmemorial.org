@@ -8,7 +8,7 @@ categories:
 tags:
   - aneurysm
 images:
-  - /assets/henryparleboth.jpg
+  - /assets/henryparleboth.webp
 gender: male
 ---
 Henry Joseph Parle passed away on March 7, 2018, at Harborview Medical Center in Seattle, Washington, due to complications of subarachnoid hemorrhage. At the time of his passing he was residing with his fourth ex-wife, in Lynden, Washington.

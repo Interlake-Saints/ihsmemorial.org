@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1996/erica-w-brinnon-1.jpg
-  - /assets/class-of-1996/erica-w-brinnon-2.jpg
+  - /assets/class-of-1996/erica-w-brinnon-1.webp
+  - /assets/class-of-1996/erica-w-brinnon-2.webp
 gender: female
 ---
 

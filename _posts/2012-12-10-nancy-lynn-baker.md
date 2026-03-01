@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1980/nancy-l-baker-1.png
-  - /assets/class-of-1980/nancy-l-baker-2.jpg
+  - /assets/class-of-1980/nancy-l-baker-1.webp
+  - /assets/class-of-1980/nancy-l-baker-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Nancy-Lucas&pid=162053098
 gender: female
 ---

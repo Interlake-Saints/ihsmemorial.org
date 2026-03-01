@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/buckingham2009.jpg
-  - /assets/buckingham79.png
+  - /assets/buckingham2009.webp
+  - /assets/buckingham79.webp
 gender: male
 ---
 

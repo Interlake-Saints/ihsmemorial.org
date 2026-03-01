@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - staff
 images:
-  - /assets/staff/david-h-keys-1.png
+  - /assets/staff/david-h-keys-1.webp
 gender: male
 ---
 

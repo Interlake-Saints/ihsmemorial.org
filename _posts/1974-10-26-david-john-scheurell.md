@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1973/david-j-scheurell-1.png
+  - /assets/class-of-1973/david-j-scheurell-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2021-04-17
 categories:
   - class-of-1999
 images:
-  - /assets/jennygarrett1.png
+  - /assets/jennygarrett1.webp
 gender: female
 obituary: https://www.mi-reporter.com/obituaries/jenny-garrett-obituary/
 ---

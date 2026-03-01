@@ -7,6 +7,6 @@ dateUnknown: true
 categories:
   - class-of-1975
 images:
-  - /assets/class-of-1975/james-m-gordon-1.png
+  - /assets/class-of-1975/james-m-gordon-1.webp
 gender: male
 ---

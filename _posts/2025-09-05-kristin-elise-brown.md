@@ -6,7 +6,7 @@ date: 2024-06-11
 categories:
   - class-of-1994
 images:
-  - /assets/kristinbrownpics.jpg
+  - /assets/kristinbrownpics.webp
 gender: female
 obituary: https://obituaries.virginiacremate.com/obituaries/richmond-va/kristin-brown-11870454
 ---

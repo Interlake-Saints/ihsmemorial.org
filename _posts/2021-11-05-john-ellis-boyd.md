@@ -8,8 +8,8 @@ categories:
 tags:
   - diabetes
 images:
-  - /assets/johnboyd2021.jpg
-  - /assets/johnboyd1982.png
+  - /assets/johnboyd2021.webp
+  - /assets/johnboyd1982.webp
 gender: male
 obituary: https://cascadememorial.com/obituary/618758/John-Ellis-Boyd/
 ---

@@ -6,8 +6,8 @@ date: 2022-12-04
 categories:
   - class-of-1982
 images:
-  - /assets/maryblisscurrent.jpg
-  - /assets/marybliss82.png
+  - /assets/maryblisscurrent.webp
+  - /assets/marybliss82.webp
 gender: female
 ---
 Mary Bliss was born with a rare genetic disease she unfortunately shared with all of her siblings. But that never stopped her from living a full life. She was a police officer in Washington State for a good portion of her life, and she also spent time as a young woman as a weightlifter. 

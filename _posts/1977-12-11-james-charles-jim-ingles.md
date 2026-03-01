@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1969/james-c-ingles-1.png
+  - /assets/class-of-1969/james-c-ingles-1.webp
 gender: male
 ---
 

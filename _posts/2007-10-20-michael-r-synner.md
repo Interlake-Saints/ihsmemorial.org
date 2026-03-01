@@ -6,7 +6,7 @@ date: 2007-10-20
 categories:
   - class-of-1981
 images:
-  - /assets/mikesynner79.png
+  - /assets/mikesynner79.webp
 gender: male
 ---
 

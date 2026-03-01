@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/cliff-a-nixon-1.jpg
-  - /assets/staff/cliff-a-nixon-2.jpg
+  - /assets/staff/cliff-a-nixon-1.webp
+  - /assets/staff/cliff-a-nixon-2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=clifford-arthur-nixon&pid=191377436
 ---

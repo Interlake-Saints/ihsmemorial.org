@@ -6,8 +6,8 @@ date: 2011-08-25
 categories:
   - class-of-1982
 images:
-  - /assets/class-of-1982/gregory-scott-massoth-1.jpg
-  - /assets/class-of-1982/gregory-scott-massoth-2.jpg
+  - /assets/class-of-1982/gregory-scott-massoth-1.webp
+  - /assets/class-of-1982/gregory-scott-massoth-2.webp
 gender: male
 ---
 

@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1983/romas-c-palas-1.png
+  - /assets/class-of-1983/romas-c-palas-1.webp
 gender: male
 ---
 

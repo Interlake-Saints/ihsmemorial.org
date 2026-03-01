@@ -6,7 +6,7 @@ date: 2024-08-31
 categories:
   - staff
 images:
-  - /assets/thurmanlanderspics.jpg
+  - /assets/thurmanlanderspics.webp
 gender: male
 obituary: https://www.terryfamilyfuneralhome.com/obituary/Thurman-LandersSr
 ---

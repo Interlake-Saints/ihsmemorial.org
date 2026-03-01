@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1971/james-m-faulk-1.png
+  - /assets/class-of-1971/james-m-faulk-1.webp
 gender: male
 ---
 

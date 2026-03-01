@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1980/holly-e-goodman-1.png
-  - /assets/goodman2.jpg
+  - /assets/class-of-1980/holly-e-goodman-1.webp
+  - /assets/goodman2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Holly-Eileen-Hewitt-Goodman&pid=173894640
 ---

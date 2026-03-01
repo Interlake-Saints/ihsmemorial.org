@@ -8,9 +8,9 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1974/elizabeth-a-dean-1.png
-  - /assets/class-of-1974/elizabeth-a-dean-2.png
-  - /assets/class-of-1974/elizabeth-a-dean-3.jpg
+  - /assets/class-of-1974/elizabeth-a-dean-1.webp
+  - /assets/class-of-1974/elizabeth-a-dean-2.webp
+  - /assets/class-of-1974/elizabeth-a-dean-3.webp
 gender: female
 ---
 

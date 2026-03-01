@@ -6,8 +6,8 @@ date: 2011-03-14
 categories:
   - class-of-1969
 images:
-  - /assets/class-of-1969/robert-e-rutledge-1.jpg
-  - /assets/class-of-1969/robert-e-rutledge-2.png
+  - /assets/class-of-1969/robert-e-rutledge-1.webp
+  - /assets/class-of-1969/robert-e-rutledge-2.webp
 obituary: https://www.meaningfulfunerals.net/?action=obituaries.obit_view&o_id=3114774&fh_id=13884
 gender: male
 ---

@@ -9,7 +9,7 @@ tags:
   - dementia
   - cancer
 images:
-  - /assets/ellengiffordpics.jpg
+  - /assets/ellengiffordpics.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=ellen-gifford-gilbert&pid=196482977
 ---

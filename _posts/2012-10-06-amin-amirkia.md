@@ -6,7 +6,7 @@ date: 2012-10-06
 categories:
   - class-of-2000
 images:
-  - /assets/class-of-2000/amin-amirkia-1.jpg
+  - /assets/class-of-2000/amin-amirkia-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2021-11-13
 categories:
   - class-of-1983
 images:
-  - /assets/frizzellpictures2.jpg
+  - /assets/frizzellpictures2.webp
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/mike-frizzell-1083792264
 ---

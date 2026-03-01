@@ -8,7 +8,7 @@ categories:
 tags:
   - multiple-sclerosis
 images:
-  - /assets/quimbypics2.jpg
+  - /assets/quimbypics2.webp
 gender: male
 ---
 Brian, who most people knew as Quimby, passed away on December 17, 2015, after a long battle with multiple sclerosis. His family will remember him as a loving, gentle soul, who particularly loved animals, children and nature.

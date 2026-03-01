@@ -6,7 +6,7 @@ date: 2025-08-19
 categories:
   - staff
 images:
-  - /assets/prenticepic1.jpg
+  - /assets/prenticepic1.webp
 gender: female
 obituary: https://obituaries.seattletimes.com/obituary/jacquelyn-arnold-prentice-1093111896
 ---

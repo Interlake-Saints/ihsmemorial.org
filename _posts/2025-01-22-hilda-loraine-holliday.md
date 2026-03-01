@@ -6,7 +6,7 @@ date: 2007-11-29
 categories:
   - staff
 images:
-  - /assets/hildaholliday84.jpg
+  - /assets/hildaholliday84.webp
 gender: female
 obituary: https://www.legacy.com/us/obituaries/seattletimes/name/hilda-holliday-obituary?id=28847350
 ---

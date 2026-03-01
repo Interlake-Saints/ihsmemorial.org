@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - class-of-1980
 images:
-  - /assets/class-of-1980/renee-l-higgins-1.jpg
+  - /assets/class-of-1980/renee-l-higgins-1.webp
 gender: female
 ---
 

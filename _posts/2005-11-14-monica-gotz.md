@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/monicagotzpics.jpg
+  - /assets/monicagotzpics.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Monica-Gotz&pid=16317475
 ---

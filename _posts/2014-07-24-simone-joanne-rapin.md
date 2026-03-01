@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/simone-j-rapin-1.jpg
+  - /assets/class-of-1978/simone-j-rapin-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=simone-joanne-rystad&pid=171947132
 gender: female
 ---

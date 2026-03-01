@@ -6,7 +6,7 @@ date: 2022-09-03
 categories:
   - class-of-1974
 images:
-  - /assets/britonriverspic.jpg
+  - /assets/britonriverspic.webp
 gender: female
 obituary: https://www.beaconfh.com/obituary/briton-rivers-rulman
 ---

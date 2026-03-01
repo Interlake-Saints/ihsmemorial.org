@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1975/douglas-m-magnuson-1.png
-  - /assets/class-of-1975/douglas-m-magnuson-2.jpg
+  - /assets/class-of-1975/douglas-m-magnuson-1.webp
+  - /assets/class-of-1975/douglas-m-magnuson-2.webp
 obituary: https://www.yatesfuneralhomes.com/obituaries/obituary-listings?obId=2477717#/obituaryInfo
 gender: male
 ---

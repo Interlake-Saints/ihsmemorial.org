@@ -8,8 +8,8 @@ categories:
 tags:
   - infection
 images:
-  - /assets/sorm2021.jpg
-  - /assets/sorm1984.png
+  - /assets/sorm2021.webp
+  - /assets/sorm1984.webp
 gender: male
 obituary: https://www.elementalnw.com/obituaries/william-bill-everitt-sorm/128/
 ---

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1969/janet-m-ward-1.png
+  - /assets/class-of-1969/janet-m-ward-1.webp
 gender: female
 ---
 

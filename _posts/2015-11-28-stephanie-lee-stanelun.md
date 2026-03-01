@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1984/stephanie-l-stanelun-1.jpg
-  - /assets/class-of-1984/stephanie-l-stanelun-2.png
+  - /assets/class-of-1984/stephanie-l-stanelun-1.webp
+  - /assets/class-of-1984/stephanie-l-stanelun-2.webp
 gender: female
 ---
 

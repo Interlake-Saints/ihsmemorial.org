@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/denisedixon70.png
+  - /assets/denisedixon70.webp
 gender: female
 ---
 Denise, aka Denise C. Torgerson, went to The University of Washington and also Cal State Northridge after graduating from Interlake. She then had a long career working for the VA Medical Center in Los Angeles. She spent more than twenty-five years in Southern California as a respected clinical researcher, coordinator, and documentarian. In fact, at one point, she was even nominated for a Peabody Award. She was also the primary designer of the VA hospital's safety and compliance software. 

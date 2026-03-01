@@ -6,7 +6,7 @@ date: 2006-05-04
 categories:
   - staff
 images:
-  - /assets/staff/laura-cook-1.png
+  - /assets/staff/laura-cook-1.webp
 gender: female
 ---
 

@@ -6,7 +6,7 @@ date: 2020-05-12
 categories:
   - class-of-1979
 images:
-  - /assets/soniasoelter79.png
+  - /assets/soniasoelter79.webp
 gender: female
 ---
 S﻿onia was a longtime employee of the Washington State Department of Agriculture. She passed away on May 12, 2020.

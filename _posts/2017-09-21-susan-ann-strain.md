@@ -8,8 +8,8 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-1971/susan-a-strain-1.png
-  - /assets/class-of-1971/susan-a-strain-2.jpg
+  - /assets/class-of-1971/susan-a-strain-1.webp
+  - /assets/class-of-1971/susan-a-strain-2.webp
 gender: female
 ---
 

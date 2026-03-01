@@ -6,8 +6,8 @@ date: 2014-09-05
 categories:
   - staff
 images:
-  - /assets/staff/roger-ringstad-1.png
-  - /assets/staff/roger-ringstad-2.jpg
+  - /assets/staff/roger-ringstad-1.webp
+  - /assets/staff/roger-ringstad-2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=roger-william-ringstad&pid=172459848&
 ---

@@ -5,7 +5,7 @@ facebook:
   publisher: https://www.facebook.com/ihsmemorial/
   admins: mariolanza
 locale: en_US
-logo: /assets/10609708_672957986115083_7627741849738825230_n.png
+logo: /assets/10609708_672957986115083_7627741849738825230_n.webp
 tagline: Dedicated to graduates and staff
 title: Interlake High School Memorial Wall
 twitter:
@@ -20,7 +20,7 @@ social:
     - https://www.facebook.com/mariolanza
 
 #chirpy
-avatar: /assets/10609708_672957986115083_7627741849738825230_n.png
+avatar: /assets/10609708_672957986115083_7627741849738825230_n.webp
 baseurl: ""
 disqus:
   comments: true

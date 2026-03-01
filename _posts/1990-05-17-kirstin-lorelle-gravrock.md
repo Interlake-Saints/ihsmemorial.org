@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1985/kirstin-lorelle-gravock-1.png
-  - /assets/class-of-1985/kirstin-lorelle-gravrock-2.jpg
+  - /assets/class-of-1985/kirstin-lorelle-gravock-1.webp
+  - /assets/class-of-1985/kirstin-lorelle-gravrock-2.webp
 gender: female
 ---
 

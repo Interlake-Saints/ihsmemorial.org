@@ -8,8 +8,8 @@ categories:
 tags:
   - stroke
 images:
-  - /assets/rollie3.jpg
-  - /assets/staff/rollie-robbins-1.png
+  - /assets/rollie3.webp
+  - /assets/staff/rollie-robbins-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=rolland-robbins-rollie&pid=94895268
 ---

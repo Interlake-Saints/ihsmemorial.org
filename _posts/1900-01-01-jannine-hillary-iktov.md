@@ -10,7 +10,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1987/jannine-h-itkov-1.png
+  - /assets/class-of-1987/jannine-h-itkov-1.webp
 gender: female
 ---
 

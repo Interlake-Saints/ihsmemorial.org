@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/watt1.jpg
+  - /assets/watt1.webp
 gender: female
 ---
 Marsha, aka Marsha Watt-Vikan, battled brain cancer before passing away on March 30, 2013.

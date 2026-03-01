@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/staff/richard-c-warner-1.png
-  - /assets/warner76.png
+  - /assets/staff/richard-c-warner-1.webp
+  - /assets/warner76.webp
 gender: male
 ---
 Dick Warner was a popular history and social studies teacher at Interlake from the late 60s through the mid 70s. He even acted in IHS school plays on occasion, including memorable turns in "Fiddler on the Roof" and "The Man of La Mancha."

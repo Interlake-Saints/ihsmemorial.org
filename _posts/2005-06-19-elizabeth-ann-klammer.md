@@ -6,7 +6,7 @@ date: 2005-06-19
 categories:
   - class-of-1974
 images:
-  - /assets/class-of-1974/elizabeth-a-klammer-1.png
+  - /assets/class-of-1974/elizabeth-a-klammer-1.webp
 gender: female
 ---
 

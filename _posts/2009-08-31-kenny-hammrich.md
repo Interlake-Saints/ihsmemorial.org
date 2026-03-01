@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-2003/kenny-hammrich-1.jpg
+  - /assets/class-of-2003/kenny-hammrich-1.webp
 gender: male
 ---
 

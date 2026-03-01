@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/erikhelppiepics3.png
+  - /assets/erikhelppiepics3.webp
 gender: male
 ---
 Erik was the first Interlake ASB President, and he was also a well-known nationally ranked debate champion. He died of cancer on August 3, 1972, just three years after he graduated from high school. He was only 20 years old.

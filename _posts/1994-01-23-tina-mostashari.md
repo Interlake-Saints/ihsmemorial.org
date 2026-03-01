@@ -9,7 +9,7 @@ tags:
   - homicide
   - firearms
 images:
-  - /assets/tina-mostashari-3.jpg
+  - /assets/tina-mostashari-3.webp
 gender: female
 ---
 Tina was a young mother who was out at night with her friends for the first time since her daughter was born. Crammed into their car- two in the front, three in the back- the five young women were driving on Rainier Avenue South a little after 1 A.M. on January 23, 1994, when a single bullet came crashing through the rear window. It hit Tina in the back of the head, killing her. She had just turned 21 years old.

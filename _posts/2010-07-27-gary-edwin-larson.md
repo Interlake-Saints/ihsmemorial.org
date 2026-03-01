@@ -6,7 +6,7 @@ date: 2010-07-27
 categories:
   - class-of-1974
 images:
-  - /assets/class-of-1974/gary-e-larson-1.png
+  - /assets/class-of-1974/gary-e-larson-1.webp
 gender: male
 ---
 

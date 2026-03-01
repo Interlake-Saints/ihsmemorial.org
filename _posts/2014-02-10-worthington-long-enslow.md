@@ -10,8 +10,8 @@ tags:
   - stroke
   - cardiovascular-disease
 images:
-  - /assets/class-of-1974/worthington-l-enslow-1.jpg
-  - /assets/worthington-enslow-1.jpg
+  - /assets/class-of-1974/worthington-l-enslow-1.webp
+  - /assets/worthington-enslow-1.webp
 gender: male
 ---
 

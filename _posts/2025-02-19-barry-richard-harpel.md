@@ -6,7 +6,7 @@ date: 2024-01-18
 categories:
   - class-of-1973
 images:
-  - /assets/barryharpelpics.jpg
+  - /assets/barryharpelpics.webp
 gender: male
 ---
 Barry was the third of eight siblings. He was born in Seattle, and he spent most of his life in the Seattle area- graduating from Interlake in 1973, and later studying at Lake Washington Institute of Technology (LWTech), and also Bellevue Community College. For a good deal of his life, he worked in real estate and condominium property management.

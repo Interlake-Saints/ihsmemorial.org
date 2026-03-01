@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1974/susan-r-cuthburt-1.png
-  - /assets/class-of-1974/susan-r-cuthburt-2.jpg
+  - /assets/class-of-1974/susan-r-cuthburt-1.webp
+  - /assets/class-of-1974/susan-r-cuthburt-2.webp
 obituary: https://www.legacy.com/us/obituaries/tucson/name/susan-feser-obituary?pid=154868918
 gender: female
 ---

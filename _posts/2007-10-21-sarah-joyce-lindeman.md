@@ -7,7 +7,7 @@ categories:
   - class-of-1976
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Sarah-Lindeman&pid=98783677
 images:
-  - /assets/class-of-1976/sarah-j-lindeman-1.png
+  - /assets/class-of-1976/sarah-j-lindeman-1.webp
 gender: female
 ---
 

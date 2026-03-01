@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1999/jarrett-robert-pilkey-1.jpg
-  - /assets/class-of-1999/jarrett-robert-pilkey-2.jpg
+  - /assets/class-of-1999/jarrett-robert-pilkey-1.webp
+  - /assets/class-of-1999/jarrett-robert-pilkey-2.webp
 gender: male
 ---
 

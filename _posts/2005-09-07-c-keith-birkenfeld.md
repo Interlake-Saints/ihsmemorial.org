@@ -9,8 +9,8 @@ tags:
   - cardiovascular-disease
   - surgical-complications
 images:
-  - /assets/staff/c-keith-birkenfeld-1.png
-  - /assets/staff/c-keith-birkenfeld-2.jpg
+  - /assets/staff/c-keith-birkenfeld-1.webp
+  - /assets/staff/c-keith-birkenfeld-2.webp
 obituary: https://products.kitsapsun.com/archive/2005/09-16/67988_c__keith_birkenfeld_________oc__.html
 gender: male
 ---

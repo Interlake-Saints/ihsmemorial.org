@@ -6,8 +6,8 @@ date: 2023-11-03
 categories:
   - class-of-1972
 images:
-  - /assets/kenmyers2023.jpg
-  - /assets/kenmyers72_1.jpg
+  - /assets/kenmyers2023.webp
+  - /assets/kenmyers72_1.webp
 gender: male
 obituary: https://everloved.com/life-of/kenneth-myers/obituary/
 ---

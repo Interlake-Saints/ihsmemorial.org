@@ -6,7 +6,7 @@ date: 1999-09-09
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/bob-l-taylor-1.png
+  - /assets/class-of-1972/bob-l-taylor-1.webp
 gender: male
 ---
 

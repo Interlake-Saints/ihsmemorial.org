@@ -8,8 +8,8 @@ categories:
 tags:
   - liver-failure
 images:
-  - /assets/kathyboone1.png
-  - /assets/kathyboone10.jpg
+  - /assets/kathyboone1.webp
+  - /assets/kathyboone10.webp
 gender: female
 obituary: https://www.legacy.com/us/obituaries/tucson/name/kathleen-santaniello-obituary?id=37091369
 ---

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/richhoytpics.jpg
+  - /assets/richhoytpics.webp
 gender: male
 obituary: https://www.legacy.com/us/obituaries/dailyrecordnews/name/richard-hoyt-obituary?id=55407007
 ---

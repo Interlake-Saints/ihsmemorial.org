@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1973/jeffrey-g-hardy-1.png
+  - /assets/class-of-1973/jeffrey-g-hardy-1.webp
 gender: male
 ---
 

@@ -6,8 +6,8 @@ date: 2011-09-12
 categories:
   - class-of-1982
 images:
-  - /assets/class-of-1982/alena-maria-sorm-1.jpg
-  - /assets/class-of-1982/alena-maria-sorm-2.png
+  - /assets/class-of-1982/alena-maria-sorm-1.webp
+  - /assets/class-of-1982/alena-maria-sorm-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=alena-sorm&pid=153781558
 ---

@@ -6,7 +6,7 @@ date: 2023-12-04
 categories:
   - class-of-1990
 images:
-  - /assets/camicouch.jpg
+  - /assets/camicouch.webp
 gender: female
 obituary: https://obituaries.seattletimes.com/obituary/cameron-hanson-1091174278
 ---

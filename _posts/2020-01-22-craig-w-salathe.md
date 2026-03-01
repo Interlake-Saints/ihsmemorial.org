@@ -8,7 +8,7 @@ categories:
 tags:
   - surgical-complications
 images:
-  - /assets/class-of-1975/craig-w-salathe-1.png
+  - /assets/class-of-1975/craig-w-salathe-1.webp
 gender: male
 ---
 

@@ -6,7 +6,7 @@ date: 2022-07-29
 categories:
   - class-of-1971
 images:
-  - /assets/bobpaasch71.png
+  - /assets/bobpaasch71.webp
 gender: male
 ---
 B﻿ob was a great athlete at Interlake, lettering in three sports his senior year in 1971. He was also a lifelong golfer, and was part of a regular Sunday game with his friends for years. He was a graduate of Washington State University, and later went on to be the owner of Pacific Color in Seattle. Sadly, he passed away on July 29, 2022.

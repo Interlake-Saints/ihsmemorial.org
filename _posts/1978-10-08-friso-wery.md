@@ -8,8 +8,8 @@ categories:
 tags:
   - cystic-fibrosis
 images:
-  - /assets/class-of-1979/frisco-wery-1.png
-  - /assets/class-of-1979/frisco-wery-2.png
+  - /assets/class-of-1979/frisco-wery-1.webp
+  - /assets/class-of-1979/frisco-wery-2.webp
 gender: male
 ---
 

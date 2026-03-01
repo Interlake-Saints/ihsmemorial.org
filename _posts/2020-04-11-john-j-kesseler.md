@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/john-j-kesseler-1.jpg
-  - /assets/class-of-1978/john-j-kesseler-2.jpg
+  - /assets/class-of-1978/john-j-kesseler-1.webp
+  - /assets/class-of-1978/john-j-kesseler-2.webp
 gender: male
 ---
 

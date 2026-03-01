@@ -8,7 +8,7 @@ categories:
 tags:
   - homicide
 images:
-  - /assets/class-of-2008/ivan-hernandez-vazquez-1.jpg
+  - /assets/class-of-2008/ivan-hernandez-vazquez-1.webp
 gender: male
 ---
 

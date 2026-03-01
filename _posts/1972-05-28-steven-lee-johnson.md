@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1970/steven-l-johnson-1.png
+  - /assets/class-of-1970/steven-l-johnson-1.webp
 gender: male
 ---
 

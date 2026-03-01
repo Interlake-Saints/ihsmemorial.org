@@ -6,7 +6,7 @@ date: 2004-07-19
 categories:
   - class-of-1977
 images:
-  - /assets/class-of-1977/jay-w-barker-1.png
+  - /assets/class-of-1977/jay-w-barker-1.webp
 gender: male
 obituary: https://www.ancestry.com/boards/surnames.barker/2758
 ---

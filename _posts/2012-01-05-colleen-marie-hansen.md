@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/colleenhansenpics.png
+  - /assets/colleenhansenpics.webp
 gender: female
 obituary: https://lmtribune.com/obituaries/article_326b1250-46eb-5737-9704-6d2bc269d924.html
 ---

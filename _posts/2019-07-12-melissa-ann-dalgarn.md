@@ -6,8 +6,8 @@ date: 2019-07-12
 categories:
   - class-of-1971
 images:
-  - /assets/class-of-1971/melissa-a-dalgarn-1.png
-  - /assets/class-of-1971/melissa-a-dalgarn-2.jpg
+  - /assets/class-of-1971/melissa-a-dalgarn-1.webp
+  - /assets/class-of-1971/melissa-a-dalgarn-2.webp
 obituary: https://furlongfuneralchapel.com/melissa-missy-dalgarn/
 gender: female
 ---

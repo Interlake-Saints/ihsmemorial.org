@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - staff
 images:
-  - /assets/staff/paxton-smith-jr-1.png
+  - /assets/staff/paxton-smith-jr-1.webp
 gender: male
 ---
 

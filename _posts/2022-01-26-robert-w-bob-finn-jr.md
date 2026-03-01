@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/finnjr79.png
+  - /assets/finnjr79.webp
 gender: male
 ---
 

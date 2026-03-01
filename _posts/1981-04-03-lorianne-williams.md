@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1980/lorianne-williams-1.png
+  - /assets/class-of-1980/lorianne-williams-1.webp
 gender: female
 ---
 

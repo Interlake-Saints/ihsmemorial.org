@@ -6,7 +6,7 @@ date: 1984-12-01
 categories:
   - class-of-1970
 images:
-  - /assets/class-of-1970/william-k-kumbera-1.png
+  - /assets/class-of-1970/william-k-kumbera-1.webp
 gender: male
 ---
 

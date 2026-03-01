@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1985/todd-w-skidmore-1.png
-  - /assets/class-of-1985/todd-w-skidmore-2.jpg
+  - /assets/class-of-1985/todd-w-skidmore-1.webp
+  - /assets/class-of-1985/todd-w-skidmore-2.webp
 gender: male
 ---
 

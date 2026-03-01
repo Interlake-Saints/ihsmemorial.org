@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1982/elizabeth-anne-bartell-1.png
+  - /assets/class-of-1982/elizabeth-anne-bartell-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=176079345
 ---

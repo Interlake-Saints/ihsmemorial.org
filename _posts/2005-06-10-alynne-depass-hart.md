@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1969/alynne-depass-hart-1.png
-  - /assets/class-of-1969/alynne-depass-hart-2.jpg
+  - /assets/class-of-1969/alynne-depass-hart-1.webp
+  - /assets/class-of-1969/alynne-depass-hart-2.webp
 gender: female
 obituary: http://alynne-jacques.memory-of.com/About.aspx
 ---

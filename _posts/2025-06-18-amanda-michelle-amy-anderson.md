@@ -6,7 +6,7 @@ date: 2025-06-09
 categories:
   - class-of-1995
 images:
-  - /assets/amandahardingpics.jpg
+  - /assets/amandahardingpics.webp
 gender: female
 obituary: https://www.larkinmortuary.com/obituary/view/amanda-harding/
 ---

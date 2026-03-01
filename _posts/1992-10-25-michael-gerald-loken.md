@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1981/michael-g-loken-1.jpg
+  - /assets/class-of-1981/michael-g-loken-1.webp
 gender: male
 ---
 

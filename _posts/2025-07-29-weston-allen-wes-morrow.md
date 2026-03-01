@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/wesmorrowpic.jpg
+  - /assets/wesmorrowpic.webp
 gender: male
 ---
 Wes completed 9th grade at Highland Junior High in 1971, along with the rest of his friends, but he was diagnosed with cancer in the August before he would have started high school at Interlake. He dropped out of school to begin cancer treatment, and only attended Interlake sporadically his sophomore year. But the class of '74 adopted him as one of their own, and they have always considered him part of their graduating class.

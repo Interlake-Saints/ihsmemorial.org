@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1987/denise-a-dalton-1.png
-  - /assets/class-of-1987/denise-a-dalton-2.jpg
+  - /assets/class-of-1987/denise-a-dalton-1.webp
+  - /assets/class-of-1987/denise-a-dalton-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=172677059
 ---

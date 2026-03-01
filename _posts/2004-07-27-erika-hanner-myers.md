@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-2001/erika-hanner-myers-1.jpg
+  - /assets/class-of-2001/erika-hanner-myers-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=2468438
 gender: female
 ---

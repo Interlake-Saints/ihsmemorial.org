@@ -8,8 +8,8 @@ categories:
 tags:
   - alzheimers
 images:
-  - /assets/keller2.png
-  - /assets/keller3.png
+  - /assets/keller2.webp
+  - /assets/keller3.webp
 gender: male
 ---
 

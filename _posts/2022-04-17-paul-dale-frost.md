@@ -8,8 +8,8 @@ categories:
 tags:
   - als
 images:
-  - /assets/paulfrost2022.jpg
-  - /assets/paulfrost69.png
+  - /assets/paulfrost2022.webp
+  - /assets/paulfrost69.webp
 gender: male
 obituary: https://tinyurl.com/paulfrost
 ---

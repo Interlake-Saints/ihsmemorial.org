@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-2005/emily-j-lewis-1.jpg
+  - /assets/class-of-2005/emily-j-lewis-1.webp
 gender: female
 ---
 

@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1974/gary-c-ferderer-1.jpg
-  - /assets/ferderer2.jpg
+  - /assets/class-of-1974/gary-c-ferderer-1.webp
+  - /assets/ferderer2.webp
 obituary: https://www.wenatcheeworld.com/tributes/obituaries/gary-c-ferderer/article_a2a1e67a-4ea1-566b-b8d0-f901ba0e14dd.html
 gender: male
 ---

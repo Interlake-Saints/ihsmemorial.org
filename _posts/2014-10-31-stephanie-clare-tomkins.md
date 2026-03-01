@@ -8,7 +8,7 @@ categories:
 tags:
   - surgical-complications
 images:
-  - /assets/class-of-1988/stephanie-c-tomkins-1.jpg
+  - /assets/class-of-1988/stephanie-c-tomkins-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=173368263
 gender: female
 ---

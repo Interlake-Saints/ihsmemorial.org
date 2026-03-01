@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/davechestermanpics.jpg
+  - /assets/davechestermanpics.webp
 gender: male
 ---
 As a toddler, David lost his mother to cancer - he never knew his birth mother. He was raised by U.S. Air Force Captain Eula Nell Chesterman, a loving stepmother who stepped into his life after meeting and marrying his father, U.S. Air Force Colonel Charles Chesterman. He graduated from Interlake in 1978.

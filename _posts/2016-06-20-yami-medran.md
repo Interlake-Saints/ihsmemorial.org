@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-2018/yami-medran-1.jpg
+  - /assets/class-of-2018/yami-medran-1.webp
 gender: female
 ---
 

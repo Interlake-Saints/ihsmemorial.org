@@ -6,7 +6,7 @@ date: 2023-02-07
 categories:
   - class-of-1977
 images:
-  - /assets/steveutter77.jpg
+  - /assets/steveutter77.webp
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/steven-utter-1087230847/
 ---

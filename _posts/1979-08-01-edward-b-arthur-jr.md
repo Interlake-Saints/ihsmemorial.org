@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1974/edward-b-arthur-jr-1.png
+  - /assets/class-of-1974/edward-b-arthur-jr-1.webp
 gender: male
 ---
 

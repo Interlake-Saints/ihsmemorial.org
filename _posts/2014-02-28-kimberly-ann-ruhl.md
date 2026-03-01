@@ -6,7 +6,7 @@ date: 2014-02-28
 categories:
   - class-of-1977
 images:
-  - /assets/kimruhlpics1.jpg
+  - /assets/kimruhlpics1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/greenvilleonline/obituary.aspx?page=lifestory&pid=170006363
 ---

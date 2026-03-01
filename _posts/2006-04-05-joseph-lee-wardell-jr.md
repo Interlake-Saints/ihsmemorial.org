@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1971/joseph-l-wardell-jr-1.png
+  - /assets/class-of-1971/joseph-l-wardell-jr-1.webp
 gender: male
 ---
 

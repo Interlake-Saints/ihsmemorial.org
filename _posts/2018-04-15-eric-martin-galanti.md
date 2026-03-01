@@ -8,8 +8,8 @@ categories:
 tags:
   - respiratory-diseases
 images:
-  - /assets/class-of-1994/eric-m-galanti-1.jpg
-  - /assets/class-of-1994/eric-m-galanti-2.jpg
+  - /assets/class-of-1994/eric-m-galanti-1.webp
+  - /assets/class-of-1994/eric-m-galanti-2.webp
 gender: male
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1996/melissa-waller-1.jpg
+  - /assets/class-of-1996/melissa-waller-1.webp
 gender: female
 ---
 

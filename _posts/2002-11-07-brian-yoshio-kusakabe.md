@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/brian-y-kusakabe-1.png
+  - /assets/class-of-1978/brian-y-kusakabe-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=590943
 gender: male
 ---

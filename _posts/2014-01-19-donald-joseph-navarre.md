@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1974/donald-j-navarre-1.png
-  - /assets/class-of-1974/donald-j-navarre-2.jpg
+  - /assets/class-of-1974/donald-j-navarre-1.webp
+  - /assets/class-of-1974/donald-j-navarre-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=169346048
 gender: male
 ---

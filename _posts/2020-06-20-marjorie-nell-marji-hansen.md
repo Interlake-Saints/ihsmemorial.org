@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/marjihansenpic.jpg
+  - /assets/marjihansenpic.webp
 gender: female
 obituary: https://obituaries.westvalleyview.com/obituary/marjorie-hansen-1079512339
 ---

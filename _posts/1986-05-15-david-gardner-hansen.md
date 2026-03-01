@@ -6,7 +6,7 @@ date: 1986-05-15
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/david-g-hansen-1.png
+  - /assets/class-of-1972/david-g-hansen-1.webp
 gender: male
 ---
 

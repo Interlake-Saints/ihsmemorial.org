@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1987/lesley-n-mosler-1.png
-  - /assets/class-of-1987/lesley-n-mosler-2.jpg
+  - /assets/class-of-1987/lesley-n-mosler-1.webp
+  - /assets/class-of-1987/lesley-n-mosler-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Lesley-Robinett&pid=2316031
 gender: female
 ---

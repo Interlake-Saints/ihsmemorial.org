@@ -6,7 +6,7 @@ date: 2013-10-15
 categories:
   - class-of-1974
 images:
-  - /assets/class-of-1974/michele-c-kirkey-1.png
+  - /assets/class-of-1974/michele-c-kirkey-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=michele-c-davis-kirkey&pid=167943728
 gender: female
 ---

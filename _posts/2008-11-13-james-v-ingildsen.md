@@ -6,7 +6,7 @@ date: 2008-11-13
 categories:
   - class-of-1974
 images:
-  - /assets/class-of-1974/james-v-ingildsen-1.png
+  - /assets/class-of-1974/james-v-ingildsen-1.webp
 gender: male
 ---
 

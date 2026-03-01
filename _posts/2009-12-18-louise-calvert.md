@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/staff/louise-calvert-1.jpg
+  - /assets/staff/louise-calvert-1.webp
 gender: female
 ---
 

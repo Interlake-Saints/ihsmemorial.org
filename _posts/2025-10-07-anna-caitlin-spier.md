@@ -6,7 +6,7 @@ date: 2025-09-14
 categories:
   - class-of-2009
 images:
-  - /assets/annaspierpics2.jpg
+  - /assets/annaspierpics2.webp
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/anna-spier-12523713
 ---

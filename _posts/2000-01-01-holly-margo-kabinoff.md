@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1970/holly-m-kabinoff-1.png
+  - /assets/class-of-1970/holly-m-kabinoff-1.webp
 gender: female
 ---
 

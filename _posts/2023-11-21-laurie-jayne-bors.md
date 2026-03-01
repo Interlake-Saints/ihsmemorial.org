@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/laurieborspicture.png
+  - /assets/laurieborspicture.webp
 gender: female
 obituary: https://www.holtfamilyfuneralhome.com/obituary/Laurie-Aves
 ---

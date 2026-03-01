@@ -6,8 +6,8 @@ date: 2011-09-04
 categories:
   - class-of-1972
 images:
-  - /assets/class-of-1972/dale-s-parkhurst-1.png
-  - /assets/class-of-1972/dale-s-parkhurst-2.jpg
+  - /assets/class-of-1972/dale-s-parkhurst-1.webp
+  - /assets/class-of-1972/dale-s-parkhurst-2.webp
 gender: male
 ---
 

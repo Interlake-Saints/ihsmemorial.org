@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/jasonmsmithpics.jpg
+  - /assets/jasonmsmithpics.webp
 gender: male
 obituary: https://memorialsource.com/memorial/jason-smith
 ---

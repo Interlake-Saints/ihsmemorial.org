@@ -6,7 +6,7 @@ date: 2023-03-05
 categories:
   - class-of-1988
 images:
-  - /assets/cassiprofessionalshot.jpg
+  - /assets/cassiprofessionalshot.webp
 gender: female
 obituary: https://www.spencerdgeibel.com/obituary/Cassandra-Carter
 ---

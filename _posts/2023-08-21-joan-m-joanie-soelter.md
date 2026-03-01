@@ -6,7 +6,7 @@ date: 2023-07-14
 categories:
   - class-of-1976
 images:
-  - /assets/joansoelter76.png
+  - /assets/joansoelter76.webp
 gender: female
 ---
 Joanie passed away on July 14, 2023. 

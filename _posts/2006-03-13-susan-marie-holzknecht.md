@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1970/susan-m-holzknecht-1.png
+  - /assets/class-of-1970/susan-m-holzknecht-1.webp
 gender: female
 ---
 Susan, aka Susan Holzknecht Burke, passed away on March 13, 2006. She was 53 years old. 

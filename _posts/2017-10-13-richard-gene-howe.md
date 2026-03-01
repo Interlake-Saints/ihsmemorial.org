@@ -6,8 +6,8 @@ date: 2017-10-13
 categories:
   - class-of-1977
 images:
-  - /assets/class-of-1977/richard-g-howe-1.png
-  - /assets/class-of-1977/richard-g-howe-2.jpg
+  - /assets/class-of-1977/richard-g-howe-1.webp
+  - /assets/class-of-1977/richard-g-howe-2.webp
 gender: male
 obituary: https://www.yahnandson.com/obituaries/obituary-listings?obId=2631979
 ---

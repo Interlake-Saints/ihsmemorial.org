@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/debbydesjarlais.jpg
+  - /assets/debbydesjarlais.webp
 gender: female
 ---
 Debby was an air traffic controller and author, who was better known under her pen name "Delia Colvin." As Delia Colvin, she was an award-winning novelist, with over 150,000 books in print worldwide. She was also a paid screenwriter. At the time of her death, she was in talks for her very first movie.

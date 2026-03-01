@@ -8,8 +8,8 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1976/maia-lessinger-1.png
-  - /assets/maia2.jpg
+  - /assets/class-of-1976/maia-lessinger-1.webp
+  - /assets/maia2.webp
 gender: female
 ---
 

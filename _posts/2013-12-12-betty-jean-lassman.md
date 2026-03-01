@@ -6,7 +6,7 @@ date: 2013-12-12
 categories:
   - staff
 images:
-  - /assets/staff/betty-j-lassman-1.png
+  - /assets/staff/betty-j-lassman-1.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=168738037
 ---

@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/ronaldcamppics.jpg
+  - /assets/ronaldcamppics.webp
 gender: male
 ---
 

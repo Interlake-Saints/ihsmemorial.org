@@ -8,8 +8,8 @@ categories:
 tags:
   - respiratory-diseases
 images:
-  - /assets/marlo2012.jpg
-  - /assets/mattson85.png
+  - /assets/marlo2012.webp
+  - /assets/mattson85.webp
 gender: female
 ---
 

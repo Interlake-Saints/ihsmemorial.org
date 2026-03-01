@@ -6,9 +6,9 @@ date: 2004-01-29
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/troy-l-tuor-1.jpg
-  - /assets/class-of-1988/troy-l-tuor-2.jpg
-  - /assets/class-of-1988/troy-l-tuor-3.jpg
+  - /assets/class-of-1988/troy-l-tuor-1.webp
+  - /assets/class-of-1988/troy-l-tuor-2.webp
+  - /assets/class-of-1988/troy-l-tuor-3.webp
 gender: male
 ---
 

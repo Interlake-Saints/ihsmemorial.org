@@ -6,7 +6,7 @@ date: 1974-12-19
 categories:
   - class-of-1970
 images:
-  - /assets/class-of-1970/stephen-c-griggs-1.png
+  - /assets/class-of-1970/stephen-c-griggs-1.webp
 gender: male
 ---
 

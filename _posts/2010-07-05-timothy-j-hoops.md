@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1973/timothy-j-hoops-1.png
+  - /assets/class-of-1973/timothy-j-hoops-1.webp
 gender: male
 ---
 

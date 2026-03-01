@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1972/robert-j-bacon-1.png
+  - /assets/class-of-1972/robert-j-bacon-1.webp
 gender: male
 ---
 

@@ -6,8 +6,8 @@ date: 2020-10-02
 categories:
   - class-of-1971
 images:
-  - /assets/debbiemontague2014.jpg
-  - /assets/debbiehenry71.jpg
+  - /assets/debbiemontague2014.webp
+  - /assets/debbiehenry71.webp
 gender: female
 ---
 

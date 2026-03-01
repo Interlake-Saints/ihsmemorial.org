@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1996/granger-quen-chuk-lam-1.jpg
-  - /assets/class-of-1996/granger-quen-chuk-lam-2.jpg
+  - /assets/class-of-1996/granger-quen-chuk-lam-1.webp
+  - /assets/class-of-1996/granger-quen-chuk-lam-2.webp
 gender: male
 ---
 

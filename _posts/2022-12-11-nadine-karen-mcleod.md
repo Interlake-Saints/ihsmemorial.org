@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/nadinemcleodbothpics.png
+  - /assets/nadinemcleodbothpics.webp
 gender: female
 obituary: https://www.indianafuneralcare.com/obituaries/nadine-ferris
 ---

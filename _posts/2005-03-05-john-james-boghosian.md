@@ -6,7 +6,7 @@ date: 2005-03-05
 categories:
   - class-of-1979
 images:
-  - /assets/class-of-1979/john-j-boghosian-1.png
+  - /assets/class-of-1979/john-j-boghosian-1.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=John-Boghosian&pid=3312317
 gender: male
 ---

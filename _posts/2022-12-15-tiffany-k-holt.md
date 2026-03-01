@@ -8,8 +8,8 @@ categories:
 tags:
   - als
 images:
-  - /assets/tiffanyakridge2022.png
-  - /assets/holt86.jpg
+  - /assets/tiffanyakridge2022.webp
+  - /assets/holt86.webp
 gender: female
 ---
 Tiffany, aka Tiffany K. Akridge, married fellow ‘86 grad [Christopher Akridge](https://ihsmemorial.org/class-of-1986/christopher-lee-akridge/) after graduating from Interlake, and they eventually had two children together. Tiffany then spent the next eighteen years of her life as a flight attendant for Delta Airlines, based out of Salt Lake City. She always loved to travel, so being a flight attendant was a perfect fit for her.

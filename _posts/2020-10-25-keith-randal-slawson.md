@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/slawson2020_2.jpg
-  - /assets/slawson82.jpg
+  - /assets/slawson2020_2.webp
+  - /assets/slawson82.webp
 gender: male
 ---
 

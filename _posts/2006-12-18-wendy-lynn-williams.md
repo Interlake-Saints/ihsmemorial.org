@@ -10,8 +10,8 @@ tags:
   - traffic
   - cardiovascular-disease
 images:
-  - /assets/class-of-1984/wendy-l-williams-1.png
-  - /assets/class-of-1984/wendy-l-williams-2.jpg
+  - /assets/class-of-1984/wendy-l-williams-1.webp
+  - /assets/class-of-1984/wendy-l-williams-2.webp
 gender: female
 obituary: https://www.deseret.com/2006/12/21/19754722/obituary-wendy-lynn-patterson
 ---

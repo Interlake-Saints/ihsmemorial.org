@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1969/scott-w-andreasen-1.png
+  - /assets/class-of-1969/scott-w-andreasen-1.webp
 gender: male
 ---
 

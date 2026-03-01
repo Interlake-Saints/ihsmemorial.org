@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1976/martin-j-bouman-1.png
-  - /assets/class-of-1976/martin-j-bouman-2.png
+  - /assets/class-of-1976/martin-j-bouman-1.webp
+  - /assets/class-of-1976/martin-j-bouman-2.webp
 gender: male
 ---
 

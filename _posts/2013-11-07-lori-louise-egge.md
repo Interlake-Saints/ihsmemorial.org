@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1978/lori-l-egge-1.png
-  - /assets/class-of-1978/lori-l-egge-2.png
+  - /assets/class-of-1978/lori-l-egge-1.webp
+  - /assets/class-of-1978/lori-l-egge-2.webp
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=168215752
 ---

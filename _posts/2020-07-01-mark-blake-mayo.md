@@ -6,9 +6,9 @@ date: 2020-07-01
 categories:
   - class-of-1982
 images:
-  - /assets/class-of-1982/mark-blake-mayo-1.jpg
-  - /assets/class-of-1982/mark-blake-mayo-2.png
-  - /assets/class-of-1982/mark-blake-mayo-3.png
+  - /assets/class-of-1982/mark-blake-mayo-1.webp
+  - /assets/class-of-1982/mark-blake-mayo-2.webp
+  - /assets/class-of-1982/mark-blake-mayo-3.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=mark-blake-mayo&pid=196482997
 gender: male
 ---

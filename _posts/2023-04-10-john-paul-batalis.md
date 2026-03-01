@@ -6,8 +6,8 @@ date: 2023-03-23
 categories:
   - class-of-1973
 images:
-  - /assets/batalis3.jpg
-  - /assets/batalis73.jpg
+  - /assets/batalis3.webp
+  - /assets/batalis73.webp
 gender: male
 obituary: https://www.munsellerhodes.com/obituary/john-batalis
 ---

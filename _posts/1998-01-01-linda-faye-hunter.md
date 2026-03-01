@@ -8,8 +8,8 @@ categories:
 tags:
   - diabetes
 images:
-  - /assets/class-of-1976/linda-f-hunter-1.png
-  - /assets/class-of-1976/linda-f-hunter-2.png
+  - /assets/class-of-1976/linda-f-hunter-1.webp
+  - /assets/class-of-1976/linda-f-hunter-2.webp
 gender: female
 ---
 

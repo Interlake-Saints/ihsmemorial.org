@@ -6,7 +6,7 @@ date: 2022-08-05
 categories:
   - class-of-1985
 images:
-  - /assets/jreinhart.jpg
+  - /assets/jreinhart.webp
 gender: female
 ---
 Jeanine graduated from Interlake with honors, and went on to attend the University of Washington. She began a career in optometry in her mid 20s, but a brain tumor derailed her life and her plans. She fought through the adversity, however, and even though she suffered from two traumatic brain injuries, she learned how to walk and talk again, albeit in her own style.

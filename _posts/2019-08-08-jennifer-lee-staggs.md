@@ -6,8 +6,8 @@ date: 2019-08-08
 categories:
   - class-of-1989
 images:
-  - /assets/class-of-1989/jennifer-l-staggs-2.png
-  - /assets/class-of-1989/jennifer-l-staggs-1.jpg
+  - /assets/class-of-1989/jennifer-l-staggs-2.webp
+  - /assets/class-of-1989/jennifer-l-staggs-1.webp
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/jennifer-staggs-8817283
 gender: female
 ---

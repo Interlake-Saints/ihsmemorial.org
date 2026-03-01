@@ -6,8 +6,8 @@ date: 2022-01-04
 categories:
   - class-of-1989
 images:
-  - /assets/harlan2022.jpg
-  - /assets/harlanhs2.jpeg
+  - /assets/harlan2022.webp
+  - /assets/harlanhs2.webp
 gender: male
 ---
 

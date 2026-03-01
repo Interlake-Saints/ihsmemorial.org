@@ -9,8 +9,8 @@ tags:
   - homicide
   - firearms
 images:
-  - /assets/class-of-1974/john-c-deroulet-jr-1.png
-  - /assets/class-of-1974/john-c-deroulet-jr-2.png
+  - /assets/class-of-1974/john-c-deroulet-jr-1.webp
+  - /assets/class-of-1974/john-c-deroulet-jr-2.webp
 gender: male
 ---
 

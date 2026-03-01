@@ -6,7 +6,7 @@ date: 2015-01-14
 categories:
   - class-of-2017
 images:
-  - /assets/class-of-2017/kaia-richards-1.jpg
+  - /assets/class-of-2017/kaia-richards-1.webp
 gender: female
 obituary: https://www.findagrave.com/memorial/146808581/kaia-richards
 ---

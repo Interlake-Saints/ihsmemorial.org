@@ -6,7 +6,7 @@ date: 2025-01-25
 categories:
   - class-of-1984
 images:
-  - /assets/joannkramerpics.jpg
+  - /assets/joannkramerpics.webp
 gender: female
 obituary: https://www.prairierosefuneralhomes.com/obituary/jo-ann-nelson
 ---

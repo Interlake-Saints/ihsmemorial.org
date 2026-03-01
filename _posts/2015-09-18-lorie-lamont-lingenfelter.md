@@ -6,7 +6,7 @@ date: 2015-09-18
 categories:
   - class-of-1979
 images:
-  - /assets/class-of-1979/lorie-l-lingenfelter-1.jpg
+  - /assets/class-of-1979/lorie-l-lingenfelter-1.webp
 gender: female
 ---
 

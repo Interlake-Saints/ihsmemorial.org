@@ -8,9 +8,9 @@ categories:
 tags:
   - multiple-sclerosis
 images:
-  - /assets/jeanhanson75.png
-  - /assets/jeanhanson2.jpg
-  - /assets/jeanhanson3.jpg
+  - /assets/jeanhanson75.webp
+  - /assets/jeanhanson2.webp
+  - /assets/jeanhanson3.webp
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/d-herrick-11473309
 ---

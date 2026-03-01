@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1974/nancy-r-clise-1.png
+  - /assets/class-of-1974/nancy-r-clise-1.webp
 gender: female
 ---
 

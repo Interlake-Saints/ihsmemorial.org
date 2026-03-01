@@ -6,7 +6,7 @@ date: 2018-01-07
 categories:
   - class-of-2000
 images:
-  - /assets/class-of-2000/markus-j-wells-1.jpg
+  - /assets/class-of-2000/markus-j-wells-1.webp
 tags:
   - cardiovascular-disease
 ---

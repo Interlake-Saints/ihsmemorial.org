@@ -6,7 +6,7 @@ date: 2016-08-17
 categories:
   - class-of-2019
 images:
-  - /assets/class-of-2019/tuomas-i-mannisto-1.jpg
+  - /assets/class-of-2019/tuomas-i-mannisto-1.webp
 gender: male
 ---
 

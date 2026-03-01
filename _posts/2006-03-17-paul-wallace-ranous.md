@@ -6,7 +6,7 @@ date: 2006-03-17
 categories:
   - class-of-1973
 images:
-  - /assets/class-of-1973/paul-w-ranous-1.png
+  - /assets/class-of-1973/paul-w-ranous-1.webp
 gender: male
 ---
 

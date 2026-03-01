@@ -6,8 +6,8 @@ date: 2024-05-08
 categories:
   - class-of-1973
 images:
-  - /assets/babsmenard.jpeg
-  - /assets/babsmenardpics.jpg
+  - /assets/babsmenard.webp
+  - /assets/babsmenardpics.webp
 gender: female
 obituary: https://www.findagrave.com/memorial/271547336/babette-aline-kratz
 ---

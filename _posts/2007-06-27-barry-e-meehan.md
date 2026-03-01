@@ -8,7 +8,7 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1982/barry-e-meehan-1.png
+  - /assets/class-of-1982/barry-e-meehan-1.webp
 obituary: https://www.findagrave.com/memorial/98293351/barry-e-meehan
 gender: male
 ---

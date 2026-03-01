@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/class-of-1972/michael-a-delk-1.jpg
-  - /assets/class-of-1972/michael-a-delk-2.jpg
+  - /assets/class-of-1972/michael-a-delk-1.webp
+  - /assets/class-of-1972/michael-a-delk-2.webp
 gender: male
 ---
 

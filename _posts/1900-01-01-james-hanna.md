@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - staff
 images:
-  - /assets/staff/james-hanna-1.png
+  - /assets/staff/james-hanna-1.webp
 gender: male
 ---
 

@@ -7,6 +7,6 @@ dateUnknown: true
 categories:
   - class-of-1974
 images:
-  - /assets/class-of-1974/rick-p-cornish-1.png
+  - /assets/class-of-1974/rick-p-cornish-1.webp
 gender: male
 ---

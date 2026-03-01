@@ -6,7 +6,7 @@ date: 2022-10-25
 categories:
   - class-of-1986
 images:
-  - /assets/akridge86.jpg
+  - /assets/akridge86.webp
 gender: male
 obituary: https://www.legacy.com/us/obituaries/name/christopher-akridge-obituary?id=36938872
 ---

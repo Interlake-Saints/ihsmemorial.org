@@ -7,8 +7,8 @@ categories:
   - class-of-1976
   - staff
 images:
-  - /assets/staff/anthony-r-burrous.jpg
-  - /assets/class-of-1976/anthony-r-burrous-1.png
+  - /assets/staff/anthony-r-burrous.webp
+  - /assets/class-of-1976/anthony-r-burrous-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=anthony-roy-burrous&pid=175423415&fhid=7266
 ---

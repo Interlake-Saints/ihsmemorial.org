@@ -10,7 +10,7 @@ tags:
   - cardiovascular-disease
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Steven-Salzberg&pid=126539658
 images:
-  - /assets/class-of-1977/steven-a-salzberg-1.png
+  - /assets/class-of-1977/steven-a-salzberg-1.webp
 gender: male
 ---
 

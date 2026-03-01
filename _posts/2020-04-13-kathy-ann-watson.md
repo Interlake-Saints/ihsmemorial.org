@@ -9,8 +9,8 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1977/kathy-a-watson-1.jpg
-  - /assets/class-of-1977/kathy-a-watson-2.jpg
+  - /assets/class-of-1977/kathy-a-watson-1.webp
+  - /assets/class-of-1977/kathy-a-watson-2.webp
 gender: female
 ---
 

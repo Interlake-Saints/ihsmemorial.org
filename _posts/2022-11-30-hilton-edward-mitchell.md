@@ -6,8 +6,8 @@ date: 2022-07-26
 categories:
   - class-of-1980
 images:
-  - /assets/hilton4.jpg
-  - /assets/hilton80.jpg
+  - /assets/hilton4.webp
+  - /assets/hilton80.webp
 gender: male
 obituary: https://www.thefactsnewspaper.com/post/in-loving-memory-of-hilton-edward-mitchell
 ---

@@ -6,8 +6,8 @@ date: 2020-02-09
 categories:
   - staff
 images:
-  - /assets/boblevitinversion1.png
-  - /assets/mrlevitinversion2.jpg
+  - /assets/boblevitinversion1.webp
+  - /assets/mrlevitinversion2.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=robert-j-levitin-bob&pid=196010257
 ---

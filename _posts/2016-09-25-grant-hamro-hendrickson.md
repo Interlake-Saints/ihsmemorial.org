@@ -6,8 +6,8 @@ date: 2016-09-25
 categories:
   - staff
 images:
-  - /assets/staff/grant-h-hendrickson-1.png
-  - /assets/staff/grant-h-hendrickson-2.jpg
+  - /assets/staff/grant-h-hendrickson-1.webp
+  - /assets/staff/grant-h-hendrickson-2.webp
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/seattle-wa/grant-hendrickson-7104623
 ---

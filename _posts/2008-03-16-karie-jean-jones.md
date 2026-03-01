@@ -8,8 +8,8 @@ categories:
 tags:
   - infection
 images:
-  - /assets/class-of-1980/karie-j-jones-1.jpg
-  - /assets/class-of-1980/karie-j-jones-2.jpg
+  - /assets/class-of-1980/karie-j-jones-1.webp
+  - /assets/class-of-1980/karie-j-jones-2.webp
 gender: female
 ---
 

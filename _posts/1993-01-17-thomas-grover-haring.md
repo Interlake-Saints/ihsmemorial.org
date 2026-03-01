@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1972/thomas-g-haring-1.png
+  - /assets/class-of-1972/thomas-g-haring-1.webp
 obituary: http://texts.cdlib.org/view?docId=hb0h4n99rb&doc.view=frames&chunk.id=div00027&toc.depth=1&toc.id
 gender: male
 ---

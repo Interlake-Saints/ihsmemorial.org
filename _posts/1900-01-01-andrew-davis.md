@@ -7,6 +7,6 @@ dateUnknown: true
 categories:
   - class-of-2001
 images:
-  - /assets/class-of-2001/andrew-davis-1.jpg
+  - /assets/class-of-2001/andrew-davis-1.webp
 gender: male
 ---

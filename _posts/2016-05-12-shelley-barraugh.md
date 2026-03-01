@@ -6,8 +6,8 @@ date: 2016-05-12
 categories:
   - class-of-1985
 images:
-  - /assets/class-of-1985/shelly-barraugh-1.jpg
-  - /assets/class-of-1985/shelly-barraugh-2.jpg
+  - /assets/class-of-1985/shelly-barraugh-1.webp
+  - /assets/class-of-1985/shelly-barraugh-2.webp
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=shelley-parsons-hagerty&pid=180042675
 gender: female
 ---

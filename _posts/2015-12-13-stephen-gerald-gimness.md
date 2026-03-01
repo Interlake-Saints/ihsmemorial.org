@@ -6,8 +6,8 @@ date: 2015-12-13
 categories:
   - class-of-1983
 images:
-  - /assets/class-of-1983/stephen-g-gimness-1.png
-  - /assets/class-of-1983/stephen-g-gimness-2.jpg
+  - /assets/class-of-1983/stephen-g-gimness-1.webp
+  - /assets/class-of-1983/stephen-g-gimness-2.webp
 obituary: https://www.dignitymemorial.com/obituaries/marysville-wa/stephen-gimness-6715426
 gender: male
 ---

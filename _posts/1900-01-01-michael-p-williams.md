@@ -7,7 +7,7 @@ dateUnknown: true
 categories:
   - class-of-1988
 images:
-  - /assets/class-of-1988/michael-p-williams-1.png
+  - /assets/class-of-1988/michael-p-williams-1.webp
 gender: male
 ---
 M﻿ichael passed away in 1994.

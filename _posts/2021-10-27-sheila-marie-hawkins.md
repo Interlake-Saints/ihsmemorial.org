@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/sheilahawkinscurrent.jpg
-  - /assets/sheilahawkins72.png
+  - /assets/sheilahawkinscurrent.webp
+  - /assets/sheilahawkins72.webp
 gender: female
 obituary: https://obituaries.seattletimes.com/obituary/sheila-hawkins-wimberley-1082070778
 ---

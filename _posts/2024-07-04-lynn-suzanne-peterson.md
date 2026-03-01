@@ -6,7 +6,7 @@ date: 2023-08-09
 categories:
   - class-of-1976
 images:
-  - /assets/lynnpetersonharris.jpg
+  - /assets/lynnpetersonharris.webp
 gender: female
 obituary: https://www.mcdougalfuneralhomes.com/obituaries/lynn-harris
 ---

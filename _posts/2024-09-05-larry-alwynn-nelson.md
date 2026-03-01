@@ -8,8 +8,8 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/larrynelson2024.jpg
-  - /assets/larrynelson1969.png
+  - /assets/larrynelson2024.webp
+  - /assets/larrynelson1969.webp
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/larry-nelson-1089550985
 ---

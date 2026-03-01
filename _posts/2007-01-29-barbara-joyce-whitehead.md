@@ -6,7 +6,7 @@ date: 2007-01-29
 categories:
   - class-of-1973
 images:
-  - /assets/whiteheadpics2.jpg
+  - /assets/whiteheadpics2.webp
 gender: female
 obituary: https://www.yahnandson.com/obituaries/obituary-listings?obId=101080#/obituaryInfo
 ---

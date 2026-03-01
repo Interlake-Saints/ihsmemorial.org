@@ -6,7 +6,7 @@ date: 2003-06-21
 categories:
   - staff
 images:
-  - /assets/staff/james-zachow-1.png
+  - /assets/staff/james-zachow-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=james-franklin-zachow&pid=1109773
 ---

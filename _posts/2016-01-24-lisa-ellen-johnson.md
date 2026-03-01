@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1991/lisa-e-johnson-2.png
-  - /assets/class-of-1991/lisa-e-johnson-1.jpg
+  - /assets/class-of-1991/lisa-e-johnson-2.webp
+  - /assets/class-of-1991/lisa-e-johnson-1.webp
 obituary: https://www.dignitymemorial.com/obituaries/bonita-ca/lisa-johnson-6778490
 gender: female
 ---

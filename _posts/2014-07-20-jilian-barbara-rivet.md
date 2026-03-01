@@ -6,8 +6,8 @@ date: 2014-07-20
 categories:
   - class-of-1981
 images:
-  - /assets/class-of-1981/jilian-b-rivet-1.png
-  - /assets/class-of-1981/jilian-b-rivet-2.jpg
+  - /assets/class-of-1981/jilian-b-rivet-1.webp
+  - /assets/class-of-1981/jilian-b-rivet-2.webp
 gender: female
 obituary: https://www.mininggazette.com/obituaries/2014/08/jilian-barbara-rivet/
 ---

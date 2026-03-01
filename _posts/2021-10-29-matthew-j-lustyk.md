@@ -6,8 +6,8 @@ date: 2021-07-21
 categories:
   - class-of-1990
 images:
-  - /assets/mattlustyk90.jpg
-  - /assets/lustykpics.jpg
+  - /assets/mattlustyk90.webp
+  - /assets/lustykpics.webp
 gender: male
 ---
 

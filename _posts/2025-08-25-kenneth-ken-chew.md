@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/kenchewpics.jpg
+  - /assets/kenchewpics.webp
 gender: male
 ---
 K﻿en died of heart failure in July of 2023.

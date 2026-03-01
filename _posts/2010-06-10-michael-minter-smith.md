@@ -6,7 +6,7 @@ date: 2010-06-10
 categories:
   - staff
 images:
-  - /assets/staff/michael-m-smith-1.jpg
+  - /assets/staff/michael-m-smith-1.webp
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=michael-minter-smith&pid=143635693
 ---

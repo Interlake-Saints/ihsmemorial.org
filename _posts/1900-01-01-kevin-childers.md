@@ -7,6 +7,6 @@ dateUnknown: true
 categories:
   - class-of-1973
 images:
-  - /assets/class-of-1973/kevin-childers-1.png
+  - /assets/class-of-1973/kevin-childers-1.webp
 gender: male
 ---

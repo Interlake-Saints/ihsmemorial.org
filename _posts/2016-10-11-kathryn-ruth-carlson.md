@@ -8,8 +8,8 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1985/kathryn-ruth-carlson-1.png
-  - /assets/class-of-1985/kathryn-ruth-carlson-2.jpg
+  - /assets/class-of-1985/kathryn-ruth-carlson-1.webp
+  - /assets/class-of-1985/kathryn-ruth-carlson-2.webp
 obituary: https://www.legacy.com/obituaries/dfw/obituary.aspx?n=Kathryn-Hoffman&pid=182255525
 gender: female
 ---

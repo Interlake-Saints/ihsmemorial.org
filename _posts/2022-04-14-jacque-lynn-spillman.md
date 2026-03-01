@@ -6,8 +6,8 @@ date: 2022-03-06
 categories:
   - class-of-1984
 images:
-  - /assets/jacquespillman2022.jpg
-  - /assets/jacquespillman1984.png
+  - /assets/jacquespillman2022.webp
+  - /assets/jacquespillman1984.webp
 gender: female
 obituary: https://www.northbrevardfuneralhome.com/tributes/JacqueLynn-Spillman
 ---

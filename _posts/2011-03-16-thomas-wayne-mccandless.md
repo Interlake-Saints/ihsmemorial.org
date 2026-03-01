@@ -6,8 +6,8 @@ date: 2011-03-16
 categories:
   - class-of-1969
 images:
-  - /assets/class-of-1969/thomas-w-mccandless-1.png
-  - /assets/class-of-1969/thomas-w-mccandless-2.jpg
+  - /assets/class-of-1969/thomas-w-mccandless-1.webp
+  - /assets/class-of-1969/thomas-w-mccandless-2.webp
 gender: male
 ---
 
