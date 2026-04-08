@@ -26,6 +26,6 @@ Above all, Tom cherished his role as uncle to his nephew, Karl Ball. The two sha
 
 Tom had a gentle heart and a special fondness for animals, especially cats. He was a deeply sensitive soul who sometimes struggled with change and loss. Like many with such tender spirits, he sought ways to cope, leading him down a challenging path for much of his life. Yet his resilience shone through: the last twelve years of his life were a testament to his determination to sobriety and success in overcoming those difficulties, making his sudden loss all the more heartbreaking. 
 
-Tom’s life reminds us that even through struggles, love, loyalty, small daily joys can leave a lasting legacy. He will be deeply missed. In lieu of flowers, the family suggests remembering Tom by spending time in nature, playing a game with someone you love, or you can make a Donation to The American Heart Association or your local Union Gospel Mission.
+Tom’s life reminds us that even through struggles, love, loyalty, and small daily joys can leave a lasting legacy. He will be deeply missed. In lieu of flowers, the family suggests remembering Tom by spending time in nature, playing a game with someone you love, or you can make a Donation to The American Heart Association or your local Union Gospel Mission.
 
 Tom passed away unexpectedly from cardiac arrest on December 29, 2025, at Overlake Hospital in Bellevue. He was 65 years old.
