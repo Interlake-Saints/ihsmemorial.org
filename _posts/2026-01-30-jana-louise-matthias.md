@@ -6,8 +6,9 @@ date: 2025-12-22
 categories:
   - class-of-1971
 images:
-  - /assets/janawheelerpics.webp
+  - /assets/janawheelernewpics.jpg
 gender: female
+obituary: https://obituaries.seattletimes.com/obituary/jana-wheeler-1093713815
 ---
 Kind-hearted and a devoted friend to many - fellow Seahawks fans especially; Jana, aka Jana Louise Wheeler, will be remembered for her warmth.
 
