@@ -7,6 +7,8 @@ categories:
   - class-of-1985
 tags:
   - cardiovascular-disease
+images:
+  - /assets/prestonglidden85_2.png
 gender: male
 obituary: https://cascadememorial.com/obituary/667852/Preston-Taylor-Glidden/
 ---
