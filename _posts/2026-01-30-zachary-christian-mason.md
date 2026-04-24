@@ -8,7 +8,7 @@ categories:
 tags:
   - als
 images:
-  - /assets/zachmasonpics.webp
+  - /assets/zachmasonnewpics.jpg
 gender: male
 ---
 Zachary Christian Mason passed away on January 30, 2026, at his childhood home in Bellevue, Washington, after a courageous two-and-a-half-year battle with ALS. He was 39, just two weeks shy of his 40th birthday.
