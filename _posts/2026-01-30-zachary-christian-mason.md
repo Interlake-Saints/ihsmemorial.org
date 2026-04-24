@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zachary Christian Mason
-sortKey: Mason, Zack
+sortKey: Mason, Zachary
 date: 2026-01-30
 categories:
   - class-of-2004
@@ -11,20 +11,18 @@ images:
   - /assets/zachmasonpics.webp
 gender: male
 ---
-Zachary Christian Mason, my little brother and only sibling, went home to be with the Lord. He was just two weeks shy of his 40th birthday.
+Zachary Christian Mason passed away on January 30, 2026, at his childhood home in Bellevue, Washington, after a courageous two-and-a-half-year battle with ALS. He was 39, just two weeks shy of his 40th birthday.
 
-This journey began with a "floppy foot" they said was nothing. But in September 2023, our fears were confirmed: ALS.
+Zach was born on February 16, 1986, at Overlake Hospital in Bellevue to his parents, Debra and Richard (Dick) Mason, and joined his older brother, Jordan, then four-years-old.
 
-In our family, Lou Gehrig's Disease was a shadow in the blood. My brother had lost the genetic lottery, pre-programmed for a battle no man is built to win. The internal wires snapped one by one, taking his walk, his hands, his voice, his breath. At 4 a.m. on January 30, 2026, this disease took the last thing it could - Zach’s final breath. 
+He spent his school years in Bellevue, graduating from Interlake High School in 2004. He went on to attend Pepperdine University in Malibu, graduating in 2008 with a Bachelor of Arts in history. After a stint teaching English in Korea, Zach returned to the United States and earned a Master of Teaching degree from Seattle University in 2013.
 
-During those last moments - in the same room we shared growing up - I held the hand that once climbed bunk beds, played guitar, and rested on my shoulder as my Best Man. The songs from his album, "Memory Eternal," whispered from my phone like a liturgy for the departing. It was the soundtrack to his transition. To look at him was to witness a cruel paradox: a mind as vivid as a summer garden, trapped in a "glass coffin" that had turned to stone. But Zach was the seed falling into the earth.
+After teaching high school history, Zach pivoted into web development. Following completion of a coding bootcamp, he advanced rapidly in his development career, with roles at Rosetta Stone, Microsoft, and, most recently, Disney.
 
-The prayer of Memory Eternal is for the Creator to hold the fullness of a person in His divine memory so they are never lost. It is the hope that Zach is gathered into the Kingdom of God, where there is no more pain, sorrow, or sighing.
+Those who knew Zach know that his deepest passion was music. Under the alias 회사AUTO, he released dozens of albums in the vaporwave genre, exploring a wide range of sounds including jazz, R&B, electronic music such as IDM and house, glitch, hip-hop, and ambient.
 
-At 39, Zachary’s stone coffin finally broke. He leaves behind a young daughter who carries his light. He did not lose this battle. ALS does not get to win. Christ has trampled down death by death, and He remains the ultimate victor over my brother’s life.
+Zach was an active member of St. Katherine Orthodox Church in Kirkland, where he was baptized in 2024. A born-again evangelist since the age of five, he openly shared his Christian faith with anyone who would listen.
 
-"Everything I want is in Your hands. Everything I need is in Your hands. Everything I want is in Your hands right here and now."
+The most important thing in Zach’s life, apart from his faith, was his four-year-old daughter, Zoe. The world has lost a devoted and loving father. Zach is survived by Zoe; his parents, Dick and Debra; and his brother Jordan, along with Jordan’s wife and their three young boys.
 
-May his memory be eternal, Zach.
-
-You are loved. Healed. Held. Remembered.
+Zach will be Memory Eternal and be remembered for his artistic creativity, his deep faith, and his unwavering love and loyalty for his family and friends.
