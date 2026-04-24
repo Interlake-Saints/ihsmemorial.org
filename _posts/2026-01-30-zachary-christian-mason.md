@@ -23,8 +23,8 @@ The prayer of Memory Eternal is for the Creator to hold the fullness of a person
 
 At 39, Zachary’s stone coffin finally broke. He leaves behind a young daughter who carries his light. He did not lose this battle. ALS does not get to win. Christ has trampled down death by death, and He remains the ultimate victor over my brother’s life.
 
-"Everything I want is in Your hands | Everything I need is in Your hands | Everything I want is in Your hands right here and now."
+"Everything I want is in Your hands. Everything I need is in Your hands. Everything I want is in Your hands right here and now."
 
-𝐌𝐚𝐲 𝐡𝐢𝐬 𝐦𝐞𝐦𝐨𝐫𝐲 𝐛𝐞 𝐞𝐭𝐞𝐫𝐧𝐚𝐥, 𝐙𝐚𝐜𝐡.
+May his memory be eternal, Zach.
 
 You are loved. Healed. Held. Remembered.
