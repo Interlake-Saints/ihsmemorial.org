@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/dalehickspicture1.jpg
+  - /assets/dalehickspics2.jpg
 gender: male
 ---
-Dale Hicks passed away on April 11, 2026, after a courageous three year battle with cancer. He was surrounded by his girlfriend of sixteen years, Mary, and his son, Robby, when he passed away peacefully at home.
+Dale Hicks passed away on April 11, 2026, after a courageous three year battle with cancer. He was surrounded by his girlfriend of sixteen years, Mary, and his son, Robby, when he passed away peacefully at home. He was 70 years old.
