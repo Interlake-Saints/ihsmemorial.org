@@ -22,4 +22,4 @@ She loved to be active and exercise, nearly always with a buddy in tow. Although
 
 Above all else, Kelly loved her family. She set her kids as her top priority, attending every single sporting match and concert, worrying a little too much about their whereabouts, and celebrating all of their accomplishments with encouragement and enthusiasm. She had a knack for organizing and easily filled the role of family event planner - she brought immediate and extended family together for birthdays and holidays, wrote cards, purchased gifts, organized the kitchen calendar, and scheduled family vacations. Despite the fact that her husband and kids weren’t always enthused about the “forced family fun” she mandated, her persistence in making things happen always resulted in smiles and lasting memories. She was truly a ray of light to all of those who knew her. 
 
-In the presence of her family, Kelly went to be with Jesus the morning of June 6th, 2026, after a 3 1/2 year battle with cancer. She was 52 years old.
+In the presence of her family, Kelly went to be with Jesus the morning of June 6, 2026, after a 3 1/2 year battle with cancer. She was 52 years old.
