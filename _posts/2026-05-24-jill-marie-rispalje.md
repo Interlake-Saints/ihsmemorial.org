@@ -16,4 +16,4 @@ Jill, aka Jill Marie Gibson Lanska, was born in Minneapolis, MN to Joe and Judy 
 
 She was preceded in death by her parents. She is survived by her loving husband, Josiah Lanska; sons, Will (Hannah) and Ben Gibson, Tristan and Aidan Lanska; brother, Jim Rispalje (fiancé, Angela Hoehne); nephew and neice Jameson and Jolia Rispalje; and her K-9 fur babies, Cache, Cloud, and Data, also by other family and friends.
 
-Jill was a bright spark in this world and she will be deeply missed. Sadly, she passed away on May 24, 2026, after a short and fierce battle with cancer. She was 59 years old.
+Jill was a bright spark in this world and she will be deeply missed. She passed away on May 24, 2026, after a short and fierce battle with cancer. She was 59 years old.
