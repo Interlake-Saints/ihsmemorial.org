@@ -8,8 +8,7 @@ categories:
 tags:
   - stroke
 images:
-  - /assets/class-of-1992/allan-w-yuen-1.webp
-  - /assets/class-of-1992/allan-w-yuen-2.webp
+  - /assets/allanyuenpics2.jpg
 gender: male
 ---
 
