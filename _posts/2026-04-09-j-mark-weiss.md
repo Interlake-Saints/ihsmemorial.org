@@ -7,6 +7,8 @@ categories:
   - class-of-1978
 tags:
   - cancer
+images:
+  - /assets/jmarkweisspics.jpg
 gender: male
 obituary: https://www.legacy.com/us/obituaries/name/j-weiss-obituary?id=61288208
 ---
