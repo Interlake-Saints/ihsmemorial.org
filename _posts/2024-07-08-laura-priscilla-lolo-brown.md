@@ -10,7 +10,7 @@ images:
 gender: female
 obituary: https://www.legacy.com/us/obituaries/hidesertstar/name/laura-finlon-obituary?id=55630312
 ---
-Laura, aka Laura Priscilla Finlon, who was affectionaly known as "Lolo", was a beloved wife, mother, grandmother, and friend, whose spirit and joy touched all who knew her. A proud alumnus of Interlake High School and Washington State University, Laura's passion for life was evident in everything she did. She was known for her vibrant personality and her love for dancing, polka dots, coffee, black licorice ice cream, Priest Lake, and Disneyland. Laura loved all things athletic, particularly those that challenged her. 
+Laura, aka Laura Priscilla Finlon, who was affectionately known as "Lolo", was a beloved wife, mother, grandmother, and friend, whose spirit and joy touched all who knew her. A proud alumnus of Interlake High School and Washington State University, Laura's passion for life was evident in everything she did. She was known for her vibrant personality and her love for dancing, polka dots, coffee, black licorice ice cream, Priest Lake, and Disneyland. Laura loved all things athletic, particularly those that challenged her. 
 
 She is survived by her devoted husband, Matthew, and their three children, Alex (Bjorn), Tory and Stephen. She was the proud grandmother to Trafford, Scarlett, Greta and Anders, who brought immense joy to her life. Her family also includes her cherished dogs, Pippin and Skye. In lieu of flowers, the family kindly requests donations be made to HOPE Animal-Assisted Crisis Response, reflecting Laura's love and compassion for the healing powers of animals.
 
