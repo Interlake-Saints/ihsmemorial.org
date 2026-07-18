@@ -5,6 +5,8 @@ sortKey: Work, Rebecca
 date: 2026-06-12
 categories:
   - class-of-1970
+images:
+  - /assets/beckieworkpics.jpg
 gender: female
 obituary: https://www.legacy.com/legacy/rebecca-sorensen?ttm_pid=211808393
 ---
