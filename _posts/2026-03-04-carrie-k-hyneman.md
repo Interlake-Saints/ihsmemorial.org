@@ -9,4 +9,4 @@ images:
   - /assets/carriehynemanpics.jpg
 gender: female
 ---
-Entry coming soon
+Carrie passed away the first week of March, 2026.
