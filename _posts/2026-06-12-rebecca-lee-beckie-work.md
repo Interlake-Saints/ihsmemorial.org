@@ -18,4 +18,4 @@ As a young, single mother, she created the organization ASK - Advocates for Supp
 
 Beckie enjoyed visiting art galleries and collecting art. She loved to laugh and have a good time with friends and her family. She was a loyal friend. She will be missed.
 
-Sadly, Beckie passed away in Las Vegas, Nevada on June 12, 2026. She was 73 years old. She requested that there be no services or memorial, and suggested that if anyone wished to memorialize her life, to make a donation to Seattle Children's Hospital.
+Beckie passed away in Las Vegas, Nevada on June 12, 2026. She was 73 years old. She requested that there be no services or memorial, and suggested that if anyone wished to memorialize her life, to make a donation to Seattle Children's Hospital.
