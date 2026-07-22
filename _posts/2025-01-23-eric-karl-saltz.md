@@ -8,8 +8,9 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/ericsaltzpictures.webp
+  - /assets/ericsaltzpictures.jpg
 gender: male
+obituary: https://obituaries.seattletimes.com/obituary/eric-karl-saltz-1092661355
 ---
 Eric (who went by "Rick" in high school) was born in Tacoma in 1952, to Geraldine and Warren Saltz. He grew up in Longview (WA) and West Salem (OR) before his family eventually settled in Bellevue in the mid 60s, where he attended Highland Middle School and then the brand-new Interlake High School. He graduated from Interlake in the class of 1970.
 
