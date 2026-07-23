@@ -4,51 +4,51 @@ layout: compress
 
 {% capture source %}
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>{{ "/" | absolute_url }}</id>
-  <title>{{ site.title }}</title>
-  <subtitle>{{ site.description }}</subtitle>
+  <id>{{ "/" | absolute_url | xml_escape }}</id>
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
-    <name>{{ site.author }}</name>
-    <uri>{{ "/" | absolute_url }}</uri>
+    <name>{{ site.author | xml_escape }}</name>
+    <uri>{{ "/" | absolute_url | xml_escape }}</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="{{ page.url | absolute_url }}"/>
-  <link rel="alternate" type="text/html" hreflang="{{ site.lang | default: 'en' }}"
-    href="{{ '/' | absolute_url }}"/>
-  <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
-  <rights> © {{ 'now' | date: '%Y' }} {{ site.author }} </rights>
+  <link rel="self" type="application/atom+xml" href="{{ page.url | absolute_url | xml_escape }}"/>
+  <link rel="alternate" type="text/html" hreflang="{{ site.lang | default: 'en' | xml_escape }}"
+    href="{{ '/' | absolute_url | xml_escape }}"/>
+  <generator uri="https://jekyllrb.com/" version="{{ jekyll.version | xml_escape }}">Jekyll</generator>
+  <rights> © {{ 'now' | date: '%Y' }} {{ site.author | xml_escape }} </rights>
   <icon>{{ site.baseurl }}/assets/img/favicons/favicon.ico</icon>
   <logo>{{ site.baseurl }}/assets/img/favicons/favicon-96x96.png</logo>
 
 {% for post in site.posts limit: 5 %}
   {% assign post_absolute_url = post.url | absolute_url %}
   <entry>
-    <title>{{ post.title }}</title>
-    <link href="{{ post_absolute_url }}" rel="alternate" type="text/html" title="{{ post.title }}" />
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="{{ post_absolute_url | xml_escape }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
     <published>{{ post.date | date_to_xmlschema }}</published>
   {% if post.last_modified_at %}
     <updated>{{ post.last_modified_at | date_to_xmlschema }}</updated>
   {% else %}
     <updated>{{ post.date | date_to_xmlschema }}</updated>
   {% endif %}
-    <id>{{ post_absolute_url }}</id>
-    <content src="{{ post_absolute_url }}" />
+    <id>{{ post_absolute_url | xml_escape }}</id>
+    <content src="{{ post_absolute_url | xml_escape }}" />
     <author>
-      <name>{{ site.author }}</name>
+      <name>{{ site.author | xml_escape }}</name>
     </author>
 
   {% if post.categories %}
     {% for category in post.categories %}
-    <category term="{{ category }}" />
+    <category term="{{ category | xml_escape }}" />
     {% endfor %}
   {% endif %}
 
   {% if post.summary %}
-    <summary>{{ post.summary | strip }}</summary>
+    <summary>{{ post.summary | strip | xml_escape }}</summary>
   {% else %}
     <summary>
       {% include no-linenos.html content=post.content %}
-      {{ content  | strip_html | truncate: 400 }}
+      {{ content | strip_html | truncate: 400 | xml_escape }}
     </summary>
   {% endif %}
 
@@ -56,4 +56,4 @@ layout: compress
 {% endfor %}
 </feed>
 {% endcapture %}
-{{ source | replace: '&', '&amp;' }}
+{{ source }}
