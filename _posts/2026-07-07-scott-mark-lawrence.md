@@ -6,7 +6,7 @@ date: 2026-07-07
 categories:
   - class-of-1982
 images:
-  - /assets/scottlawrencepics.jpg
+  - /assets/scottlawrencepicsnew.jpg
 gender: male
 ---
 Entry coming soon
