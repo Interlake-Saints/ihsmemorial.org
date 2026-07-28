@@ -9,4 +9,4 @@ images:
   - /assets/scottlawrencepicsnew.jpg
 gender: male
 ---
-Entry coming soon
+Scott passed away on July 7, 2026.
