@@ -7,6 +7,8 @@ categories:
   - class-of-1983
 tags:
   - diabetes
+images:
+  - /assets/pamelapaagpictures.jpg
 gender: female
 ---
 Entry coming soon
