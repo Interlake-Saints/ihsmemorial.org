@@ -11,4 +11,4 @@ images:
   - /assets/pamelapaagpictures.jpg
 gender: female
 ---
-Entry coming soon
+Pamela, aka Pamela Johnston Paag, died at home of natural causes on April 5, 2026. She was 61 years old.
