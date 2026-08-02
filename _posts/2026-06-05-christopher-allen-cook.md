@@ -8,5 +8,8 @@ categories:
 images:
   - /assets/chriscook2.jpg
 gender: male
+obituary: https://www.brooksidefuneral.com/obituaries/christopher-allen-cook
 ---
-Entry coming soon
+Christopher was an extraordinary man whose kindness touched countless lives. He consistently placed the needs of others before his own, offering a safe space, a listening ear, and a helping hand to anyone who needed one. A gifted artist and poet, Chris shared his heart through breathtaking artwork and deeply moving poetry that reflected the beauty, strength, and compassion he carried within him.
+
+Chris passed away in Ellensburg on June 5th, 2026. He was 45 years old.
