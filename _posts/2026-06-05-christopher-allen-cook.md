@@ -6,7 +6,7 @@ date: 2026-06-05
 categories:
   - class-of-1999
 images:
-  - /assets/chriscook2.jpg
+  - /assets/chriscookpics.jpg
 gender: male
 obituary: https://www.brooksidefuneral.com/obituaries/christopher-allen-cook
 ---
