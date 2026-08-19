@@ -79,8 +79,20 @@ Layout chain (Jekyll): `compress -> default -> page -> {post, category, classes,
 1. **Walking skeleton (parity first).** ✅ Done. Scaffold, permalinks for all file-backed pages, minimal base. URL parity 872/905 (gap = pagination + 2 redirect guards), zero spurious pages.
 2. **Post page.** ✅ Done (aggregation-dependent widgets deferred to slice 3). `post.liquid` chains through a ported `default` shell: head (favicons, per-layout CSS/JS selectors, SEO subset), sidebar (avatar, nav from the `navTabs` collection, contact links), topbar (breadcrumb + search box), footer, Disqus, license line. SCSS is compiled by dart-sass via an 11ty extension (`@use` resolves from `_sass/`, embedded Liquid values substituted), output matches Jekyll's CSS byte sizes. Filter shims added: `relative_url`, `absolute_url`, `postDate`, `slugify`. **Both parity checks green: URL 872/905, content 0/772 mismatches.** Visual A/B against the live page confirms the post body/sidebar/topbar/footer/Disqus match. Deferred to slice 3 (all need the posts collection): right panel (Recent Updates + Top Causes), related posts (Further Reading), prev/next nav, trending-tags in search panel.
 3. **Aggregation pages.** ✅ Done. home (paginated 25/page → `/`, `/page2..32/`), category (class + staff listings), classes (decade pages), tag (cause pages), categories index, tags index, archives. Data model in `eleventy.config.js`: `postsByDate`, `categoriesMap`, `tagsMap` (date desc), `categoryNames`, `trendingTags`/`trendingTagsAll`, `recentUpdates`. Git-based `last_modified_at` (`_11ty/data/gitlog.js`) replicates `_plugins/posts-lastmod-hook.rb` and drives the panel's Recent Updates. Panel (Recent Updates + Top Causes) ported. SEO description fixed to match jekyll-seo-tag (posts use excerpt, listing pages use site.description). **URL parity 903/905** (only the 2 cut redirect guards remain), **content parity 0/772**. Home verified visually against live: post previews + panel match, Recent Updates identical to production.
-4. **Recently-updated widget** is done (part of the panel above). Remaining: `search.json` index for the search box, port `feed.xml` to 11ty, sitemap; prev/next post nav + related posts on the post page (deferred aggregation-dependent widgets); social share.
-5. **CI + cutover.** Swap the Actions build step to 11ty, output to `_site`, verify parity against a fresh Jekyll build one last time, flip.
+4. **Search + feed + sitemap + post extras.** ✅ Done. JS generators under `_11ty/pages/`: `search.11ty.js` (→ `/assets/js/data/search.json`, 777 entries), `feed.11ty.js` (→ `/feed.xml`, carries the XML-escaping fix, valid XML), `sitemap.11ty.js` (→ `/sitemap.xml`, 901 urls vs Jekyll 902 — only `/admin/` intentionally omitted), `robots.11ty.js`. Post page: prev/next nav (`postNav` filter) and related posts (`relatedPosts` scoring filter) added; nav verified (Older=Kellie, Newer=none on the newest post). Social share confirmed dead on this site (only renders when comments are off; comments are on site-wide). Removed the replaced/cut source files: raw `assets/js/data/search.json`, `feed.xml`, `robots.txt`, and the PWA `app.js`/`sw.js`/`cache-list.js`. Date util (`_11ty/_lib/util.js`) stamps Pacific midnight for published dates to match Jekyll.
+5. **CI + cutover.** ✅ Workflow swapped to Node + `npm ci` + `npx @11ty/eleventy`, uploading `_site-11ty`. `fetch-depth: 0` retained for git-based last-modified. Takes effect on merge to main.
+
+## Final status
+
+- **URL parity: 903/905** — the only gap is the two `/assets/` and `/norobots/` redirect guards, deliberately cut (they redirect to 404).
+- **Content parity: 0/772** person-page mismatches (name, obituary text, images, obituary URL, causes).
+- **Build time: ~3.2s** (vs Jekyll ~100s).
+- Visual A/B confirmed on post, home, and cause pages.
+
+### Follow-ups (not blockers)
+- After 11ty is confirmed in production, the dead Jekyll files can be removed: `_layouts/`, `_includes/`, `_sass/`, `_plugins/`, `_config.yml`, `Gemfile`, `Gemfile.lock`, `.ruby-version`, `.bundler-version`, `assets/css/*.scss` front matter. Removing the Gemfile also ends the Ruby-gem Dependabot alerts.
+- The CodeQL `paths-ignore` still lists the now-deleted `app.js`/`sw.js` (harmless).
+- Rename the workflow file `jekyll-gh-pages.yml` for clarity (optional).
 
 ## Jekyll-isms that need 11ty shims
 

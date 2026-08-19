@@ -138,6 +138,41 @@ export default function (eleventyConfig) {
     return `${mon} ${day.padStart(2, " ")}, ${dt.getUTCFullYear()}`;
   });
 
+  // Prev/next post neighbors in date-desc order. Jekyll: page.previous = older,
+  // page.next = newer. In a date-desc list, older is the next index, newer the
+  // previous index.
+  eleventyConfig.addFilter("postNav", (postsByDate, url) => {
+    const i = postsByDate.findIndex((p) => p.url === url);
+    return {
+      previous: i >= 0 && i + 1 < postsByDate.length ? postsByDate[i + 1] : null, // older
+      next: i > 0 ? postsByDate[i - 1] : null, // newer
+    };
+  });
+
+  // Related posts (Chirpy scoring): tag match = 1, category match = 0.5; take
+  // top 3, then fill with the newest remaining posts.
+  eleventyConfig.addFilter("relatedPosts", (postsByDate, page) => {
+    const myTags = new Set(page.tags || []);
+    const myCats = new Set(page.categories || []);
+    const scored = [];
+    for (const p of postsByDate) {
+      if (p.url === page.url) continue;
+      let s = 0;
+      for (const t of p.data.tags || []) if (myTags.has(t)) s += 1;
+      for (const c of p.data.categories || []) if (myCats.has(c)) s += 0.5;
+      if (s > 0) scored.push({ p, s });
+    }
+    scored.sort((a, b) => b.s - a.s);
+    const out = scored.slice(0, 3).map((x) => x.p);
+    if (out.length < 3) {
+      for (const p of postsByDate) {
+        if (out.length >= 3) break;
+        if (p.url !== page.url && !out.includes(p)) out.push(p);
+      }
+    }
+    return out;
+  });
+
   // All layouts are ported now; only `compress` (a no-op wrapper in Jekyll)
   // maps to a passthrough base.
   eleventyConfig.addLayoutAlias("compress", "base.liquid");

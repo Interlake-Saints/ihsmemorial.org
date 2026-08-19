@@ -1,0 +1,17 @@
+{% assign nav = collections.postsByDate | postNav: page.url %}
+<div class="post-navigation d-flex justify-content-between">
+  {% if nav.previous %}
+  <a href="{{ nav.previous.url }}" class="btn btn-outline-primary" prompt="Older">
+    <p>{{ nav.previous.data.title }}</p>
+  </a>
+  {% else %}
+  <span class="btn btn-outline-primary disabled" prompt="Older"><p>-</p></span>
+  {% endif %}
+  {% if nav.next %}
+  <a href="{{ nav.next.url }}" class="btn btn-outline-primary" prompt="Newer">
+    <p>{{ nav.next.data.title }}</p>
+  </a>
+  {% else %}
+  <span class="btn btn-outline-primary disabled" prompt="Newer"><p>-</p></span>
+  {% endif %}
+</div>

@@ -53,12 +53,12 @@ layout: default
     </div>
   </div>
 </div>
-{% if site.disqus.comments and comments %}
 <div class="row">
   <div class="col-12 col-lg-11 col-xl-8">
     <div id="post-extend-wrapper" class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
-      {% include "disqus.liquid" %}
+      {% if site.disqus.comments and comments %}{% include "disqus.liquid" %}{% endif %}
+      {% include "related-posts.liquid" %}
+      {% include "post-nav.liquid" %}
     </div>
   </div>
 </div>
-{% endif %}

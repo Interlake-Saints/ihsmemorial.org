@@ -1,0 +1,21 @@
+{% assign related = collections.postsByDate | relatedPosts: page %}
+{% if related.size > 0 %}
+<div id="related-posts" class="mt-5 mb-2 mb-sm-4">
+  <h3 class="pt-2 mt-1 mb-4 ml-1" data-toc-skip>Further Reading</h3>
+  <div class="card-deck mb-4">
+    {% for post in related %}
+    <div class="card">
+      <a href="{{ post.url | relative_url }}">
+        <div class="card-body">
+          <span class="timeago small"><i class="unloaded">{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}</i></span>
+          <h3 class="pt-0 mt-1 mb-3" data-toc-skip>{{ post.data.title }}</h3>
+          <div class="text-muted small">
+            <p>{{ post.templateContent | strip_html | truncate: 200 }}</p>
+          </div>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

@@ -1,5 +1,5 @@
-# Build and deploy Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+# Build and deploy the Eleventy site to GitHub Pages.
+name: Deploy site to Pages
 
 on:
   push:
@@ -22,23 +22,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
         with:
+          # Full history: the git-based last_modified_at (Recent Updates, feed,
+          # sitemap) is derived from each post's commit dates.
           fetch-depth: 0
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          ruby-version: .ruby-version
-          bundler-cache: true
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
 
-      - name: Build with Jekyll
-        run: JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      - name: Build with Eleventy
+        run: npx @11ty/eleventy
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site-11ty
 
   deploy:
     environment:
