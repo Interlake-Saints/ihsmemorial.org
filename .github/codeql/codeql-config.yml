@@ -1,0 +1,13 @@
+name: "CodeQL config"
+
+# These JavaScript files are Jekyll (Chirpy theme) Liquid templates, not plain
+# JS. They carry `---` front matter or `{% ... %}` tags that CodeQL's JavaScript
+# extractor cannot parse, which surfaced as "syntax error" diagnostics on the
+# CodeQL tool status. Jekyll compiles them into valid JS under _site/ (and the
+# checked-in assets/js/dist/*.min.js bundles), which are scanned normally.
+paths-ignore:
+  - "app.js"
+  - "sw.js"
+  - "assets/js/*.min.js"
+  - "assets/js/_*.js"
+  - "assets/js/data/cache-list.js"
