@@ -51,6 +51,69 @@ export default function (eleventyConfig) {
       .filter((it) => it.data.navigate === true)
       .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)));
 
+  // --- Aggregation data model (Jekyll site.posts / site.categories / site.tags) ---
+  const isPost = (it) => it.inputPath.includes("/_posts/");
+  // Jekyll site.posts: reverse chronological; tie-break newer filename first.
+  const byDateDesc = (a, b) =>
+    b.date - a.date || (a.inputPath < b.inputPath ? 1 : -1);
+
+  eleventyConfig.addCollection("postsByDate", (api) =>
+    api.getAll().filter(isPost).sort(byDateDesc));
+
+  // site.categories[name] -> posts, each list sorted by sortKey (Chirpy).
+  eleventyConfig.addCollection("categoriesMap", (api) => {
+    const map = {};
+    for (const p of api.getAll().filter(isPost))
+      for (const c of p.data.categories || []) (map[c] ||= []).push(p);
+    for (const c of Object.keys(map))
+      map[c].sort((a, b) =>
+        String(a.data.sortKey || "").localeCompare(String(b.data.sortKey || "")));
+    return map;
+  });
+
+  // site.tags[name] -> posts (causes live in the `tags` field), date desc.
+  eleventyConfig.addCollection("tagsMap", (api) => {
+    const map = {};
+    for (const p of api.getAll().filter(isPost).sort(byDateDesc))
+      for (const t of p.data.tags || []) (map[t] ||= []).push(p);
+    return map;
+  });
+
+  // All causes, natural-sorted by name with counts (Jekyll tags layout).
+  eleventyConfig.addCollection("trendingTagsAll", (api) => {
+    const counts = {};
+    for (const p of api.getAll().filter(isPost))
+      for (const t of p.data.tags || []) counts[t] = (counts[t] || 0) + 1;
+    return Object.keys(counts)
+      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
+      .map((name) => ({ name, count: counts[name] }));
+  });
+
+  // Category names, alphabetical (Jekyll `site.categories | sort`).
+  eleventyConfig.addCollection("categoryNames", (api) => {
+    const set = new Set();
+    for (const p of api.getAll().filter(isPost))
+      for (const c of p.data.categories || []) set.add(c);
+    return [...set].sort();
+  });
+
+  // Panel: Recent Updates = 5 most-recently-modified posts (git lastmod).
+  eleventyConfig.addCollection("recentUpdates", (api) =>
+    api.getAll().filter(isPost)
+      .filter((p) => p.data.last_modified_at)
+      .sort((a, b) => (a.data.last_modified_at < b.data.last_modified_at ? 1 : -1))
+      .slice(0, 5));
+
+  // Panel: Top Causes = 10 tags by post count (desc), ties broken naturally.
+  eleventyConfig.addCollection("trendingTags", (api) => {
+    const counts = {};
+    for (const p of api.getAll().filter(isPost))
+      for (const t of p.data.tags || []) counts[t] = (counts[t] || 0) + 1;
+    return Object.keys(counts)
+      .sort((a, b) => counts[b] - counts[a] || a.localeCompare(b))
+      .slice(0, 10);
+  });
+
   // Match kramdown's typography (smart quotes, -- -> en-dash, ... -> ellipsis)
   // so the rendered obituary prose matches the Jekyll output.
   eleventyConfig.amendLibrary("md", (md) => md.set({ typographer: true }));
@@ -67,11 +130,17 @@ export default function (eleventyConfig) {
   // Jekyll's default slugify (used for category/cause hrefs).
   eleventyConfig.addFilter("slugify", (s) =>
     String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""));
+  // Jekyll date_format.post.long = "%b %e, %Y" (day space-padded): "Jul  7, 2026".
+  eleventyConfig.addFilter("dateLong", (d) => {
+    const dt = d instanceof Date ? d : new Date(d);
+    const mon = dt.toLocaleDateString("en-US", { month: "short", timeZone: "UTC" });
+    const day = dt.toLocaleDateString("en-US", { day: "numeric", timeZone: "UTC" });
+    return `${mon} ${day.padStart(2, " ")}, ${dt.getUTCFullYear()}`;
+  });
 
-  // `post` and `default` are now real ported layouts. Aggregation layouts stay
-  // aliased to the minimal base until slice 3.
-  ["page", "category", "classes", "tag", "tags", "home", "categories", "archives", "compress"]
-    .forEach((name) => eleventyConfig.addLayoutAlias(name, "base.liquid"));
+  // All layouts are ported now; only `compress` (a no-op wrapper in Jekyll)
+  // maps to a passthrough base.
+  eleventyConfig.addLayoutAlias("compress", "base.liquid");
 
   return {
     dir: {

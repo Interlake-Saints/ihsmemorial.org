@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<div id="page-category">
+  <h1 class="pl-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    {{ title }}
+  </h1>
+  <ul class="post-content pl-0">
+    {% for category in categories %}
+    {% assign death_count = collections.categoriesMap[category] | size %}
+    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+      <a href="/{{ category }}">{{ category | replace: "-", " " | replace: "class", "Class" }}</a>
+      <span class="dash flex-grow-1"></span>
+      <span class="text-muted small">{{ death_count }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

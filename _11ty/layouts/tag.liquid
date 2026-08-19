@@ -1,0 +1,22 @@
+---
+layout: page
+---
+{%- comment -%} Cause pages: key the tag map on the cause `id` (posts tag by id). {%- endcomment -%}
+{% assign posts = collections.tagsMap[id] %}
+<div id="page-tag">
+  <h1 class="pl-lg-2">
+    <i class="fa fa-tag fa-fw text-muted"></i>
+    {{ title }}
+    <span class="lead text-muted pl-2">{{ posts | size }}</span>
+  </h1>
+  {{ content }}
+  <ul class="post-content pl-0">
+    {% for post in posts %}
+    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+      <a href="{{ post.url | relative_url }}">{{ post.data.title }}</a>
+      <span class="dash flex-grow-1"></span>
+      <span class="text-muted small">{% if post.data.dateUnknown %}Unknown{% else %}{{ post.date | dateLong }}{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

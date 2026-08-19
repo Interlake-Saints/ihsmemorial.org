@@ -1,10 +1,15 @@
 ---
 layout: home
+pagination:
+  data: collections.postsByDate
+  size: 25
+  alias: postlist
+permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
+eleventyComputed:
+  title: null
 ---
 
-{% capture url %} {% assign email = site.social.email | split: '@' %}
-javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1]
-}}'].join('@') {% endcapture %}
+{% capture url %}{% assign email = site.social.email | split: '@' %}javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'){% endcapture %}
 <h1>Welcome</h1>
 <div class="post-meta text-muted d-flex flex-column">
   <div>
@@ -14,8 +19,7 @@ javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1]
 <p>
   This site is a memorial wall dedicated to all the IHS graduates and staff who
   have passed away throughout the years. If you have an addition or update, then
-  please {% if url %}<a href="{{ url }}" aria-label="email">contact me</a>{%
-  else %}contact me{% endif %}. Note: There are comments under each entry, where
+  please {% if url %}<a href="{{ url }}" aria-label="email">contact me</a>{% else %}contact me{% endif %}. Note: There are comments under each entry, where
   people have often left memories. You can scroll down to the bottom of the entry
   to see any comments.
 </p>

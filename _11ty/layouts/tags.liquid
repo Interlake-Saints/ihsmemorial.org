@@ -1,0 +1,11 @@
+---
+layout: page
+---
+<div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
+  {% assign sorted_tags = collections.trendingTagsAll %}
+  {% for t in sorted_tags %}
+  <div>
+    <a class="tag" href="{{ site.baseurl }}/tags/{{ t.name | slugify | url_encode }}/">{{ t.name }}<span class="text-muted">{{ t.count }}</span></a>
+  </div>
+  {% endfor %}
+</div>

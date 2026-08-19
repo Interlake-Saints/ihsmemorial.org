@@ -1,8 +1,16 @@
 {%- comment -%}
-  Subset of jekyll-seo-tag: description (from the post body), canonical, Open
-  Graph, Twitter card. JSON-LD and finer parity are a later refinement.
+  Subset of jekyll-seo-tag description logic:
+    page.description  ->  (posts) first-paragraph excerpt  ->  site.description
+  Aggregation/listing pages fall through to site.description (matches Jekyll),
+  rather than deriving from generated layout markup.
 {%- endcomment -%}
-{% assign seo_desc = description | default: content | strip_html | strip_newlines | truncate: 200 %}
+{% if description %}
+  {% assign seo_desc = description %}
+{% elsif layout == "post" %}
+  {% assign seo_desc = content | strip_html | strip_newlines | strip %}
+{% else %}
+  {% assign seo_desc = site.description %}
+{% endif %}
 <meta name="description" content="{{ seo_desc | escape }}" />
 <link rel="canonical" href="{{ page.url | absolute_url }}" />
 <meta property="og:title" content="{{ title | escape }}" />

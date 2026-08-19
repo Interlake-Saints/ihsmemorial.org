@@ -1,0 +1,28 @@
+<div id="panel-wrapper" class="col-xl-3 pl-2 text-muted topbar-down">
+  <div class="access">
+    {% assign update_list = collections.recentUpdates %}
+    {% if update_list.size > 0 %}
+    <div id="access-lastmod" class="post">
+      <span>{{- site.data.label.panel.lastmod -}}</span>
+      <ul class="post-content pl-0 pb-1 ml-1 mt-2">
+        {% for post in update_list %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% assign trending_tags = collections.trendingTags %}
+    {% if trending_tags.size > 0 %}
+    <div id="access-tags">
+      <span>{{- site.data.label.panel.trending_tags -}}</span>
+      <div class="d-flex flex-wrap mt-3 mb-1 mr-3">
+        {% for tag_name in trending_tags %}
+        {% assign url = tag_name | slugify | url_encode | prepend: "/cause/" | append: "/" %}
+        <a class="post-tag" href="{{ url | relative_url }}">{{ tag_name }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>

@@ -13,5 +13,12 @@ export default {
       const slug = data.page.fileSlug.replace(/-+$/, "");
       return `/${cats}/${slug}/`;
     },
+    // Git-derived last-modified (matches _plugins/posts-lastmod-hook.rb):
+    // set only when the post has more than one commit.
+    last_modified_at: (data) => {
+      const key = data.page.inputPath.replace(/^\.\//, "");
+      const e = data.gitlog[key];
+      return e && e.count > 1 ? e.lastmod : null;
+    },
   },
 };
