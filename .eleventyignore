@@ -1,0 +1,13 @@
+node_modules
+_site
+_site-11ty
+_layouts
+_includes
+_drafts
+vendor
+docs
+admin
+README.md
+feed.xml
+sw.js
+app.js

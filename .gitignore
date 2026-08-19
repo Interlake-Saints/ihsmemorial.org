@@ -4,5 +4,9 @@ _site/
 .jekyll-metadata
 links.log
 
+# Eleventy migration (branch: migrate/eleventy)
+node_modules/
+_site-11ty/
+
 # Local Netlify folder
 .netlify

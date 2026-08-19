@@ -1,0 +1,15 @@
+{
+  "name": "ihsmemorial.org",
+  "version": "1.0.0",
+  "description": "Interlake High School Memorial Wall — Eleventy build (migration in progress on migrate/eleventy)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "parity": "bin/parity-check.sh"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
