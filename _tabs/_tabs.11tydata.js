@@ -3,7 +3,6 @@
 //   - permalink without trailing "/" -> flat .html      (e.g. /class-of-1982.html)
 //   - no permalink                   -> collection default /tabs/:slug/
 export default {
-  tags: ["tabs"],
   eleventyComputed: {
     permalink: (data) => {
       const p = data.permalink;

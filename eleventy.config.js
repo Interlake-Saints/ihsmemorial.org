@@ -8,10 +8,27 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("admin");
 
-  // Existing content carries Jekyll layout names in front matter. During the
-  // walking-skeleton phase every layout resolves to a single minimal base so we
-  // can prove URL parity before porting any real design.
-  ["post", "page", "category", "classes", "tag", "tags",
+  // Match kramdown's typography (smart quotes, -- -> en-dash, ... -> ellipsis)
+  // so the rendered obituary prose matches the Jekyll output.
+  eleventyConfig.amendLibrary("md", (md) => md.set({ typographer: true }));
+
+  // Jekyll-ism shims that liquidjs lacks.
+  // Jekyll's `date: "%b %d, %Y"` -> "Jul 07, 2026". Parse as UTC so a bare
+  // YYYY-MM-DD date doesn't shift a day in the local zone.
+  eleventyConfig.addFilter("postDate", (d) => {
+    const dt = d instanceof Date ? d : new Date(d);
+    return dt.toLocaleDateString("en-US", {
+      month: "short", day: "2-digit", year: "numeric", timeZone: "UTC",
+    });
+  });
+  // Jekyll's default slugify (used for category/cause hrefs).
+  eleventyConfig.addFilter("slugify", (s) =>
+    String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""));
+
+  // Layouts still in the walking-skeleton phase resolve to the minimal base.
+  // `post` is now a real ported layout (_11ty/layouts/post.liquid), so it is
+  // no longer aliased here.
+  ["page", "category", "classes", "tag", "tags",
    "home", "categories", "archives", "default", "compress"]
     .forEach((name) => eleventyConfig.addLayoutAlias(name, "base.liquid"));
 

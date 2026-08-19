@@ -76,8 +76,8 @@ Layout chain (Jekyll): `compress -> default -> page -> {post, category, classes,
 
 ## Port sequence (each slice ends green on parity + visual spot-check)
 
-1. **Walking skeleton (parity first).** Scaffold 11ty, permalinks for all file-backed pages, minimal base layout. Get `bin/parity-check.sh` to zero URL diff. *No design yet.* This de-risks the riskiest thing before investing in templates.
-2. **Post page.** Full port of `post` + `default`/`page` chain, sidebar, head, topbar, footer. Port the vendored CSS as-is.
+1. **Walking skeleton (parity first).** ✅ Done. Scaffold, permalinks for all file-backed pages, minimal base. URL parity 872/905 (gap = pagination + 2 redirect guards), zero spurious pages.
+2. **Post page.** 🚧 Content done, chrome pending. `_11ty/layouts/post.liquid` renders the real post body (name, date, obituary text, obituary link, images, categories, causes) with `site.js` globals and `postDate`/`slugify` filter shims + markdown-it typographer. **Tier-2 content parity: 0 mismatches across all 772 person pages** (`bin/content-parity.mjs`). Still to do: port the `default`/`page` chrome (head/SEO, sidebar, topbar, footer, CSS) so pages are styled, and Disqus/related/prev-next.
 3. **Aggregation pages.** category (class listings), classes (decade), causes/tags, categories index, archives, home. These are the Liquid loops that need custom filters/globals shimmed.
 4. **Search + feed + sitemap.** Regenerate `search.json`, port `feed.xml`, sitemap.
 5. **Extras.** prev/next, related, recently-updated, social share, Disqus, lazy-load.

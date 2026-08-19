@@ -2,7 +2,6 @@
 // 772 posts have one category (class-of-YYYY or staff); 5 have two, which Jekyll
 // joins with "/". fileSlug is the filename minus the YYYY-MM-DD- date prefix.
 export default {
-  tags: ["posts"],
   eleventyComputed: {
     permalink: (data) => {
       const cats = (data.categories || []).join("/");
