@@ -1,0 +1,39 @@
+<div id="sidebar" class="d-flex flex-column align-items-end">
+  <div class="profile-wrapper text-center">
+    <div id="avatar">
+      <a href="{{ '/' | relative_url }}" aria-label="Home" class="mx-auto">
+        <img src="{{ site.avatar | relative_url }}" alt="avatar" onerror="this.style.display='none'">
+      </a>
+    </div>
+    <div class="site-title mt-3">
+      <a href="{{ '/' | relative_url }}">{{- site.title -}}</a>
+    </div>
+    <div class="site-subtitle font-italic">{{- site.tagline -}}</div>
+  </div>
+
+  <ul class="w-100">
+    <li class="nav-item{% if layout == 'home' %} active{% endif %}">
+      <a href="{{ '/' | relative_url }}" class="nav-link"><span>HOME</span></a>
+    </li>
+    {% for tab in collections.navTabs %}
+      <li class="nav-item{% if tab.url == page.url %} active{% endif %}">
+        <a href="{{ tab.url | relative_url }}" class="nav-link"><span>{{ tab.data.title | upcase }}</span></a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center">
+    {% for entry in site.data.contact %}
+      {% capture url %}
+        {%- if entry.type == 'github' -%}https://github.com/{{ site.github.username }}
+        {%- elsif entry.type == 'twitter' -%}https://x.com/{{ site.twitter.username }}
+        {%- elsif entry.type == 'email' -%}{% assign email = site.social.email | split: '@' %}javascript:void(function(){var a='{{ email[0] }}',b='{{ email[1] }}';location.href='mai'+'lto:'+a+'%40'+b}())
+        {%- elsif entry.type == 'rss' -%}{{ "/feed.xml" | relative_url }}
+        {%- else -%}{{ entry.url }}{%- endif -%}
+      {% endcapture %}
+      <a href="{{ url | strip }}" aria-label="{{ entry.type }}"{% unless entry.noblank %} target="_blank" rel="noopener"{% endunless %}>
+        <i class="{{ entry.icon }}"></i>
+      </a>
+    {% endfor %}
+  </div>
+</div>

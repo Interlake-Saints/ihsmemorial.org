@@ -1,0 +1,16 @@
+{%- comment -%}
+  Subset of jekyll-seo-tag: description (from the post body), canonical, Open
+  Graph, Twitter card. JSON-LD and finer parity are a later refinement.
+{%- endcomment -%}
+{% assign seo_desc = description | default: content | strip_html | strip_newlines | truncate: 200 %}
+<meta name="description" content="{{ seo_desc | escape }}" />
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+<meta property="og:title" content="{{ title | escape }}" />
+<meta property="og:description" content="{{ seo_desc | escape }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:site_name" content="{{ site.title | escape }}" />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ title | escape }}" />
+<meta name="twitter:description" content="{{ seo_desc | escape }}" />
+{% if site.twitter.username %}<meta name="twitter:site" content="@{{ site.twitter.username }}" />{% endif %}
