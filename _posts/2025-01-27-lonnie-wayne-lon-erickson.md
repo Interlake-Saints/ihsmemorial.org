@@ -19,4 +19,6 @@ Lon was mostly known for his work with the Unlimited NewsJournal, a monthly hydr
 
 Outside of the world of hydro, Lon worked for many years in management at Lamont's Apparel stores in Washington and Alaska. After Lamont's closed, he finished his working career as a sales representative/operations manager. He also cherished times with his father, frequently taking day trips with him. And he enjoyed dinners out with his sister and brother. The three of them were very close.
 
-Sadly, Lon passed away in Bellevue on November 20, 2024, after a brief, private battle with cancer. He was 68 years old.
+Lon passed away in Bellevue on November 20, 2024, after a brief, private battle with cancer. He was 68 years old.
+
+Sadly, Lon is not the only member of his family on this page. [His younger brother Dennis passed away in 2026](https://ihsmemorial.org/class-of-1976/dennis-wayde-dee-erickson/).
