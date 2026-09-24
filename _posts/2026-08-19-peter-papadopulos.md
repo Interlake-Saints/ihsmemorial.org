@@ -20,4 +20,4 @@ Peter met his wife Pat on the tennis courts. They were married in 1975 and raise
 
 He leaves behind a loving family: his wife Pat, daughter Patty Tacklind, sons Alex and Nick Papadopulos, sisters Mia Simonson and Camille Winn and their spouses, and seven very special grandchildren, and so many nieces and nephews he cared so deeply about. He loved them all and they loved him back.
 
-Peter passed away on August 19, 2026, in Mount Vernon. He was 73 years old.
+Sadly, Peter passed away on August 19, 2026, in Mount Vernon. He was 73 years old.
