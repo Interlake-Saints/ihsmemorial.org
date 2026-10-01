@@ -9,4 +9,4 @@ images:
   - /assets/briandjohnsonpics.jpg
 gender: male
 ---
-Brian passed away on August 16, 2025, in Gig Harbor, WA.
+Brian passed away on August 16, 2026, in Gig Harbor, WA.
