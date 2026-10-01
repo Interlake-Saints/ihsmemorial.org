@@ -2,7 +2,7 @@
 layout: post
 title: "Brian Donald Johnson "
 sortKey: Johnson, Brian
-date: 2025-08-16
+date: 2026-08-16
 categories:
   - class-of-1974
 images:
