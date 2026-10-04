@@ -9,7 +9,7 @@ gem "logger"
 
 group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.1"
-  gem "jekyll-redirect-from", "~> 0.16"
+  gem "jekyll-redirect-from", "~> 0.17"
   gem "jekyll-seo-tag", "~> 2.9"
   gem "jekyll-sitemap", "~> 1.4"
 end
